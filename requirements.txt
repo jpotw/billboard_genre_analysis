@@ -1,0 +1,4 @@
+pandas
+spotipy
+urllib3
+requests
