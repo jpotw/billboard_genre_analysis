@@ -1,0 +1,100 @@
+date,rank,song_title,artist,genres,simplified_genre
+2019-11-23,1.0,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2019-11-23,2.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2019-11-23,3.0,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2019-11-23,4.0,Good As Hell,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
+2019-11-23,5.0,Memories,Maroon 5,['pop'],Pop
+2019-11-23,6.0,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
+2019-11-23,7.0,No Guidance,Chris Brown ,"['r&b', 'rap']",R&B
+2019-11-23,8.0,Lose You To Love Me,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2019-11-23,9.0,Panini,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
+2019-11-23,10.0,"10,000 Hours",Dan + Shay ,"['contemporary country', 'country', 'country road']",Country
+2019-11-23,11.0,Even Though I'm Leaving,Luke Combs,"['contemporary country', 'country']",Country
+2019-11-23,12.0,HIGHEST IN THE ROOM,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2019-11-23,13.0,Bad Guy,Billie Eilish,"['art pop', 'pop']",Pop
+2019-11-23,14.0,Trampoline,SHAED,['electropop'],Pop
+2019-11-23,15.0,Beautiful People,Ed Sheeran ,[],기타
+2019-11-23,16.0,Hot,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
+2019-11-23,17.0,Ran$om,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
+2019-11-23,18.0,Only Human,Jonas Brothers,"['boy band', 'pop']",Pop
+2019-11-23,19.0,Woah,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2019-11-23,20.0,One Man Band,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,21.0,Old Town Road,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
+2019-11-23,22.0,Bandit,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2019-11-23,23.0,Dance Monkey,Tones And I,['australian pop'],Pop
+2019-11-23,24.0,I Don't Care,Ed Sheeran ,[],기타
+2019-11-23,25.0,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2019-11-23,26.0,Lover,Taylor Swift,['pop'],Pop
+2019-11-23,27.0,Roxanne,Arizona Zervas,"['indie pop rap', 'pop rap', 'rhode island rap']",Pop
+2019-11-23,28.0,On Chill,Wale ,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Pop
+2019-11-23,29.0,Talk,Khalid,"['pop', 'pop r&b']",Pop
+2019-11-23,30.0,Goodbyes,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2019-11-23,31.0,How Do You Sleep?,Sam Smith,"['pop', 'uk pop']",Pop
+2019-11-23,32.0,Sucker,Jonas Brothers,"['boy band', 'pop']",Pop
+2019-11-23,33.0,Playing Games,Summer Walker,"['r&b', 'rap']",R&B
+2019-11-23,34.0,Baby,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2019-11-23,35.0,Money In The Grave,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2019-11-23,36.0,Heat,Chris Brown ,"['r&b', 'rap']",R&B
+2019-11-23,37.0,Suge,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-11-23,38.0,Follow God,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
+2019-11-23,39.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",Pop
+2019-11-23,40.0,One Thing Right,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2019-11-23,41.0,Dancing With A Stranger,Sam Smith ,"['pop', 'uk pop']",Pop
+2019-11-23,42.0,Graveyard,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2019-11-23,43.0,Time,NF,"['hip hop', 'pop rap']",Hip Hop
+2019-11-23,44.0,223's,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
+2019-11-23,45.0,Hot Girl Bummer,blackbear,['pop'],Pop
+2019-11-23,46.0,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2019-11-23,47.0,Juicy,Doja Cat ,"['dance pop', 'pop']",Pop
+2019-11-23,48.0,The Bones,Maren Morris,"['classic texas country', 'contemporary country']",Country
+2019-11-23,49.0,Take What You Want,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2019-11-23,50.0,My Type,Saweetie,"['cali rap', 'trap queen']",Hip Hop
+2019-11-23,51.0,Camelot,NLE Choppa,"['memphis hip hop', 'rap']",Hip Hop
+2019-11-23,52.0,VIBEZ,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-11-23,53.0,Remember You Young,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,54.0,What If I Never Get Over You,Lady Antebellum,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']",Country
+2019-11-23,55.0,Liar,Camila Cabello,"['dance pop', 'pop']",Pop
+2019-11-23,56.0,Heart On Ice,Rod Wave,['florida rap'],Hip Hop
+2019-11-23,57.0,Prayed For You,Matt Stell,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']",Country
+2019-11-23,58.0,Every Little Thing,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,59.0,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj ","['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2019-11-23,61.0,Good Vibes,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,62.0,Stuck In A Dream,Lil Mosey ,"['melodic rap', 'rap conscient']",Hip Hop
+2019-11-23,63.0,Nice To Meet Ya,Niall Horan,['pop'],Pop
+2019-11-23,64.0,Baby Sitter,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-11-23,65.0,Kinfolks,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2019-11-23,66.0,Enemies,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2019-11-23,67.0,BOP,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-11-23,68.0,Hate Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
+2019-11-23,69.0,Make No Sense,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2019-11-23,70.0,We Were,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,71.0,Heartache Medication,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,72.0,Better Together,Luke Combs,"['contemporary country', 'country']",Country
+2019-11-23,73.0,Lonely Child,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2019-11-23,74.0,Everything I Wanted,Billie Eilish,"['art pop', 'pop']",Pop
+2019-11-23,75.0,Tip Of My Tongue,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,76.0,Ridin' Roads,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,77.0,I Don't Know About You,Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,78.0,Tusa,Karol G ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
+2019-11-23,79.0,Slow Dancing In The Dark,Joji,['viral pop'],Pop
+2019-11-23,80.0,All The Good Girls Go To Hell,Billie Eilish,"['art pop', 'pop']",Pop
+2019-11-23,81.0,Yellow Hearts,Ant Saunders,['chill r&b'],R&B
+2019-11-23,82.0,It All Comes Out In The Wash,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']",Country
+2019-11-23,83.0,Jerry Sprunger,Tory Lanez ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
+2019-11-23,84.0,La Cancion,J Balvin ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
+2019-11-23,85.0,Hot Shower,Chance The Rapper ,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-11-23,86.0,Self Control,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2019-11-23,87.0,Look At Her Now.,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2019-11-23,88.0,Hot Now,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2019-11-23,89.0,homecoming queen?,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2019-11-23,90.0,Show Me Love,Alicia Keys ,"['neo soul', 'pop', 'r&b']",Pop
+2019-11-23,91.0,Easy,DaniLeigh ,"['pop r&b', 'r&b', 'rap latina']",Pop
+2019-11-23,92.0,Valentino,24kGoldn,"['cali rap', 'pop rap']",Hip Hop
+2019-11-23,93.0,What Happens In A Small Town,Brantley Gilbert + Lindsay Ell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,94.0,Lalala,Y2K ,"['pop rap', 'viral rap']",Pop
+2019-11-23,95.0,Living,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-11-23,96.0,Somebody,"Internet Money, Lil Tecca ","['pop rap', 'trap']",Pop
+2019-11-23,97.0,Come Thru,Summer Walker ,"['r&b', 'rap']",R&B
+2019-11-23,98.0,Start Wit Me,Roddy Ricch ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-11-23,99.0,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna ","['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",Reggae
+2019-11-23,100.0,Immortal,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop

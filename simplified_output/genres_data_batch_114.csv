@@ -1,0 +1,99 @@
+date,rank,song_title,artist,genres,simplified_genre
+2018-03-03,1.0,God's Plan,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-03-03,2.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
+2018-03-03,3.0,Finesse,Bruno Mars ,"['dance pop', 'pop']",Pop
+2018-03-03,4.0,Havana,Camila Cabello ,"['dance pop', 'pop']",Pop
+2018-03-03,5.0,Look Alive,BlocBoy JB ,"['memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",Hip Hop
+2018-03-03,6.0,Rockstar,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-03-03,7.0,All The Stars,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2018-03-03,8.0,Meant To Be,Bebe Re,"['dance pop', 'pop']",Pop
+2018-03-03,9.0,Pray For Me,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-03-03,10.0,Stir Fry,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-03-03,11.0,New Rules,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2018-03-03,12.0,Let You Down,NF,"['hip hop', 'pop rap']",Hip Hop
+2018-03-03,13.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
+2018-03-03,14.0,Him & I,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
+2018-03-03,15.0,Love.,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2018-03-03,16.0,Thunder,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2018-03-03,17.0,Bad At Love,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2018-03-03,18.0,Mine,Bazzi,['pop'],Pop
+2018-03-03,19.0,I Fall Apart,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-03-03,20.0,Lights Down Low,MA,"['singer-songwriter pop', 'teen pop', 'viral pop']",Pop
+2018-03-03,21.0,How Long,Charlie Puth,"['pop', 'viral pop']",Pop
+2018-03-03,22.0,MotorSport,"Migos, Nicki Minaj ","['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-03-03,24.0,Shape Of You,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
+2018-03-03,25.0,Gummo,6i,['emo rap'],Hip Hop
+2018-03-03,26.0,Bartier Cardi,Cardi B ,"['pop', 'rap']",Pop
+2018-03-03,27.0,No Limit,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
+2018-03-03,28.0,Never Be The Same,Camila Cabello,"['dance pop', 'pop']",Pop
+2018-03-03,29.0,Wolves,Selena Gomez ,"['pop', 'post-teen pop']",Pop
+2018-03-03,30.0,Say Something,Justin Timberlake ,"['dance pop', 'pop']",Pop
+2018-03-03,31.0,Young Dumb & Broke,Khalid,"['pop', 'pop r&b']",Pop
+2018-03-03,32.0,Feel It Still,Portugal. The Man,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock']",Rock
+2018-03-03,34.0,River,Eminem ,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
+2018-03-03,35.0,Outside Today,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2018-03-03,36.0,Marry Me,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,37.0,Sky Walker,Miguel ,"['r&b', 'urban contemporary']",R&B
+2018-03-03,38.0,Plain Jane,A$AP Ferg ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-03-03,39.0,Wait,Maroon 5,['pop'],Pop
+2018-03-03,40.0,Ric Flair Drip,Offset ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-03-03,41.0,Sorry Not Sorry,Demi Lovato,"['pop', 'post-teen pop']",Pop
+2018-03-03,42.0,You Make It Easy,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,43.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
+2018-03-03,44.0,Five More Minutes,Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,45.0,Too Good At Goodbyes,Sam Smith,"['pop', 'uk pop']",Pop
+2018-03-03,46.0,New Freezer,Rich The Kid ,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",Hip Hop
+2018-03-03,47.0,Gucci Gang,Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-03-03,48.0,Lemon,N*E*R*D ,"['hip hop', 'virginia hip hop']",Hip Hop
+2018-03-03,49.0,I Get The Bag,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-03-03,50.0,Let Me Go,Hailee Steinfeld ,['pop'],Pop
+2018-03-03,51.0,Good Old Days,Macklemore ,"['pop rap', 'seattle hip hop']",Pop
+2018-03-03,52.0,Walk It Talk It,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-03-03,53.0,Broken Halos,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2018-03-03,54.0,Heaven,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
+2018-03-03,55.0,X,"ScHoolboy Q, 2 Chainz ","['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-03-03,56.0,El Farsante,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+2018-03-03,57.0,Dura,Daddy Yankee,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
+2018-03-03,58.0,Friends,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2018-03-03,59.0,Written In The Sand,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,60.0,Whatever It Takes,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2018-03-03,61.0,Pick It Up,Famous De,"['chicago rap', 'drill', 'rap', 'trap']",Hip Hop
+2018-03-03,62.0,Narcos,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-03-03,63.0,Most People Are Good,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,64.0,You Broke Up With Me,Walker Hayes,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,65.0,Paramedic!,SOB ,['cali rap'],Hip Hop
+2018-03-03,66.0,Betrayed,Lil ,['cloud rap'],Hip Hop
+2018-03-03,67.0,Yours,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,68.0,The Ways,Khalid ,"['pop', 'pop r&b']",Pop
+2018-03-03,69.0,Plug Walk,Rich The Kid,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",Hip Hop
+2018-03-03,70.0,All On Me,Devin Dawson,"['contemporary country', 'country pop', 'country road', 'modern country rock']",Country
+2018-03-03,71.0,Tell Me You Love Me,Demi Lovato,"['pop', 'post-teen pop']",Pop
+2018-03-03,72.0,La Modelo,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+2018-03-03,73.0,Nowadays,Lil Skies ,['melodic rap'],Hip Hop
+2018-03-03,74.0,No Smoke,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2018-03-03,75.0,Hardaway,Derez De'Shon,"['atl trap', 'memphis hip hop', 'trap']",Hip Hop
+2018-03-03,76.0,Echame La Culpa,Luis Fonsi ,"['latin pop', 'puerto rican pop']",Pop
+2018-03-03,77.0,Singles You Up,Jordan Davis,['contemporary country'],Country
+2018-03-03,78.0,Red Roses,Lil Skies ,['melodic rap'],Hip Hop
+2018-03-03,79.0,When We,Tank,"['pop r&b', 'r&b']",Pop
+2018-03-03,80.0,The Long Way,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,81.0,Beautiful Trauma,P!nk,"['dance pop', 'pop']",Pop
+2018-03-03,82.0,KEKE,6i,['emo rap'],Hip Hop
+2018-03-03,83.0,Big Shot,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2018-03-03,84.0,Candy Paint,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-03-03,85.0,This Is Me,Keala Settle ,"['broadway', 'hollywood', 'show tunes']",기타
+2018-03-03,86.0,At The Club,Jacquees ,"['atl hip hop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
+2018-03-03,87.0,Legends,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2018-03-03,88.0,Notice Me,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-03-03,89.0,Codeine Dreaming,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
+2018-03-03,90.0,I Like Me Better,Lauv,['pop'],Pop
+2018-03-03,91.0,End Game,Taylor Swift ,['pop'],Pop
+2018-03-03,92.0,For You (Fifty Shades Freed),Liam Payne ,['pop'],Pop
+2018-03-03,93.0,Get You,Daniel Caesar ,['canadian contemporary r&b'],R&B
+2018-03-03,94.0,Corazon,Maluma ,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Pop
+2018-03-03,95.0,Rock,Plies,"['dirty south rap', 'miami hip hop', 'southern hip hop', 'trap']",Hip Hop
+2018-03-03,96.0,IDGAF,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2018-03-03,97.0,Rubbin Off The Paint,YBN Nahmir,"['alabama rap', 'rap', 'trap']",Hip Hop
+2018-03-03,98.0,One Foot,WALK THE MOON,"['dance rock', 'modern alternative rock', 'modern rock', 'neo mellow', 'pop rock']",Rock
+2018-03-03,99.0,Female,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-03-03,100.0,Mayores,Becky G ,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",Pop

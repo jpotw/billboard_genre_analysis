@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres,simplified_genre
+2016-01-30,1.0,Sorry,Justin Bieber,"['canadian pop', 'pop']",Pop
+2016-01-30,2.0,Hello,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
+2016-01-30,3.0,Love Yourself,Justin Bieber,"['canadian pop', 'pop']",Pop
+2016-01-30,4.0,Stressed Out,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2016-01-30,5.0,Same Old Love,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2016-01-30,6.0,Here,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-01-30,7.0,Hotline Bling,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-01-30,8.0,Stitches,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2016-01-30,9.0,Like I'm Gonna Lose You,Meghan Trainor ,"['hip pop', 'pop']",Pop
+2016-01-30,10.0,What Do You Mean?,Justin Bieber,"['canadian pop', 'pop']",Pop
+2016-01-30,11.0,Roses,The Chainsmokers ,['pop'],Pop
+2016-01-30,12.0,Jumpman,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-01-30,13.0,Don't,Bryson Tiller,"['kentucky hip hop', 'r&b', 'rap']",Hip Hop
+2016-01-30,14.0,The Hills,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-01-30,15.0,In The Night,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-01-30,16.0,White Iverson,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2016-01-30,17.0,Antidote,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2016-01-30,18.0,679,Fetty Wap ,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,19.0,"Me, Myself & I",G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
+2016-01-30,20.0,I Know What You Did Last Summer,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2016-01-30,21.0,On My Mind,Ellie Goulding,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
+2016-01-30,22.0,Cake By The Ocean,DNCE,"['dance pop', 'pop']",Pop
+2016-01-30,23.0,My House,Flo Rida,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",Pop
+2016-01-30,24.0,Die A Happy Man,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,25.0,Ex's & Oh's,Elle King,['country'],Country
+2016-01-30,26.0,Say It,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
+2016-01-30,27.0,Can't Feel My Face,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-01-30,28.0,Wildest Dreams,Taylor Swift,['pop'],Pop
+2016-01-30,29.0,Watch Me,Silento,"['chicago bop', 'pinoy hip hop']",Hip Hop
+2016-01-30,30.0,Confident,Demi Lovato,"['pop', 'post-teen pop']",Pop
+2016-01-30,31.0,Hide Away,Daya,"['alt z', 'pop']",Pop
+2016-01-30,32.0,Lean On,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
+2016-01-30,33.0,Break Up In A Small Town,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2016-01-30,34.0,One Call Away,Charlie Puth,"['pop', 'viral pop']",Pop
+2016-01-30,35.0,Perfect,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Pop
+2016-01-30,36.0,Down In The DM,Yo Gotti ,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+2016-01-30,37.0,Hands To Myself,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2016-01-30,38.0,See You Again,Wiz Khalifa ,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,39.0,Trap Queen,Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,40.0,Lazarus,David Bowie,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",Rock
+2016-01-30,41.0,When We Were Young,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
+2016-01-30,42.0,Space Oddity,David Bowie,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",Rock
+2016-01-30,43.0,No Role Modelz,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2016-01-30,44.0,Exchange,Bryson Tiller,"['kentucky hip hop', 'r&b', 'rap']",Hip Hop
+2016-01-30,45.0,Under Pressure,Queen ,"['classic rock', 'glam rock', 'rock']",Rock
+2016-01-30,46.0,Stand By You,Rachel Platten,"['post-teen pop', 'viral pop']",Pop
+2016-01-30,47.0,Again,Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,48.0,Home Alone Tonight,Luke Bryan ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,49.0,Locked Away,R. City ,"['reggae fusion', 'virgin islands reggae']",Reggae
+2016-01-30,50.0,Adventure Of A Lifetime,Coldplay,"['permanent wave', 'pop']",Pop
+2016-01-30,51.0,Back To Sleep,Chris Brown,"['r&b', 'rap']",R&B
+2016-01-30,52.0,Best Friend,Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
+2016-01-30,53.0,Focus,Ariana Grande,['pop'],Pop
+2016-01-30,54.0,Stay A Little Longer,Brothers Osborne,"['contemporary country', 'country', 'country road', 'modern country rock', 'modern southern rock']",Country
+2016-01-30,55.0,Out Of The Woods,Taylor Swift,['pop'],Pop
+2016-01-30,56.0,I Got The Boy,Jana Kramer,"['contemporary country', 'country', 'country dawn', 'country road']",Country
+2016-01-30,57.0,Irresistible,Fall Out Boy,"['emo', 'modern rock', 'pop', 'rock']",Rock
+2016-01-30,58.0,Do It Like Me,DLOW,['chicago bop'],기타
+2016-01-30,59.0,I Love This Life,LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']",Country
+2016-01-30,60.0,Back Up,DeJ Loaf ,"['detroit hip hop', 'r&b', 'trap', 'trap queen']",Hip Hop
+2016-01-30,61.0,Gonna Know We Were Here,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,62.0,Get Ugly,Jason Derulo,"['dance pop', 'pop']",Pop
+2016-01-30,63.0,Big Rings,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-01-30,64.0,Oui,Jeremih,"['chicago rap', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",Hip Hop
+2016-01-30,65.0,Backroad Song,Granger Smith,"['classic texas country', 'contemporary country', 'country road', 'modern country rock']",Country
+2016-01-30,66.0,The Fix,Nelly ,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']",Pop
+2016-01-30,67.0,I'll Show You,Justin Bieber,"['canadian pop', 'pop']",Pop
+2016-01-30,68.0,Sugar,Robin Schulz ,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",Electronic/Dance
+2016-01-30,69.0,Beautiful Drug,Zac Brown Band,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,70.0,Heartbeat,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2016-01-30,71.0,2 Phones,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,72.0,Break On Me.,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,73.0,WTF (Where They From),Missy Elliott ,"['dance pop', 'hip hop', 'hip pop', 'neo soul', 'pop rap', 'r&b', 'rap', 'urban contemporary', 'virginia hip hop']",Pop
+2016-01-30,74.0,Sorry Not Sorry,Bryson Tiller,"['kentucky hip hop', 'r&b', 'rap']",Hip Hop
+2016-01-30,75.0,Dibs,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2016-01-30,76.0,New Americana,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2016-01-30,77.0,$ave Dat Money,Lil Dicky ,"['comedy rap', 'indie pop rap', 'pop rap']",Hip Hop
+2016-01-30,78.0,Blackstar,David Bowie,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",Rock
+2016-01-30,79.0,Dessert,Dawin,['nyc pop'],Pop
+2016-01-30,80.0,Used To Love You,Gwen Stefani,"['dance pop', 'pop']",Pop
+2016-01-30,81.0,Good To Be Alive (Hallelujah),Andy Grammer,"['neo mellow', 'post-teen pop', 'viral pop']",Pop
+2016-01-30,82.0,You Should Be Here,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,83.0,Really Really,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,84.0,Confession,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2016-01-30,85.0,Watch Out,2 Chainz,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,86.0,Mr. Misunderstood,Eric Church,"['contemporary country', 'country', 'country road']",Country
+2016-01-30,87.0,Let It Go,James Bay,"['neo mellow', 'pop', 'uk pop']",Pop
+2016-01-30,88.0,Lay It All On Me,Rudimental ,"['pop dance', 'uk dance', 'uk funky']",Pop
+2016-01-30,89.0,Play No Games,Big Sean ,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,90.0,Hollow,Tori Kelly,"['pop', 'post-teen pop']",Pop
+2016-01-30,91.0,Right Hand,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-01-30,92.0,Gonna,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,93.0,We Went,Randy Houser,"['contemporary country', 'country', 'country road']",Country
+2016-01-30,94.0,Drunk On Your Love,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-01-30,95.0,RGF Island,Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-01-30,96.0,Come Get Her,Rae Sremmurd,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2016-01-30,97.0,Nobody To Blame,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2016-01-30,98.0,Bang My Head,David Guetta ,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",Pop
+2016-01-30,99.0,Blase,Ty Dolla $ign ,"['hip hop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",Hip Hop
+2016-01-30,100.0,Ginza,J Balvin,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae

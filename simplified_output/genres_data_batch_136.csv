@@ -1,0 +1,98 @@
+date,rank,song_title,artist,genres,simplified_genre
+2018-08-04,1.0,In My Feelings,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,2.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']",Pop
+2018-08-04,3.0,Girls Like You,Maroon 5 ,['pop'],Pop
+2018-08-04,4.0,FEFE,6i,['emo rap'],Hip Hop
+2018-08-04,5.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-08-04,6.0,Nice For What,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,8.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2018-08-04,9.0,Psycho,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-08-04,10.0,Taste,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-08-04,11.0,No Tears Left To Cry,Ariana Grande,['pop'],Pop
+2018-08-04,12.0,Delicate,Taylor Swift,['pop'],Pop
+2018-08-04,13.0,God's Plan,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,14.0,Yes Indeed,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2018-08-04,15.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
+2018-08-04,16.0,Friends,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2018-08-04,17.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
+2018-08-04,18.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
+2018-08-04,19.0,Sad!,,[],기타
+2018-08-04,20.0,Meant To Be,Bebe Re,"['dance pop', 'pop']",Pop
+2018-08-04,21.0,God Is A Woman,Ariana Grande,['pop'],Pop
+2018-08-04,22.0,Mine,Bazzi,['pop'],Pop
+2018-08-04,23.0,In My Blood,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2018-08-04,24.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2018-08-04,25.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']",Pop
+2018-08-04,26.0,Back To You,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2018-08-04,27.0,One Kiss,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
+2018-08-04,28.0,Big Bank,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-08-04,29.0,Nonstop,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,30.0,Apes**t,The Carters,['r&b'],R&B
+2018-08-04,31.0,I Like Me Better,Lauv,['pop'],Pop
+2018-08-04,32.0,Never Be The Same,Camila Cabello,"['dance pop', 'pop']",Pop
+2018-08-04,33.0,Mercy,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,34.0,Whatever It Takes,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2018-08-04,35.0,Get Along,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,36.0,Simple,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2018-08-04,37.0,Natural,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2018-08-04,38.0,I'm Upset,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,39.0,Moonlight,,[],기타
+2018-08-04,40.0,Look Alive,BlocBoy JB ,"['memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",Hip Hop
+2018-08-04,42.0,Drowns The Whiskey,Jason Aldean ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,43.0,I Was Jack (You Were Diane),Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,44.0,Sit Next To Me,Foster The People,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']",Rock
+2018-08-04,45.0,This Is America,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2018-08-04,46.0,Be Careful,Cardi B,"['pop', 'rap']",Pop
+2018-08-04,47.0,X,Nicky Jam ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
+2018-08-04,48.0,One Number Away,Luke Combs,"['contemporary country', 'country']",Country
+2018-08-04,49.0,Life Changes,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,50.0,Coming Home,Keith Urban ,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,51.0,Changes,,[],기타
+2018-08-04,52.0,Eastside,"benny blanco, Halsey ",['pop'],Pop
+2018-08-04,53.0,Mob Ties,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,54.0,Don't Matter To Me,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,55.0,Bed,Nicki Minaj ,"['hip pop', 'pop', 'queens hip hop', 'rap']",Pop
+2018-08-04,56.0,Sober,Demi Lovato,"['pop', 'post-teen pop']",Pop
+2018-08-04,57.0,Take Back Home Girl,Chris Lane ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,58.0,All Girls Are The Same,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2018-08-04,59.0,"Sunrise, Sunburn, Sunset",Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,60.0,I Might Need Security,Chance The Rapper,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-08-04,61.0,Solo,Clean Bandit ,"['pop', 'uk dance', 'uk funky']",Pop
+2018-08-04,62.0,Jackie Chan,Tiesto ,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",Electronic/Dance
+2018-08-04,63.0,Hotel Key,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,64.0,I'm A Mess,Bebe Re,"['dance pop', 'pop']",Pop
+2018-08-04,65.0,Medicine,Queen Naija,"['pop r&b', 'r&b']",Pop
+2018-08-04,66.0,Growing Pains,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-08-04,67.0,Wasted,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2018-08-04,69.0,Summertime Magic,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2018-08-04,70.0,Up Down,Morgan Wallen ,['contemporary country'],Country
+2018-08-04,71.0,Kiss Somebody,Morgan Evans,"['australian country', 'contemporary country', 'country road', 'modern country rock']",Country
+2018-08-04,72.0,Sin Pijama,Becky G + Natti Natasha,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+2018-08-04,73.0,Freaky Friday,Lil Dicky ,"['comedy rap', 'indie pop rap', 'pop rap']",Hip Hop
+2018-08-04,74.0,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",Rock
+2018-08-04,75.0,Broken,lovelytheband,"['modern alternative rock', 'modern rock', 'pov: indie']",Rock
+2018-08-04,76.0,Hooked,Dylan Scott,"['contemporary country', 'country road', 'modern country rock']",Country
+2018-08-04,77.0,Level Up,Ciara,"['dance pop', 'hip pop', 'pop', 'r&b', 'urban contemporary']",Pop
+2018-08-04,78.0,Ocean,TK Kravitz ,['pop r&b'],Pop
+2018-08-04,79.0,Remind Me To Forget,Kygo ,"['edm', 'pop', 'pop dance', 'tropical house']",Electronic/Dance
+2018-08-04,80.0,OTW,"Khalid, Ty Dolla $ign ","['pop', 'pop r&b']",Pop
+2018-08-04,81.0,Best Part,Daniel Caesar ,['canadian contemporary r&b'],R&B
+2018-08-04,82.0,1942,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
+2018-08-04,83.0,Ball For Me,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-08-04,84.0,Cry Pretty,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2018-08-04,85.0,Ocean,Martin Garri,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Electronic/Dance
+2018-08-04,86.0,Africa,Weezer,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",Rock
+2018-08-04,87.0,Break Up In The End,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-08-04,88.0,Jumpsuit,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2018-08-04,89.0,Call Out My Name,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-08-04,90.0,Nevermind,Dennis Lloyd,['israeli pop'],Pop
+2018-08-04,91.0,All Mine,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
+2018-08-04,92.0,Narcos,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-08-04,93.0,You Should See Me In A Crown,Billie Eilish,"['art pop', 'pop']",Pop
+2018-08-04,94.0,Desperate Man,Eric Church,"['contemporary country', 'country', 'country road']",Country
+2018-08-04,95.0,Hopeless Romantic,Wiz Khalifa ,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-08-04,96.0,Praise The Lord (Da Shine),A$AP Rocky ,"['east coast hip hop', 'hip hop', 'rap', 'trap']",Hip Hop
+2018-08-04,97.0,Lie,NF,"['hip hop', 'pop rap']",Hip Hop
+2018-08-04,98.0,Lose It,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
+2018-08-04,99.0,Emotionless,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-08-04,100.0,Can't Take A Joke,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop

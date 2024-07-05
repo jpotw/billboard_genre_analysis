@@ -1,0 +1,99 @@
+date,rank,song_title,artist,genres,simplified_genre
+2018-12-29,1.0,"Thank U, Next",Ariana Grande,['pop'],Pop
+2018-12-29,2.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2018-12-29,3.0,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2018-12-29,4.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-12-29,5.0,Happier,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2018-12-29,6.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']",Rock
+2018-12-29,7.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",Pop
+2018-12-29,8.0,ZEZE,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
+2018-12-29,9.0,Drip Too Hard,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2018-12-29,10.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']",기타
+2018-12-29,11.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']",Rock
+2018-12-29,12.0,A Holly Jolly Christmas,Burl Ives,['american folk revival'],기타
+2018-12-29,13.0,Jingle Bell Rock,Bobby Helms,[],기타
+2018-12-29,14.0,Wake Up In The Sky,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-12-29,15.0,Girls Like You,Maroon 5 ,['pop'],Pop
+2018-12-29,16.0,Mo Bamba,Sheck Wes,"['pop rap', 'rap', 'trap']",Pop
+2018-12-29,17.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",Jazz
+2018-12-29,18.0,Eastside,"benny blanco, Halsey ",['pop'],Pop
+2018-12-29,19.0,Breathin,Ariana Grande,['pop'],Pop
+2018-12-29,20.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']",Pop
+2018-12-29,21.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-12-29,22.0,Going Bad,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-12-29,23.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2018-12-29,24.0,Imagine,Ariana Grande,['pop'],Pop
+2018-12-29,25.0,Taki Taki,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
+2018-12-29,26.0,MIA,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2018-12-29,27.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']",Pop
+2018-12-29,28.0,Rudolph The Red-Nosed Reindeer,Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Country
+2018-12-29,29.0,Trip,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']",R&B
+2018-12-29,30.0,Money,Cardi B,"['pop', 'rap']",Pop
+2018-12-29,31.0,Leave Me Alone,Flipp Dinero,"['melodic rap', 'trap']",Hip Hop
+2018-12-29,32.0,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",Jazz
+2018-12-29,33.0,Sleigh Ride,The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",Pop
+2018-12-29,34.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']",Pop
+2018-12-29,35.0,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Country
+2018-12-29,36.0,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2018-12-29,37.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
+2018-12-29,38.0,Beautiful,Bazzi ,['pop'],Pop
+2018-12-29,39.0,Better,Khalid,"['pop', 'pop r&b']",Pop
+2018-12-29,40.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']",Pop
+2018-12-29,43.0,Natural,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2018-12-29,44.0,Shallow,Lady Gaga ,"['art pop', 'dance pop', 'pop']",Pop
+2018-12-29,45.0,Happy Xmas (War Is Over),John ,"['classic rock', 'rock']",Rock
+2018-12-29,46.0,Calling My Spirit,Kodak Black,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
+2018-12-29,47.0,Wonderful Christmastime,Paul McCartney,"['classic rock', 'mellow gold', 'rock', 'soft rock']",Rock
+2018-12-29,48.0,White Christmas,Bing Crosby,"['adult standards', 'easy listening', 'lounge']",기타
+2018-12-29,49.0,Uproar,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-12-29,50.0,Christmas (Baby Please Come Home),Darlene Love,[],기타
+2018-12-29,51.0,She Got The Best Of Me ,Luke Combs,"['contemporary country', 'country']",Country
+2018-12-29,52.0,BAD!,,[],기타
+2018-12-29,53.0,Dangerous,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-12-29,54.0,Drunk Me,Mitchell Tenpenny,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']",Country
+2018-12-29,55.0,Best Shot,Jimmie Allen,"['black americana', 'contemporary country', 'country road', 'modern country rock']",Country
+2018-12-29,56.0,Nothing Breaks Like A Heart,Mark Ronson ,['pop soul'],Pop
+2018-12-29,57.0,Close To Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
+2018-12-29,58.0,MoshPit,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
+2018-12-29,59.0,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",Rock
+2018-12-29,60.0,Armed And Dangerous,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2018-12-29,61.0,Talk To Me,Tory Lanez ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
+2018-12-29,62.0,Arms Around You,,[],기타
+2018-12-29,63.0,Be Alright,Dean Lewis,"['australian pop', 'pop']",Pop
+2018-12-29,64.0,Backin' It Up,Pardison Fontaine ,['upstate ny rap'],Hip Hop
+2018-12-29,65.0,Burning Man,Dierks Bentley ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-12-29,66.0,This Feeling,The Chainsmokers ,['pop'],Pop
+2018-12-29,67.0,Sixteen,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-12-29,68.0,Cozy Little Christmas,Katy Perry,['pop'],Pop
+2018-12-29,69.0,Consequences,Camila Cabello,"['dance pop', 'pop']",Pop
+2018-12-29,70.0,Pure Cocaine,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2018-12-29,71.0,Girl Like You,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-12-29,72.0,Good Girl,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-12-29,73.0,No Stylist,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-12-29,74.0,Testimony,Kodak Black,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
+2018-12-29,75.0,You,Jacquees,"['atl hip hop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
+2018-12-29,76.0,KIKA,6i,['emo rap'],Hip Hop
+2018-12-29,77.0,When The Party's Over,Billie Eilish,"['art pop', 'pop']",Pop
+2018-12-29,78.0,Last Shot,Kip Moore,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-12-29,79.0,whoa (mind in awe),,[],기타
+2018-12-29,80.0,Ella Quiere Beber,Anuel AA ,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",Reggae
+2018-12-29,81.0,Beautiful Crazy,Luke Combs,"['contemporary country', 'country']",Country
+2018-12-29,82.0,Fine China,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-12-29,83.0,Lost In Japan,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2018-12-29,84.0,This Is It,Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-12-29,85.0,Smile (Living My Best Life),Lil' Duval ,"['florida rap', 'hip hop']",Hip Hop
+2018-12-29,86.0,Close Friends,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2018-12-29,87.0,Sweet But Psycho,Ava Ma,['pop'],Pop
+2018-12-29,88.0,Gnarly,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
+2018-12-29,89.0,Lovely,Billie Eilish ,"['art pop', 'pop']",Pop
+2018-12-29,90.0,The Christmas Song,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",Rock
+2018-12-29,91.0,Envy Me,Calboy,"['chicago rap', 'melodic rap']",Hip Hop
+2018-12-29,92.0,Yosemite,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2018-12-29,93.0,Electricity,Silk City ,"['edm', 'uk dance']",Electronic/Dance
+2018-12-29,94.0,Good Form,Nicki Minaj ,"['hip pop', 'pop', 'queens hip hop', 'rap']",Pop
+2018-12-29,95.0,Millionaire,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2018-12-29,96.0,Look Back At It,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
+2018-12-29,97.0,24/7,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-12-29,98.0,Uptown Vibes,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-12-29,99.0,Nuketown,Ski Mask The Slump God ,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",Hip Hop
+2018-12-29,100.0,MAMA,6i,['emo rap'],Hip Hop

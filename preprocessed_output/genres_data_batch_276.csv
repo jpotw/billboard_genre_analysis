@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2021-04-10,1.0,Montero (Call Me By Your Name),Lil Nas,['lgbtq+ hip hop']
+2021-04-10,2.0,Peaches,Justin Bieber,"['canadian pop', 'pop']"
+,,Leave The Door Open,Silk Sonic (Bruno Mars,[]
+2021-04-10,4.0,Up,Cardi B,"['pop', 'rap']"
+2021-04-10,5.0,Drivers License,Olivia Rodrigo,['pop']
+2021-04-10,6.0,Save Your Tears,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-04-10,7.0,Levitating,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2021-04-10,8.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-04-10,9.0,Mood,24kGoldn,"['cali rap', 'pop rap']"
+2021-04-10,10.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']"
+2021-04-10,11.0,Tombstone,Rod Wave,['florida rap']
+2021-04-10,12.0,Astronaut In The Ocean,Masked Wolf,['australian hip hop']
+2021-04-10,13.0,What's Next,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2021-04-10,14.0,34+35,Ariana Grande,['pop']
+2021-04-10,15.0,Go Crazy,Chris Brown,"['r&b', 'rap']"
+2021-04-10,16.0,Street Runner,Rod Wave,['florida rap']
+2021-04-10,17.0,Best Friend,Saweetie,"['cali rap', 'trap queen']"
+2021-04-10,18.0,Calling My Phone,Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']"
+2021-04-10,19.0,Therefore I Am,Billie Eilish,"['art pop', 'pop']"
+2021-04-10,20.0,Back In Blood,Pooh Shiesty,"['memphis hip hop', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2021-04-10,21.0,You Broke Me First.,Tate McRae,['pop']
+2021-04-10,22.0,Richer,Rod Wave,['florida rap']
+2021-04-10,23.0,You're Mines Still,Yung Bleu,"['alabama rap', 'trap']"
+2021-04-10,24.0,Beat Box,SpotemGottem,"['florida drill', 'florida rap']"
+2021-04-10,25.0,Positions,Ariana Grande,['pop']
+2021-04-10,26.0,On Me,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-04-10,27.0,Dakiti,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2021-04-10,28.0,Heartbreak Anniversary,Giveon,['r&b']
+,,My Ex's Best Friend,Machine Gun Kelly,[]
+2021-04-10,30.0,Dynamite,BTS,"['k-pop', 'k-pop boy group', 'pop']"
+2021-04-10,31.0,Without You,The Kid LAROI,['australian hip hop']
+2021-04-10,32.0,The Good Ones,Gabby Barrett,['contemporary country']
+2021-04-10,33.0,Beautiful Mistakes,Maroon 5,['pop']
+2021-04-10,34.0,Wants And Needs,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2021-04-10,35.0,Streets,Doja Cat,"['dance pop', 'pop']"
+2021-04-10,36.0,Anyone,Justin Bieber,"['canadian pop', 'pop']"
+2021-04-10,37.0,For The Night,Pop Smoke,"['brooklyn drill', 'rap']"
+2021-04-10,38.0,Whoopty,CJ,['nyc rap']
+2021-04-10,39.0,No More Parties,Coi Leray,"['new jersey underground rap', 'trap queen']"
+2021-04-10,40.0,Good Days,SZA,"['pop', 'r&b', 'rap']"
+2021-04-10,41.0,Starting Over,Chris Stapleton,"['contemporary country', 'outlaw country']"
+2021-04-10,42.0,What's Your Country Song,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-04-10,43.0,Put Your Records On,Ritt Momney,['bedroom pop']
+2021-04-10,44.0,Cry Baby,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-04-10,45.0,Long Live,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']"
+2021-04-10,46.0,Hold On,Justin Bieber,"['canadian pop', 'pop']"
+2021-04-10,47.0,Track Star,Mooski,['alabama rap']
+2021-04-10,48.0,We're Good,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2021-04-10,49.0,Hard For The Next,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2021-04-10,50.0,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2021-04-10,51.0,You All Over Me (Taylor's Version) (From The Vault),Taylor Swift,['pop']
+2021-04-10,52.0,Lady,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-04-10,53.0,Telepatia,Kali Uchis,['colombian pop']
+2021-04-10,54.0,Forever After All,Luke Combs,"['contemporary country', 'country']"
+2021-04-10,55.0,SoulFly,Rod Wave,['florida rap']
+2021-04-10,56.0,Goosebumps,Travis Scott,"['hip hop', 'rap', 'slap house']"
+2021-04-10,57.0,My Head And My Heart,Ava Ma,['pop']
+2021-04-10,58.0,Time Today,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2021-04-10,59.0,Willow,Taylor Swift,['pop']
+2021-04-10,60.0,Just The Way,Parmalee,"['contemporary country', 'country road', 'modern country rock', 'modern uplift']"
+2021-04-10,61.0,Gone Till November,Rod Wave,['florida rap']
+2021-04-10,62.0,Momma's House,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-04-10,63.0,Don't Forget,Rod Wave,['florida rap']
+2021-04-10,64.0,Damage,H.E.R.,"['r&b', 'rap']"
+2021-04-10,65.0,Blame On You,Rod Wave,['florida rap']
+2021-04-10,66.0,Somebody Like That,Tenille Arts,"['canadian contemporary country', 'contemporary country', 'country pop']"
+2021-04-10,67.0,Hell Of A View,Eric Church,"['contemporary country', 'country', 'country road']"
+2021-04-10,68.0,Headshot,"Lil Tjay, Polo G","['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']"
+2021-04-10,69.0,Big Purr (Prrdd),Coi Leray,"['new jersey underground rap', 'trap queen']"
+2021-04-10,70.0,Lemon Pepper Freestyle,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2021-04-10,71.0,All I Got,Rod Wave,['florida rap']
+2021-04-10,72.0,As I Am,Justin Bieber,"['canadian pop', 'pop']"
+2021-04-10,73.0,Breaking Up Was Easy In The 90's,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']"
+2021-04-10,74.0,Down To One,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-04-10,75.0,Made For You,Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-04-10,76.0,Hellcats & Trackhawks,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-04-10,77.0,Masterpiece,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2021-04-10,78.0,La Noche de Anoche,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2021-04-10,79.0,Wasted On You,Morgan Wallen,['contemporary country']
+2021-04-10,80.0,Monsters,All Time Low,"['modern rock', 'neon pop punk', 'pop emo', 'pop punk']"
+2021-04-10,81.0,Body,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-04-10,82.0,Real As It Gets,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-04-10,83.0,Quicksand,Morray,['pop rap']
+2021-04-10,84.0,Pick Up Your Feelings,Jazmine Sullivan,"['hip pop', 'neo soul', 'r&b', 'urban contemporary']"
+2021-04-10,85.0,Pills & Billz,Rod Wave,['florida rap']
+2021-04-10,86.0,The Business,Tiesto,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']"
+2021-04-10,87.0,Buss It,Erica Banks,['trap queen']
+2021-04-10,88.0,How The Game Go,Rod Wave,['florida rap']
+2021-04-10,89.0,OMDB,Rod Wave,['florida rap']
+2021-04-10,90.0,Settling Down,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']"
+2021-04-10,91.0,Almost Maybes,Jordan Davis,['contemporary country']
+2021-04-10,92.0,Glad You Exist,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2021-04-10,93.0,Clouds,NF,"['hip hop', 'pop rap']"
+2021-04-10,94.0,What's Love??,Rod Wave,['florida rap']
+,,One Too Many,Keith Urban Duet With P!nk,[]
+2021-04-10,96.0,Shock Da World,Rod Wave,['florida rap']
+2021-04-10,97.0,You Got It,VEDO,['pop r&b']
+2021-04-10,98.0,Sneaky Links,Rod Wave,['florida rap']
+2021-04-10,99.0,Nobody,Dylan Scott,"['contemporary country', 'country road', 'modern country rock']"
+2021-04-10,100.0,Girl Like Me,Black Eyed Peas,"['dance pop', 'pop', 'pop rap']"

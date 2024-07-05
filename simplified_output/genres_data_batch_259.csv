@@ -1,0 +1,97 @@
+date,rank,song_title,artist,genres,simplified_genre
+2020-12-12,1.0,Mood,24kGoldn ,"['cali rap', 'pop rap']",Hip Hop
+2020-12-12,2.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",Pop
+2020-12-12,3.0,Positions,Ariana Grande,['pop'],Pop
+2020-12-12,4.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']",Rock
+2020-12-12,5.0,Dakiti,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,6.0,Laugh Now Cry Later,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-12,7.0,Holy,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-12-12,8.0,I Hope,Gabby Barrett ,['contemporary country'],Country
+2020-12-12,9.0,Jingle Bell Rock,Bobby Helms,[],기타
+2020-12-12,10.0,Dynamite,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
+2020-12-12,11.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-12-12,12.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']",기타
+2020-12-12,13.0,Lemonade,Internet Money ,"['pop rap', 'trap']",Pop
+2020-12-12,14.0,Body,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-12-12,15.0,Go Crazy,Chris Brown ,"['r&b', 'rap']",R&B
+2020-12-12,16.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']",Pop
+2020-12-12,17.0,For The Night,Pop Smoke ,"['brooklyn drill', 'rap']",Hip Hop
+2020-12-12,18.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",Jazz
+2020-12-12,19.0,Kings & Queens,Ava Ma,['pop'],Pop
+2020-12-12,20.0,Therefore I Am,Billie Eilish,"['art pop', 'pop']",Pop
+2020-12-12,21.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']",Pop
+2020-12-12,22.0,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",Jazz
+2020-12-12,23.0,Sleigh Ride,The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",Pop
+2020-12-12,24.0,A Holly Jolly Christmas,Burl Ives,['american folk revival'],기타
+2020-12-12,25.0,34+35,Ariana Grande,['pop'],Pop
+2020-12-12,26.0,Levitating,Dua Lipa ,"['dance pop', 'pop', 'uk pop']",Pop
+2020-12-12,27.0,Bang!,AJR,['pov: indie'],기타
+2020-12-12,28.0,Life Goes On,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
+2020-12-12,29.0,Savage Love (Laxed - Siren Beat),Jawsh 685 ,['nz pop'],Pop
+2020-12-12,30.0,Underneath The Tree,Kelly Clarkson,"['dance pop', 'pop', 'talent show']",Pop
+2020-12-12,32.0,More Than My Hometown,Morgan Wallen,['contemporary country'],Country
+2020-12-12,33.0,WAP,Cardi B ,"['pop', 'rap']",Pop
+2020-12-12,34.0,Happy Holiday / The Holiday Season,Andy Williams,"['adult standards', 'easy listening']",기타
+2020-12-12,35.0,Rockstar,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-12-12,36.0,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Country
+2020-12-12,37.0,White Christmas,Bing Crosby,"['adult standards', 'easy listening', 'lounge']",기타
+2020-12-12,38.0,Monster,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2020-12-12,39.0,It's Beginning To Look A Lot Like Christmas,Michael Buble,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",Pop
+2020-12-12,40.0,Rudolph The Red-Nosed Reindeer,Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Country
+2020-12-12,41.0,Christmas (Baby Please Come Home),Darlene Love,[],기타
+2020-12-12,42.0,Before You Go,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2020-12-12,43.0,ily,Surf Mesa ,['pop edm'],Pop
+2020-12-12,44.0,Said Sum,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+2020-12-12,46.0,Lonely,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-12-12,48.0,Whats Poppin,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-12,49.0,Happy Anywhere,Blake Shelton ,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-12-12,50.0,Watermelon Sugar,Harry Styles,['pop'],Pop
+2020-12-12,51.0,Holiday,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
+2020-12-12,52.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']",Hip Hop
+2020-12-12,53.0,La Noche de Anoche,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,54.0,Hawai,Maluma ,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Pop
+2020-12-12,55.0,Better Together,Luke Combs,"['contemporary country', 'country']",Country
+2020-12-12,56.0,"Big, Big Plans",Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-12-12,57.0,Midnight Sky,Miley Cyrus,['pop'],Pop
+2020-12-12,58.0,Diamonds,Sam Smith,"['pop', 'uk pop']",Pop
+2020-12-12,59.0,Prisoner,Miley Cyrus ,['pop'],Pop
+2020-12-12,60.0,Te Mudaste,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,61.0,Love You Like I Used To,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-12-12,62.0,Starting Over,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2020-12-12,63.0,Ain't Always The Cowboy,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-12-12,64.0,Yo Visto Asi,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,65.0,Dicked Down In Dallas,Trey Lewis,['modern country pop'],Pop
+2020-12-12,66.0,I Should Probably Go To Bed,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2020-12-12,67.0,You Broke Me First.,Tate McRae,['pop'],Pop
+2020-12-12,68.0,Forever After All,Luke Combs,"['contemporary country', 'country']",Country
+2020-12-12,69.0,Whoopty,CJ,['nyc rap'],Hip Hop
+2020-12-12,70.0,Mr. Right Now,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2020-12-12,71.0,B.S.,Jhene Aiko ,['r&b'],R&B
+2020-12-12,72.0,Haciendo Que Me Amas,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,74.0,Te Deseo Lo Mejor,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,75.0,Under The Mistletoe,Kelly Clarkson ,"['dance pop', 'pop', 'talent show']",Pop
+2020-12-12,76.0,7 Summers,Morgan Wallen,['contemporary country'],Country
+2020-12-12,77.0,Wonder,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2020-12-12,78.0,Booker T,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,79.0,El Mundo Es Mio,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,80.0,pov,Ariana Grande,['pop'],Pop
+2020-12-12,81.0,Hoy Cobre,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,82.0,Champagne Night,Lady A,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']",Country
+2020-12-12,83.0,Rockin' Around The Christmas Tree,Justin Bieber,"['canadian pop', 'pop']",Pop
+2020-12-12,84.0,Somebody's Problem,Morgan Wallen,['contemporary country'],Country
+2020-12-12,85.0,Throat Baby (Go Baby),BRS Kash,['viral rap'],Hip Hop
+2020-12-12,86.0,Still Goin Down,Morgan Wallen,['contemporary country'],Country
+2020-12-12,87.0,Maldita Pobreza,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,88.0,Took Her To The O,King Von,"['chicago rap', 'rap']",Hip Hop
+2020-12-12,89.0,Don't Stop,Megan Thee Stallion ,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-12-12,90.0,Hit Different,SZA ,"['pop', 'r&b', 'rap']",Pop
+2020-12-12,91.0,Tyler Herro,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-12,92.0,Golden,Harry Styles,['pop'],Pop
+2020-12-12,93.0,Good Time,Niko Moon,[],기타
+2020-12-12,94.0,La Droga,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-12,95.0,Favorite Time Of Year,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2020-12-12,96.0,Back To The Streets,Saweetie ,"['cali rap', 'trap queen']",Hip Hop
+2020-12-12,97.0,Martin & Gina,Polo G,"['chicago rap', 'rap']",Hip Hop
+2020-12-12,98.0,Hole In The Bottle,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2020-12-12,99.0,So Done,The Kid LAROI,['australian hip hop'],Hip Hop
+2020-12-12,100.0,Bichota,Karol G,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae

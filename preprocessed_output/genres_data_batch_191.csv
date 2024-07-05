@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2019-08-24,1.0,Bad Guy,Billie Eilish,"['art pop', 'pop']"
+2019-08-24,2.0,Senorita,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
+2019-08-24,3.0,Old Town Road,Lil Nas,['lgbtq+ hip hop']
+2019-08-24,4.0,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2019-08-24,5.0,Talk,Khalid,"['pop', 'pop r&b']"
+2019-08-24,6.0,No Guidance,Chris Brown,"['r&b', 'rap']"
+2019-08-24,7.0,I Don't Care,Ed Sheeran,[]
+,,Ran$om,Lil Tecca,[]
+2019-08-24,9.0,Goodbyes,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-08-24,10.0,If I Can't Have You,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
+2019-08-24,11.0,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj","['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2019-08-24,12.0,Sucker,Jonas Brothers,"['boy band', 'pop']"
+2019-08-24,13.0,Money In The Grave,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2019-08-24,14.0,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']"
+2019-08-24,15.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-08-24,16.0,Suge,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2019-08-24,17.0,The Git Up,Blanco Brown,"['black americana', 'country rap']"
+2019-08-24,18.0,You Need To Calm Down,Taylor Swift,['pop']
+2019-08-24,19.0,Boyfriend,Ariana Grande,['pop']
+2019-08-24,20.0,Beautiful People,Ed Sheeran,[]
+2019-08-24,21.0,"Hey Look Ma, I Made It",Panic! At The Disco,"['modern rock', 'pop']"
+2019-08-24,22.0,Dancing With A Stranger,Sam Smith,"['pop', 'uk pop']"
+2019-08-24,23.0,Beer Never Broke My Heart,Luke Combs,"['contemporary country', 'country']"
+2019-08-24,24.0,Pop Out,Polo G,"['chicago rap', 'rap']"
+2019-08-24,25.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2019-08-24,26.0,Wow.,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-08-24,27.0,The London,"Young Thug, J. Cole","['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']"
+2019-08-24,28.0,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2019-08-24,29.0,7 Rings,Ariana Grande,['pop']
+2019-08-24,30.0,Happier,Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2019-08-24,31.0,All To Myself,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2019-08-24,32.0,Knockin' Boots,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,33.0,My Type,Saweetie,"['cali rap', 'trap queen']"
+2019-08-24,34.0,Baby,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2019-08-24,35.0,God's Country,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,36.0,Panini,Lil Nas,['lgbtq+ hip hop']
+2019-08-24,37.0,How Do You Sleep?,Sam Smith,"['pop', 'uk pop']"
+2019-08-24,38.0,Whiskey Glasses,Morgan Wallen,['contemporary country']
+2019-08-24,39.0,Cash Shit,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2019-08-24,40.0,Shotta Flow,NLE Choppa,"['memphis hip hop', 'rap']"
+2019-08-24,41.0,Rearview Town,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,42.0,Sweet But Psycho,Ava Ma,['pop']
+2019-08-24,43.0,Otro Trago,"Sech, Darell, Nicky Jam, Ozuna","['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']"
+2019-08-24,44.0,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna","['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']"
+2019-08-24,45.0,Better,Khalid,"['pop', 'pop r&b']"
+2019-08-24,46.0,One Thing Right,Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2019-08-24,47.0,Trampoline,SHAED,['electropop']
+2019-08-24,48.0,Going Bad,Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-24,49.0,Queen Of Mean,Sarah Jeffery,['movie tunes']
+2019-08-24,50.0,Never Really Over,Katy Perry,['pop']
+2019-08-24,51.0,Clout,Offset,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2019-08-24,52.0,The Ones That Didn't Make It Back Home,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']"
+2019-08-24,53.0,Only Human,Jonas Brothers,"['boy band', 'pop']"
+2019-08-24,54.0,Callaita,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2019-08-24,55.0,Raised On Country,Chris Young,"['contemporary country', 'country', 'country road']"
+2019-08-24,56.0,Easier,5 Seconds Of Summer,"['boy band', 'pop']"
+2019-08-24,57.0,Go Loko,"YG, Tyga","['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-24,58.0,Talk You Out Of It,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']"
+2019-08-24,59.0,Gold Roses,Rick Ross,"['dirty south rap', 'gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2019-08-24,60.0,Call You Mine,The Chainsmokers,['pop']
+2019-08-24,61.0,Press,Cardi B,"['pop', 'rap']"
+2019-08-24,62.0,I Don't Know About You,Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,63.0,ME!,Taylor Swift,['pop']
+2019-08-24,64.0,Mac 10,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2019-08-24,65.0,Time,NF,"['hip hop', 'pop rap']"
+2019-08-24,66.0,Soltera,"Lunay, Daddy Yankee","['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']"
+2019-08-24,67.0,Living,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,68.0,Southbound,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']"
+2019-08-24,69.0,Just Us,DJ Khaled,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2019-08-24,70.0,Lalala,Y2K,"['pop rap', 'viral rap']"
+2019-08-24,71.0,No Me Conoce,"Jhay Cortez, J Balvin","['reggaeton', 'trap latino', 'urbano latino']"
+2019-08-24,72.0,It's You,Ali Gatie,['canadian hip hop']
+2019-08-24,73.0,Hate Me,Ellie Goulding,"['indietronica', 'metropopolis', 'pop', 'uk pop']"
+2019-08-24,74.0,Some Of It,Eric Church,"['contemporary country', 'country', 'country road']"
+2019-08-24,75.0,Love You Too Late,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,76.0,EARFQUAKE,"Tyler, The Creator","['hip hop', 'rap']"
+2019-08-24,77.0,Tip Of My Tongue,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,78.0,Daddy,Blueface,"['cali rap', 'rap', 'trap']"
+2019-08-24,79.0,Ballin',Mustard,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-24,80.0,We Were,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,81.0,Small Talk,Katy Perry,['pop']
+2019-08-24,82.0,Prayed For You,Matt Stell,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']"
+2019-08-24,83.0,Right Back,Khalid,"['pop', 'pop r&b']"
+2019-08-24,84.0,Night Falls,"Dove Cameron, Sofia Carson, Booboo Stewart, Cameron Boyce, Thomas Doherty, China Anne McClain",['pop']
+2019-08-24,85.0,What Happens In A Small Town,Brantley Gilbert + Lindsay Ell,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-24,86.0,On Chill,Wale,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']"
+2019-08-24,87.0,Snake Skin,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2019-08-24,88.0,24/7,Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-24,89.0,Uno,Ambjaay,"['cali rap', 'viral rap']"
+2019-08-24,90.0,Buy My Own Drinks,Runaway June,"['contemporary country', 'country pop', 'country road']"
+2019-08-24,91.0,Love Ain't,Eli Young Band,"['classic texas country', 'contemporary country', 'country', 'country road', 'heartland rock', 'modern country rock']"
+2019-08-24,92.0,F.N,Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']"
+2019-08-24,93.0,Baby Sitter,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2019-08-24,94.0,Sanguine Paradise,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']"
+2019-08-24,95.0,Rodeo,Lil Nas,['lgbtq+ hip hop']
+2019-08-24,96.0,What If I Never Get Over You,Lady Antebellum,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']"
+2019-08-24,97.0,Tap,NAV,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']"
+2019-08-24,98.0,La La Land,Bryce Vine,['indie pop rap']
+2019-08-24,99.0,Que Pretendes,J Balvin,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2019-08-24,100.0,Single Again,Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']"

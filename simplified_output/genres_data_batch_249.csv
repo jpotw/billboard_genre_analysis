@@ -1,0 +1,98 @@
+date,rank,song_title,artist,genres,simplified_genre
+2020-10-03,1.0,Dynamite,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
+2020-10-03,2.0,WAP,Cardi B ,"['pop', 'rap']",Pop
+2020-10-03,3.0,Holy,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-10-03,4.0,Laugh Now Cry Later,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2020-10-03,5.0,Mood,24kGoldn ,"['cali rap', 'pop rap']",Hip Hop
+2020-10-03,6.0,Rockstar,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-10-03,7.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-10-03,8.0,Watermelon Sugar,Harry Styles,['pop'],Pop
+2020-10-03,9.0,Savage Love (Laxed - Siren Beat),Jawsh 685 ,['nz pop'],Pop
+2020-10-03,10.0,I Hope,Gabby Barrett ,['contemporary country'],Country
+2020-10-03,11.0,Before You Go,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2020-10-03,12.0,Whats Poppin,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-10-03,13.0,Go Crazy,Chris Brown ,"['r&b', 'rap']",R&B
+2020-10-03,14.0,Popstar,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2020-10-03,15.0,For The Night,Pop Smoke ,"['brooklyn drill', 'rap']",Hip Hop
+2020-10-03,16.0,Lemonade,Internet Money ,"['pop rap', 'trap']",Pop
+2020-10-03,17.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2020-10-03,18.0,Roses,SAINt JHN,"['melodic rap', 'slap house']",Hip Hop
+2020-10-03,19.0,Come & Go,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2020-10-03,20.0,Mood Swings,Pop Smoke ,"['brooklyn drill', 'rap']",Hip Hop
+2020-10-03,21.0,Got What I Got,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-10-03,22.0,One Of Them Girls,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-10-03,23.0,Adore You,Harry Styles,['pop'],Pop
+2020-10-03,24.0,Said Sum,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+2020-10-03,25.0,Break My Heart,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2020-10-03,26.0,Lovin' On You,Luke Combs,"['contemporary country', 'country']",Country
+2020-10-03,28.0,Tap In,Saweetie,"['cali rap', 'trap queen']",Hip Hop
+2020-10-03,29.0,Cool Again,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
+2020-10-03,30.0,The Woo,Pop Smoke ,"['brooklyn drill', 'rap']",Hip Hop
+2020-10-03,31.0,If The World Was Ending,JP Sa,"['alt z', 'canadian contemporary r&b', 'singer-songwriter pop']",R&B
+2020-10-03,32.0,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2020-10-03,33.0,Bang!,AJR,['pov: indie'],기타
+2020-10-03,34.0,More Than My Hometown,Morgan Wallen,['contemporary country'],Country
+2020-10-03,35.0,Rags2Riches,Rod Wave ,['florida rap'],Hip Hop
+2020-10-03,36.0,Life Is Good,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2020-10-03,37.0,ily,Surf Mesa ,['pop edm'],Pop
+2020-10-03,38.0,Kings & Queens,Ava Ma,['pop'],Pop
+2020-10-03,39.0,Midnight Sky,Miley Cyrus,['pop'],Pop
+2020-10-03,40.0,Chasin' You,Morgan Wallen,['contemporary country'],Country
+2020-10-03,41.0,Rain On Me,Lady Gaga ,"['art pop', 'dance pop', 'pop']",Pop
+2020-10-03,42.0,I Should Probably Go To Bed,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2020-10-03,43.0,Some Girls,Jameson Rodgers,"['contemporary country', 'country pop', 'modern country pop', 'modern country rock']",Country
+2020-10-03,44.0,Die From A Broken Heart,Maddie ,"['contemporary country', 'country', 'country road']",Country
+2020-10-03,45.0,Wishing Well,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2020-10-03,46.0,We Paid,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-10-03,47.0,Say So,Doja Cat ,"['dance pop', 'pop']",Pop
+2020-10-03,48.0,Savage,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-10-03,49.0,Cardigan,Taylor Swift,['pop'],Pop
+2020-10-03,50.0,Blueberry Faygo,Lil Mosey,"['melodic rap', 'rap conscient']",Hip Hop
+2020-10-03,51.0,Diamonds,Sam Smith,"['pop', 'uk pop']",Pop
+2020-10-03,52.0,One Beer,HARDY ,"['contemporary country', 'modern country pop']",Country
+2020-10-03,53.0,Breaking Me,Topic ,"['german dance', 'pop dance', 'pop edm', 'uk dance']",Electronic/Dance
+2020-10-03,54.0,Heather,Conan Gray,"['bedroom pop', 'pop', 'pov: indie']",Pop
+2020-10-03,55.0,Hawai,Maluma ,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Pop
+2020-10-03,56.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']",Hip Hop
+2020-10-03,57.0,Happy Anywhere,Blake Shelton ,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-10-03,59.0,7 Summers,Morgan Wallen,['contemporary country'],Country
+2020-10-03,60.0,24,Money Man ,"['memphis hip hop', 'southern hip hop', 'trap']",Hip Hop
+2020-10-03,61.0,Pretty Heart,Parker McCollum,"['classic texas country', 'contemporary country', 'modern country pop', 'texas country']",Country
+2020-10-03,63.0,You Broke Me First.,Tate McRae,['pop'],Pop
+2020-10-03,64.0,Like That,Doja Cat ,"['dance pop', 'pop']",Pop
+2020-10-03,65.0,Greece,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2020-10-03,66.0,Ice Cream,BLACKPINK ,"['k-pop', 'k-pop girl group', 'pop']",Pop
+2020-10-03,67.0,I Called Mama,Tim McGraw,"['contemporary country', 'country', 'country road']",Country
+2020-10-03,68.0,Girls In The Hood,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-10-03,69.0,The Bigger Picture,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-10-03,70.0,Without You,Luke Combs ,"['contemporary country', 'country']",Country
+2020-10-03,71.0,Un Dia (One Day),"J Balvin, Dua Lipa, Bad Bunny ","['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
+2020-10-03,72.0,Kacey Talk,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2020-10-03,73.0,Starting Over,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2020-10-03,74.0,Martin & Gina,Polo G,"['chicago rap', 'rap']",Hip Hop
+2020-10-03,75.0,OK Not To Be OK,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2020-10-03,76.0,Relacion,"Sech, Daddy Yankee ","['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+2020-10-03,77.0,Love You Like I Used To,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-10-03,78.0,Smile,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2020-10-03,79.0,Ain't Always The Cowboy,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-10-03,80.0,Dolly,Lil Tecca ,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
+2020-10-03,81.0,Hit Different,SZA ,"['pop', 'r&b', 'rap']",Pop
+2020-10-03,82.0,Nobody's Love,Maroon 5,['pop'],Pop
+2020-10-03,83.0,Everywhere But On,Matt Stell,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']",Country
+2020-10-03,84.0,Caramelo,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+2020-10-03,85.0,Do It,Chloe ,['r&b'],R&B
+2020-10-03,86.0,Over Now,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
+2020-10-03,87.0,Dollaz On My Head,Gunna ,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
+2020-10-03,88.0,You Got It,VEDO,['pop r&b'],Pop
+2020-10-03,89.0,My Window,YoungBoy Never Broke Again ,"['baton rouge rap', 'rap']",Hip Hop
+2020-10-03,90.0,When You Down,Lil Tecca ,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
+2020-10-03,91.0,Me Gusta,Anitta ,"['funk pop', 'funk rj', 'pagode baiano', 'pop', 'pop nacional']",Pop
+2020-10-03,92.0,Wet. (She Got That...) ,YFN Lucci,"['arkansas hip hop', 'atl hip hop', 'melodic rap', 'southern hip hop', 'trap']",Hip Hop
+2020-10-03,93.0,Whole Lotta Choppas,Sada Baby ,"['detroit trap', 'scam rap']",Hip Hop
+2020-10-03,94.0,Lonely If You Are,Chase Rice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-10-03,95.0,Blind,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-10-03,96.0,3 Headed Goat,Lil Durk ,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",Hip Hop
+2020-10-03,97.0,Drug Addiction,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2020-10-03,98.0,La Jeepeta,Nio Garcia ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-10-03,99.0,B.S.,Jhene Aiko ,['r&b'],R&B
+2020-10-03,100.0,Wolves,Big Sean ,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Hip Hop

@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2017-12-02,1.0,Rockstar,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2017-12-02,2.0,Havana,Camila Cabello ,"['dance pop', 'pop']"
+2017-12-02,3.0,Gucci Gang,Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']"
+2017-12-02,4.0,Thunder,Imagine Dragons,"['modern rock', 'pop', 'rock']"
+,,Bodak Yellow (Money Moves),Cardi B,Need Manual Check
+2017-12-02,6.0,Too Good At Goodbyes,Sam Smith,"['pop', 'uk pop']"
+2017-12-02,7.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']"
+2017-12-02,8.0,1-800-273-8255,Logic ,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']"
+2017-12-02,9.0,Feel It Still,Portugal. The Man,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock']"
+2017-12-02,10.0,Mi Gente,J Balvin ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2017-12-02,11.0,What Lovers Do,Maroon 5 ,['pop']
+2017-12-02,12.0,Sorry Not Sorry,Demi Lovato,"['pop', 'post-teen pop']"
+2017-12-02,13.0,No Limit,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']"
+2017-12-02,14.0,Walk On Water,Eminem ,"['detroit hip hop', 'hip hop', 'rap']"
+2017-12-02,15.0,MotorSport,"Migos, Nicki Minaj ","['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2017-12-02,16.0,I Get The Bag,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2017-12-02,17.0,Bad At Love,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2017-12-02,18.0,...Ready For It?,Taylor Swift,['pop']
+2017-12-02,19.0,New Rules,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2017-12-02,20.0,What About Us,P!nk,"['dance pop', 'pop']"
+2017-12-02,21.0,Unforgettable,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2017-12-02,22.0,Despacito,Luis Fonsi ,"['latin pop', 'puerto rican pop']"
+2017-12-02,23.0,Rake It Up,Yo Gotti ,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2017-12-02,24.0,Attention,Charlie Puth,"['pop', 'viral pop']"
+2017-12-02,25.0,I Fall Apart,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2017-12-02,26.0,Believer,Imagine Dragons,"['modern rock', 'pop', 'rock']"
+2017-12-02,27.0,Bank Account,21 Savage,"['atl hip hop', 'hip hop', 'rap']"
+2017-12-02,28.0,Praying,Kesha,"['dance pop', 'pop']"
+2017-12-02,29.0,Young Dumb & Broke,Khalid,"['pop', 'pop r&b']"
+2017-12-02,30.0,Shape Of You,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']"
+2017-12-02,31.0,Look What You Made Me Do,Taylor Swift,['pop']
+2017-12-02,32.0,Strip That Down,Liam Payne ,['pop']
+2017-12-02,33.0,There's Nothing Holdin' Me Back,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
+2017-12-02,34.0,That's What I Like,Bruno Mars,"['dance pop', 'pop']"
+2017-12-02,35.0,Slow Hands,Niall Horan,['pop']
+2017-12-02,36.0,Congratulations,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2017-12-02,37.0,The Way Life Goes,Lil Uzi Vert ,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']"
+2017-12-02,38.0,The Weekend,SZA,"['pop', 'r&b', 'rap']"
+2017-12-02,39.0,When It Rains It Pours,Luke Combs,"['contemporary country', 'country']"
+2017-12-02,40.0,How Long,Charlie Puth,"['pop', 'viral pop']"
+2017-12-02,41.0,Love.,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2017-12-02,42.0,Do Re Mi,blackbear,['pop']
+2017-12-02,43.0,What Ifs,Kane Brown ,"['black americana', 'contemporary country', 'country', 'country road']"
+2017-12-02,44.0,Silence,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2017-12-02,45.0,Greatest Love Story,LANCO,"['contemporary country', 'country road', 'modern country rock']"
+2017-12-02,46.0,Pills And Automobiles,Chris Brown ,"['r&b', 'rap']"
+2017-12-02,47.0,Humble.,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+2017-12-02,48.0,XO TOUR Llif3,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']"
+2017-12-02,49.0,Something Just Like This,The Chainsmokers ,['pop']
+2017-12-02,50.0,Crew,GoldLink ,['alternative r&b']
+2017-12-02,51.0,Wolves,Selena Gomez ,"['pop', 'post-teen pop']"
+2017-12-02,52.0,Let You Down,NF,"['hip hop', 'pop rap']"
+2017-12-02,53.0,Meant To Be,Bebe Re,"['dance pop', 'pop']"
+2017-12-02,54.0,Plain Jane,A$AP Ferg ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2017-12-02,55.0,Unforgettable,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,56.0,Ric Flair Drip,Offset ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2017-12-02,57.0,Ghostface Killers,"21 Savage, Offset ","['atl hip hop', 'hip hop', 'rap']"
+2017-12-02,58.0,Gummo,6i,['emo rap']
+2017-12-02,59.0,Roll In Peace,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2017-12-02,60.0,Light It Up,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,61.0,Love So Soft,Kelly Clarkson,"['dance pop', 'pop', 'talent show']"
+2017-12-02,62.0,Like I Loved You,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,63.0,I'll Name The Dogs,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,64.0,Sky Walker,Miguel ,"['r&b', 'urban contemporary']"
+2017-12-02,65.0,Wanted You,NAV ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']"
+2017-12-02,66.0,Let Me Go,Hailee Steinfeld ,['pop']
+2017-12-02,67.0,Fix A Drink,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,68.0,Good Old Days,Macklemore ,"['pop rap', 'seattle hip hop']"
+2017-12-02,69.0,Female,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,70.0,Dusk Till Dawn,Zayn ,"['pop', 'uk pop']"
+2017-12-02,71.0,The Race,Tay-K,"['cali rap', 'dfw rap', 'rap', 'trap']"
+2017-12-02,72.0,Every Little Thing,Carly Pearce,"['contemporary country', 'country', 'country road']"
+2017-12-02,73.0,Call It What You Want,Taylor Swift,['pop']
+2017-12-02,74.0,Losing Sleep,Chris Young,"['contemporary country', 'country', 'country road']"
+2017-12-02,75.0,Yours,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,76.0,Lights Down Low,MA,"['singer-songwriter pop', 'teen pop', 'viral pop']"
+2017-12-02,77.0,Round Here Buzz,Eric Church,"['contemporary country', 'country', 'country road']"
+2017-12-02,78.0,Candy Paint,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2017-12-02,79.0,Lemon,N*E*R*D ,"['hip hop', 'virginia hip hop']"
+2017-12-02,80.0,Rubbin Off The Paint,YBN Nahmir,"['alabama rap', 'rap', 'trap']"
+2017-12-02,81.0,I Could Use A Love Song,Maren Morris,"['classic texas country', 'contemporary country']"
+2017-12-02,82.0,F**k Love,,[]
+2017-12-02,83.0,Jocelyn Flores,,[]
+2017-12-02,84.0,Mayores,Becky G ,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']"
+2017-12-02,85.0,Ask Me How I Know,Garth Brooks,[]
+2017-12-02,86.0,Relationship,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']"
+2017-12-02,87.0,Transportin',Kodak Black,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2017-12-02,88.0,Rap Saved Me,"21 Savage, Offset ","['atl hip hop', 'hip hop', 'rap']"
+2017-12-02,89.0,Gorgeous,Taylor Swift,['pop']
+2017-12-02,90.0,Sauce It Up,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']"
+2017-12-02,91.0,Questions,Chris Brown,"['r&b', 'rap']"
+2017-12-02,92.0,Smooth,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']"
+2017-12-02,93.0,Betrayed,Lil ,['cloud rap']
+2017-12-02,94.0,You Broke Up With Me,Walker Hayes,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2017-12-02,95.0,Broken Halos,Chris Stapleton,"['contemporary country', 'outlaw country']"
+2017-12-02,96.0,The Plan,G-Eazy,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']"
+2017-12-02,97.0,Pick It Up,Famous De,"['chicago rap', 'drill', 'rap', 'trap']"
+2017-12-02,98.0,Go Flex,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2017-12-02,99.0,Too Much To Ask,Niall Horan,['pop']
+2017-12-02,100.0,Patek Water,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"

@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2020-08-08,1.0,Cardigan,Taylor Swift,['pop']
+2020-08-08,2.0,Rockstar,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2020-08-08,3.0,Whats Poppin,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2020-08-08,4.0,The 1,Taylor Swift,['pop']
+2020-08-08,5.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2020-08-08,6.0,Exile,Taylor Swift,['pop']
+2020-08-08,7.0,Watermelon Sugar,Harry Styles,['pop']
+2020-08-08,8.0,Roses,SAINt JHN,"['melodic rap', 'slap house']"
+2020-08-08,9.0,Savage,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2020-08-08,10.0,Savage Love (Laxed - Siren Beat),Jawsh 685,['nz pop']
+2020-08-08,11.0,Blueberry Faygo,Lil Mosey,"['melodic rap', 'rap conscient']"
+2020-08-08,12.0,Go Crazy,Chris Brown,"['r&b', 'rap']"
+2020-08-08,13.0,The Last Great American Dynasty,Taylor Swift,['pop']
+2020-08-08,14.0,Popstar,DJ Khaled,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2020-08-08,15.0,Adore You,Harry Styles,['pop']
+2020-08-08,16.0,My Tears Ricochet,Taylor Swift,['pop']
+2020-08-08,17.0,Come & Go,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-08-08,18.0,I Hope,Gabby Barrett,['contemporary country']
+2020-08-08,19.0,Break My Heart,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2020-08-08,20.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2020-08-08,21.0,Before You Go,Lewis Capaldi,"['pop', 'uk pop']"
+2020-08-08,22.0,Wishing Well,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-08-08,23.0,August,Taylor Swift,['pop']
+2020-08-08,24.0,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2020-08-08,25.0,One Margarita,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-08-08,26.0,Mirrorball,Taylor Swift,['pop']
+2020-08-08,27.0,Say So,Doja Cat,"['dance pop', 'pop']"
+2020-08-08,28.0,Intentions,Justin Bieber,"['canadian pop', 'pop']"
+2020-08-08,29.0,Rain On Me,Lady Gaga,"['art pop', 'dance pop', 'pop']"
+2020-08-08,30.0,Life Is Good,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2020-08-08,31.0,Party Girl,StaySolidRocky,['melodic rap']
+2020-08-08,32.0,For The Night,Pop Smoke,"['brooklyn drill', 'rap']"
+2020-08-08,33.0,Die From A Broken Heart,Maddie,"['contemporary country', 'country', 'country road']"
+2020-08-08,34.0,We Paid,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2020-08-08,35.0,Seven,Taylor Swift,['pop']
+2020-08-08,36.0,Death Bed,Powfu,"['sad lo-fi', 'sad rap']"
+2020-08-08,37.0,Invisible String,Taylor Swift,['pop']
+2020-08-08,38.0,The Woo,Pop Smoke,"['brooklyn drill', 'rap']"
+2020-08-08,39.0,This Is Me Trying,Taylor Swift,['pop']
+2020-08-08,40.0,The Bones,Maren Morris,"['classic texas country', 'contemporary country']"
+2020-08-08,41.0,Hard To Forget,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']"
+2020-08-08,42.0,Betty,Taylor Swift,['pop']
+2020-08-08,43.0,Bluebird,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']"
+2020-08-08,44.0,Illicit Affairs,Taylor Swift,['pop']
+2020-08-08,45.0,The Box,Roddy Ricch,"['melodic rap', 'rap', 'trap']"
+2020-08-08,46.0,Nobody's Love,Maroon 5,['pop']
+2020-08-08,47.0,Mad Woman,Taylor Swift,['pop']
+2020-08-08,48.0,Falling,Trevor Daniel,['melodic rap']
+2020-08-08,49.0,Chasin' You,Morgan Wallen,['contemporary country']
+2020-08-08,50.0,The Bigger Picture,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2020-08-08,51.0,Lion King On Ice,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+2020-08-08,52.0,The Climb Back,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+2020-08-08,53.0,One Big Country Song,LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']"
+2020-08-08,54.0,Emotionally Scarred,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2020-08-08,55.0,Greece,DJ Khaled,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2020-08-08,56.0,Happy Anywhere,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2020-08-08,57.0,Epiphany,Taylor Swift,['pop']
+2020-08-08,58.0,Peace,Taylor Swift,['pop']
+2020-08-08,59.0,Mood Swings,Pop Smoke,"['brooklyn drill', 'rap']"
+2020-08-08,60.0,Said Sum,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2020-08-08,61.0,Girls In The Hood,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2020-08-08,62.0,Supalonely,BENEE,"['alt z', 'nz pop']"
+2020-08-08,63.0,Un Dia (One Day),"J Balvin, Dua Lipa, Bad Bunny","['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2020-08-08,64.0,Rags2Riches,Rod Wave,['florida rap']
+2020-08-08,65.0,Got What I Got,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-08-08,66.0,If The World Was Ending,JP Sa,"['alt z', 'canadian contemporary r&b', 'singer-songwriter pop']"
+,,Be Like That,Kane Brown With Swae Lee,[]
+2020-08-08,68.0,Done,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-08-08,69.0,I Love My Country,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']"
+2020-08-08,70.0,Walk Em Down,NLE Choppa,"['memphis hip hop', 'rap']"
+2020-08-08,71.0,Hoax,Taylor Swift,['pop']
+2020-08-08,72.0,Hate The Other Side,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-08-08,73.0,Tap In,Saweetie,"['cali rap', 'trap queen']"
+2020-08-08,74.0,Conversations,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-08-08,75.0,Toosie Slide,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2020-08-08,76.0,Like That,Doja Cat,"['dance pop', 'pop']"
+2020-08-08,77.0,Got It On Me,Pop Smoke,"['brooklyn drill', 'rap']"
+2020-08-08,78.0,Dollaz On My Head,Gunna,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2020-08-08,79.0,Lovin' On You,Luke Combs,"['contemporary country', 'country']"
+2020-08-08,80.0,Be A Light,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-08-08,81.0,Why We Drink,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']"
+2020-08-08,82.0,Life's A Mess,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-08-08,83.0,One Of Them Girls,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-08-08,84.0,Cool Again,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']"
+2020-08-08,85.0,Mamacita,"Black Eyed Peas, Ozuna + J.Rey Soul","['dance pop', 'pop', 'pop rap']"
+,,Don't Rush,Young T,[]
+2020-08-08,87.0,Righteous,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-08-08,88.0,Stuck With U,Ariana Grande,['pop']
+2020-08-08,89.0,God Whispered Your Name,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2020-08-08,90.0,Blood On My Jeans,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-08-08,91.0,Go!,Kid LAROI,['australian hip hop']
+2020-08-08,92.0,More Than My Hometown,Morgan Wallen,['contemporary country']
+2020-08-08,93.0,Something Special,Pop Smoke,"['brooklyn drill', 'rap']"
+2020-08-08,94.0,Need It,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2020-08-08,95.0,Perfect,Logic,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']"
+2020-08-08,96.0,Be Kind,Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2020-08-08,97.0,Bang!,AJR,['pov: indie']
+2020-08-08,98.0,ily,Surf Mesa,['pop edm']
+2020-08-08,99.0,One Night Standards,Ashley McBryde,"['arkansas country', 'contemporary country', 'country', 'country road']"
+2020-08-08,100.0,Girl Of My Dreams,Rod Wave,['florida rap']

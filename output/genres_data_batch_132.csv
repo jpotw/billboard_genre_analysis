@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2018-07-07,1.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']"
+2018-07-07,2.0,Sad!,,[]
+2018-07-07,3.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2018-07-07,4.0,Girls Like You,Maroon 5 ,['pop']
+2018-07-07,5.0,Psycho,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-07-07,6.0,Nice For What,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+,,Boo'd Up,Ella Mai,Need Manual Check
+2018-07-07,8.0,No Tears Left To Cry,Ariana Grande,['pop']
+2018-07-07,9.0,God's Plan,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2018-07-07,10.0,Meant To Be,Bebe Re,"['dance pop', 'pop']"
+2018-07-07,11.0,Yes Indeed,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-07-07,12.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']"
+2018-07-07,13.0,Moonlight,,[]
+2018-07-07,14.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-07-07,15.0,Plug Walk,Rich The Kid,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']"
+2018-07-07,16.0,Mine,Bazzi,['pop']
+2018-07-07,17.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']"
+2018-07-07,18.0,Changes,,[]
+2018-07-07,19.0,Apes**t,The Carters,['r&b']
+2018-07-07,20.0,Delicate,Taylor Swift,['pop']
+2018-07-07,21.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2018-07-07,22.0,Friends,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2018-07-07,23.0,In My Blood,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
+2018-07-07,24.0,This Is America,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']"
+2018-07-07,25.0,Jocelyn Flores,,[]
+2018-07-07,26.0,I'm Upset,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2018-07-07,27.0,Look Alive,BlocBoy JB ,"['memphis hip hop', 'rap', 'tennessee hip hop', 'trap']"
+2018-07-07,28.0,Never Be The Same,Camila Cabello,"['dance pop', 'pop']"
+2018-07-07,29.0,Walk It Talk It,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2018-07-07,30.0,Taste,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-07-07,31.0,Whatever It Takes,Imagine Dragons,"['modern rock', 'pop', 'rock']"
+2018-07-07,32.0,Be Careful,Cardi B,"['pop', 'rap']"
+2018-07-07,33.0,Rockstar,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-07-07,34.0,F**k Love,,[]
+2018-07-07,35.0,Back To You,Selena Gomez,"['pop', 'post-teen pop']"
+2018-07-07,36.0,One Kiss,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']"
+2018-07-07,37.0,Love Lies,Khalid ,"['pop', 'pop r&b']"
+2018-07-07,38.0,Heaven,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']"
+2018-07-07,39.0,Havana,Camila Cabello ,"['dance pop', 'pop']"
+2018-07-07,40.0,New Rules,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2018-07-07,41.0,I Like Me Better,Lauv,['pop']
+2018-07-07,42.0,All Girls Are The Same,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+,,Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna ",Need Manual Check
+2018-07-07,44.0,Get Along,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,45.0,Simple,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']"
+2018-07-07,46.0,Everybody Dies In Their Nightmares,,[]
+2018-07-07,47.0,Freaky Friday,Lil Dicky ,"['comedy rap', 'indie pop rap', 'pop rap']"
+2018-07-07,48.0,Mercy,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,49.0,One Number Away,Luke Combs,"['contemporary country', 'country']"
+2018-07-07,50.0,Wait,Maroon 5,['pop']
+2018-07-07,51.0,Sit Next To Me,Foster The People,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']"
+2018-07-07,52.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']"
+2018-07-07,53.0,Up Down,Morgan Wallen ,['contemporary country']
+2018-07-07,54.0,All Mine,Kanye West,"['chicago rap', 'hip hop', 'rap']"
+2018-07-07,55.0,The Remedy For A Broken Heart (Why Am I So In Love),,[]
+2018-07-07,56.0,Big Bank,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-07-07,57.0,Dura,Daddy Yankee,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+2018-07-07,58.0,Sober,Demi Lovato,"['pop', 'post-teen pop']"
+2018-07-07,59.0,Ball For Me,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-07-07,60.0,Bigger > You,"2 Chainz, Drake ","['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-07-07,61.0,Say Amen (Saturday Night),Panic! At The Disco,"['modern rock', 'pop']"
+2018-07-07,62.0,Chun-Li,Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2018-07-07,63.0,Japan,Famous De,"['chicago rap', 'drill', 'rap', 'trap']"
+2018-07-07,64.0,X,Nicky Jam ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+2018-07-07,65.0,Legends,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+,,Everything's Gonna Be Alright,David Lee Murphy ,Need Manual Check
+2018-07-07,67.0,Bed,Nicki Minaj ,"['hip pop', 'pop', 'queens hip hop', 'rap']"
+2018-07-07,68.0,KOD,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+2018-07-07,69.0,Alone,Halsey ,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2018-07-07,70.0,Hope,,[]
+2018-07-07,71.0,Esskeetit,Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']"
+2018-07-07,72.0,TATI,6i,['emo rap']
+2018-07-07,73.0,Drowns The Whiskey,Jason Aldean ,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,74.0,Done For Me,Charlie Puth ,"['pop', 'viral pop']"
+2018-07-07,75.0,I Was Jack (You Were Diane),Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,76.0,Fake Love,BTS,"['k-pop', 'k-pop boy group', 'pop']"
+2018-07-07,77.0,Yikes,Kanye West,"['chicago rap', 'hip hop', 'rap']"
+2018-07-07,78.0,Call Out My Name,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2018-07-07,79.0,I Know You,Lil Skies ,['melodic rap']
+2018-07-07,80.0,Numb,,[]
+2018-07-07,81.0,Medicine,Queen Naija,"['pop r&b', 'r&b']"
+2018-07-07,82.0,Praise The Lord (Da Shine),A$AP Rocky ,"['east coast hip hop', 'hip hop', 'rap', 'trap']"
+2018-07-07,83.0,Sin Pijama,Becky G + Natti Natasha,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']"
+2018-07-07,84.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']"
+2018-07-07,85.0,I Lived It,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,86.0,Powerglide,Rae Sremmurd ,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']"
+2018-07-07,87.0,Lovely,Billie Eilish ,"['art pop', 'pop']"
+2018-07-07,88.0,Coming Home,Keith Urban ,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,89.0,Life Goes On,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-07-07,90.0,Zombie,Bad Wolves,"['alternative metal', 'metal', 'post-grunge']"
+2018-07-07,91.0,Overdose,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']"
+2018-07-07,92.0,Life Changes,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,93.0,"Woman, Amen",Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,94.0,Born To Be Yours,Kygo ,"['edm', 'pop', 'pop dance', 'tropical house']"
+2018-07-07,95.0,The Light Is Coming,Ariana Grande ,['pop']
+2018-07-07,96.0,OTW,"Khalid, Ty Dolla $ign ","['pop', 'pop r&b']"
+2018-07-07,97.0,Solo,Clean Bandit ,"['pop', 'uk dance', 'uk funky']"
+2018-07-07,98.0,Take Back Home Girl,Chris Lane ,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-07-07,99.0,Boss,The Carters,['r&b']
+2018-07-07,100.0,Sativa,Jhene Aiko ,['r&b']

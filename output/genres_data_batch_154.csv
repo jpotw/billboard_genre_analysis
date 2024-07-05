@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2018-12-08,1.0,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']"
+2018-12-08,2.0,"Thank U, Next",Ariana Grande,['pop']
+2018-12-08,3.0,Happier,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2018-12-08,4.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2018-12-08,5.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']"
+2018-12-08,6.0,Mo Bamba,Sheck Wes,"['pop rap', 'rap', 'trap']"
+2018-12-08,7.0,ZEZE,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2018-12-08,8.0,Drip Too Hard,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-12-08,9.0,Girls Like You,Maroon 5 ,['pop']
+2018-12-08,10.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2018-12-08,11.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-12-08,12.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']"
+2018-12-08,13.0,Breathin,Ariana Grande,['pop']
+2018-12-08,14.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']"
+2018-12-08,15.0,Wake Up In The Sky,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-12-08,16.0,Trip,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']"
+2018-12-08,17.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-12-08,18.0,Eastside,"benny blanco, Halsey ",['pop']
+2018-12-08,19.0,MIA,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']"
+2018-12-08,20.0,Love Lies,Khalid ,"['pop', 'pop r&b']"
+2018-12-08,21.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']"
+2018-12-08,22.0,Taki Taki,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']"
+2018-12-08,23.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']"
+2018-12-08,24.0,Money,Cardi B,"['pop', 'rap']"
+2018-12-08,25.0,Natural,Imagine Dragons,"['modern rock', 'pop', 'rock']"
+2018-12-08,26.0,A Holly Jolly Christmas,Burl Ives,['american folk revival']
+2018-12-08,27.0,Leave Me Alone,Flipp Dinero,"['melodic rap', 'trap']"
+2018-12-08,28.0,Shallow,Lady Gaga ,"['art pop', 'dance pop', 'pop']"
+2018-12-08,29.0,Better,Khalid,"['pop', 'pop r&b']"
+2018-12-08,30.0,Beautiful,Bazzi ,['pop']
+2018-12-08,31.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']"
+2018-12-08,32.0,Broken,lovelytheband,"['modern alternative rock', 'modern rock', 'pov: indie']"
+2018-12-08,33.0,Jingle Bell Rock,Bobby Helms,[]
+2018-12-08,34.0,God Is A Woman,Ariana Grande,['pop']
+2018-12-08,35.0,Taste,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-12-08,36.0,FEFE,6i,['emo rap']
+2018-12-08,37.0,In My Feelings,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2018-12-08,38.0,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2018-12-08,39.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']"
+2018-12-08,40.0,Uproar,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']"
+2018-12-08,41.0,Lose It,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']"
+2018-12-08,42.0,She Got The Best Of Me ,Luke Combs,"['contemporary country', 'country']"
+2018-12-08,43.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']"
+2018-12-08,44.0,Yes Indeed,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-12-08,45.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2018-12-08,46.0,Nonstop,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2018-12-08,47.0,Ring,Cardi B ,"['pop', 'rap']"
+2018-12-08,48.0,Dangerous,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-12-08,49.0,Best Shot,Jimmie Allen,"['black americana', 'contemporary country', 'country road', 'modern country rock']"
+2018-12-08,50.0,Boo'd Up,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']"
+2018-12-08,51.0,Lie,NF,"['hip hop', 'pop rap']"
+2018-12-08,52.0,When The Party's Over,Billie Eilish,"['art pop', 'pop']"
+2018-12-08,53.0,Drunk Me,Mitchell Tenpenny,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']"
+2018-12-08,54.0,BAD!,,[]
+2018-12-08,55.0,Armed And Dangerous,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2018-12-08,56.0,Lost In Japan,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']"
+2018-12-08,57.0,Arms Around You,,[]
+2018-12-08,58.0,MAMA,6i,['emo rap']
+2018-12-08,59.0,KIKA,6i,['emo rap']
+2018-12-08,60.0,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']"
+2018-12-08,61.0,STOOPID,6i,['emo rap']
+2018-12-08,62.0,TIC TOC,6i,['emo rap']
+2018-12-08,63.0,Close Friends,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-12-08,64.0,Fine China,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2018-12-08,65.0,Be Alright,Dean Lewis,"['australian pop', 'pop']"
+2018-12-08,66.0,Topanga,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+,,That's On Me,Yella Beezy,Need Manual Check
+2018-12-08,68.0,Smile (Living My Best Life),Lil' Duval ,"['florida rap', 'hip hop']"
+2018-12-08,69.0,Come Out And Play,Billie Eilish,"['art pop', 'pop']"
+2018-12-08,70.0,10 Freaky Girls,Metro Boomin ,['rap']
+2018-12-08,71.0,WAKA,6i,['emo rap']
+2018-12-08,72.0,1400 / 999 Freestyle,Trippie Redd ,"['melodic rap', 'rap', 'trap']"
+2018-12-08,73.0,No Stylist,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-12-08,74.0,Burning Man,Dierks Bentley ,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-12-08,75.0,Talk To Me,Tory Lanez ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']"
+2018-12-08,76.0,Backin' It Up,Pardison Fontaine ,['upstate ny rap']
+2018-12-08,77.0,Consequences,Camila Cabello,"['dance pop', 'pop']"
+2018-12-08,78.0,I'm A Mess,Bebe Re,"['dance pop', 'pop']"
+2018-12-08,79.0,Hangin' On,Chris Young,"['contemporary country', 'country', 'country road']"
+2018-12-08,80.0,Dip,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-12-08,81.0,Good Girl,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-12-08,82.0,This Feeling,The Chainsmokers ,['pop']
+2018-12-08,83.0,Lovely,Billie Eilish ,"['art pop', 'pop']"
+2018-12-08,84.0,Ella Quiere Beber,Anuel AA ,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']"
+2018-12-08,85.0,Never Recover,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-12-08,86.0,BEBE,6i,['emo rap']
+2018-12-08,87.0,Rich,Maren Morris,"['classic texas country', 'contemporary country']"
+2018-12-08,88.0,Sixteen,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-12-08,89.0,Blue Tacoma,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-12-08,90.0,You,Jacquees,"['atl hip hop', 'pop r&b', 'pop rap', 'r&b', 'rap', 'trap']"
+2018-12-08,91.0,Space Cadet,Metro Boomin ,['rap']
+2018-12-08,92.0,Last Shot,Kip Moore,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-12-08,93.0,Best Part,Daniel Caesar ,['canadian contemporary r&b']
+2018-12-08,94.0,Girl Like You,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-12-08,95.0,Don't Come Out The House,Metro Boomin ,['rap']
+2018-12-08,96.0,Ocean Eyes,Billie Eilish,"['art pop', 'pop']"
+2018-12-08,97.0,I Love It,Kanye West ,"['chicago rap', 'hip hop', 'rap']"
+2018-12-08,98.0,Falling Down,Lil Peep ,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']"
+2018-12-08,99.0,Noticed,Lil Mosey,"['melodic rap', 'rap conscient']"
+2018-12-08,100.0,Close To Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']"

@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2021-07-31,1.0,Butter,BTS,"['k-pop', 'k-pop boy group', 'pop']"
+2021-07-31,2.0,Good 4 U,Olivia Rodrigo,['pop']
+2021-07-31,3.0,Levitating,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2021-07-31,4.0,Stay,The Kid LAROI ,['australian hip hop']
+2021-07-31,5.0,Kiss Me More,Doja Cat ,"['dance pop', 'pop']"
+2021-07-31,6.0,Bad Habits,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']"
+2021-07-31,7.0,Permission To Dance,BTS,"['k-pop', 'k-pop boy group', 'pop']"
+2021-07-31,8.0,Montero (Call Me By Your Name),Lil Nas ,['lgbtq+ hip hop']
+2021-07-31,9.0,Deja Vu,Olivia Rodrigo,['pop']
+2021-07-31,10.0,Save Your Tears,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-07-31,11.0,Peaches,Justin Bieber ,"['canadian pop', 'pop']"
+,,Leave The Door Open,Silk Sonic (Bruno Mars ,Need Manual Check
+2021-07-31,13.0,Rapstar,Polo G,"['chicago rap', 'rap']"
+2021-07-31,14.0,Wild Side,Normani ,"['pop', 'r&b']"
+2021-07-31,15.0,Fancy Like,Walker Hayes,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,16.0,Heartbreak Anniversary,Giveon,['r&b']
+2021-07-31,17.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-07-31,18.0,Astronaut In The Ocean,Masked Wolf,['australian hip hop']
+2021-07-31,19.0,You Right,Doja Cat ,"['dance pop', 'pop']"
+2021-07-31,20.0,Without You,The Kid LAROI,['australian hip hop']
+2021-07-31,21.0,Forever After All,Luke Combs,"['contemporary country', 'country']"
+2021-07-31,22.0,Every Chance I Get,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2021-07-31,23.0,Motley Crew,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2021-07-31,24.0,Leave Before You Love Me,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2021-07-31,25.0,Thot Shit,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-07-31,26.0,Lil Bit,Nelly ,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']"
+2021-07-31,27.0,Single Saturday Night,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,28.0,Famous Friends,Chris Young + Kane Brown,"['contemporary country', 'country', 'country road']"
+2021-07-31,29.0,Beautiful Mistakes,Maroon 5 ,['pop']
+2021-07-31,30.0,Whole Lotta Money,BIA ,"['rap latina', 'trap queen']"
+2021-07-31,31.0,Ain't Shit,Doja Cat,"['dance pop', 'pop']"
+2021-07-31,32.0,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2021-07-31,33.0,Late At Night,Roddy Ricch,"['melodic rap', 'rap', 'trap']"
+2021-07-31,34.0,Glad You Exist,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2021-07-31,35.0,Beggin',Maneskin,"['indie rock italiano', 'italian pop']"
+2021-07-31,36.0,Blame It On You,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,37.0,Drinkin' Beer. Talkin' God. Amen.,Chase Rice ,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,38.0,Telepatia,Kali Uchis,['colombian pop']
+2021-07-31,39.0,Traitor,Olivia Rodrigo,['pop']
+2021-07-31,40.0,Best Friend,Saweetie ,"['cali rap', 'trap queen']"
+2021-07-31,41.0,Mood,24kGoldn ,"['cali rap', 'pop rap']"
+,,My Ex's Best Friend,Machine Gun Kelly ,Need Manual Check
+2021-07-31,43.0,Drivers License,Olivia Rodrigo,['pop']
+2021-07-31,44.0,Yonaguni,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2021-07-31,45.0,Todo de Ti,Rauw Alejandro,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']"
+2021-07-31,46.0,Need To Know,Doja Cat,"['dance pop', 'pop']"
+2021-07-31,47.0,Wants And Needs,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2021-07-31,48.0,Wockesha,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2021-07-31,49.0,Tell The Vision,Pop Smoke ,"['brooklyn drill', 'rap']"
+2021-07-31,50.0,Holy Smokes,Trippie Redd ,"['melodic rap', 'rap', 'trap']"
+2021-07-31,51.0,Things A Man Oughta Know,Lainey Wilson,"['contemporary country', 'modern country pop']"
+2021-07-31,52.0,pov,Ariana Grande,['pop']
+2021-07-31,53.0,Settling Down,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']"
+2021-07-31,54.0,Bout A Million,Pop Smoke ,"['brooklyn drill', 'rap']"
+,,One Too Many,Keith Urban Duet With P!nk,Need Manual Check
+2021-07-31,56.0,Ball If I Want To,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2021-07-31,57.0,Arcade,Duncan Laurence,['dutch pop']
+2021-07-31,58.0,Chasing After You,Ryan Hurd With Maren Morris,"['contemporary country', 'country pop', 'country road', 'modern country rock']"
+2021-07-31,59.0,Drunk (And I Don't Wanna Go Home),Elle King ,['modern blues rock']
+2021-07-31,60.0,You,Regard ,"['pop dance', 'pop edm', 'slap house', 'uk dance']"
+2021-07-31,61.0,Waves,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,62.0,Way Less Sad,AJR,['pov: indie']
+2021-07-31,63.0,Gone,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,64.0,Woo Baby,Pop Smoke ,"['brooklyn drill', 'rap']"
+2021-07-31,65.0,We Didn't Have Much,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']"
+2021-07-31,66.0,Country Again,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,67.0,Essence,Wizkid ,"['afrobeats', 'afropop', 'azonto', 'nigerian hip hop', 'nigerian pop']"
+2021-07-31,68.0,Favorite Crime,Olivia Rodrigo,['pop']
+,,my.life,"J. Cole, 21 Savage ",Need Manual Check
+2021-07-31,70.0,Memory,Kane Brown ,"['black americana', 'contemporary country', 'country', 'country road']"
+2021-07-31,71.0,Mr. Jones,Pop Smoke ,"['brooklyn drill', 'rap']"
+2021-07-31,72.0,Straightenin,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2021-07-31,73.0,AM,Nio Garcia ,"['reggaeton', 'trap latino', 'urbano latino']"
+2021-07-31,74.0,Ski,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']"
+2021-07-31,75.0,NDA,Billie Eilish,"['art pop', 'pop']"
+2021-07-31,76.0,Happier,Olivia Rodrigo,['pop']
+2021-07-31,77.0,Tombstone,Rod Wave,['florida rap']
+2021-07-31,78.0,A-O-K,Tai Verdes,"['modern indie pop', 'singer-songwriter pop']"
+2021-07-31,79.0,Red Light Green Light,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2021-07-31,80.0,More Time,Pop Smoke,"['brooklyn drill', 'rap']"
+2021-07-31,81.0,Hats Off,"Lil Baby, Lil Durk ","['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-07-31,82.0,Manslaughter,Pop Smoke ,"['brooklyn drill', 'rap']"
+2021-07-31,83.0,Minimum Wage,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,84.0,Come Through,H.E.R. ,"['r&b', 'rap']"
+2021-07-31,85.0,Fiel,"Los Legendarios, Wisin ",[]
+2021-07-31,86.0,Demeanor,Pop Smoke ,"['brooklyn drill', 'rap']"
+2021-07-31,87.0,2055,Sleepy Hallow,"['brooklyn drill', 'nyc rap']"
+2021-07-31,88.0,Brutal,Olivia Rodrigo,['pop']
+2021-07-31,89.0,Love Again,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2021-07-31,90.0,I Was On A Boat That Day,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-07-31,91.0,WUSYANAME,"Tyler, The Creator ","['hip hop', 'rap']"
+,,transparentsoul,Willow ,Need Manual Check
+2021-07-31,93.0,Am I The Only One,Aaron Lewis,"['country road', 'outlaw country']"
+2021-07-31,94.0,Twerkulator,City Girls,"['scam rap', 'trap queen']"
+2021-07-31,95.0,My Boy,Elvie Shane,['modern country pop']
+2021-07-31,96.0,Build A Bitch,Bella Poarch,['modern alternative pop']
+2021-07-31,97.0,30,Pop Smoke ,"['brooklyn drill', 'rap']"
+2021-07-31,98.0,You Should Probably Leave,Chris Stapleton,"['contemporary country', 'outlaw country']"
+2021-07-31,99.0,"Jealousy, Jealousy",Olivia Rodrigo,['pop']
+2021-07-31,100.0,Cold Beer Calling My Name,Jameson Rodgers ,"['contemporary country', 'country pop', 'modern country pop', 'modern country rock']"

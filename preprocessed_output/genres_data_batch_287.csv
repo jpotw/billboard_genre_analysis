@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2021-06-26,1.0,Butter,BTS,"['k-pop', 'k-pop boy group', 'pop']"
+2021-06-26,2.0,Good 4 U,Olivia Rodrigo,['pop']
+2021-06-26,3.0,Levitating,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2021-06-26,4.0,Kiss Me More,Doja Cat,"['dance pop', 'pop']"
+2021-06-26,5.0,Peaches,Justin Bieber,"['canadian pop', 'pop']"
+,,Leave The Door Open,Silk Sonic (Bruno Mars,[]
+2021-06-26,7.0,Save Your Tears,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-06-26,8.0,Astronaut In The Ocean,Masked Wolf,['australian hip hop']
+2021-06-26,9.0,Montero (Call Me By Your Name),Lil Nas,['lgbtq+ hip hop']
+2021-06-26,10.0,Deja Vu,Olivia Rodrigo,['pop']
+2021-06-26,11.0,Rapstar,Polo G,"['chicago rap', 'rap']"
+2021-06-26,12.0,Forever After All,Luke Combs,"['contemporary country', 'country']"
+2021-06-26,13.0,Without You,The Kid LAROI,['australian hip hop']
+2021-06-26,14.0,Beautiful Mistakes,Maroon 5,['pop']
+2021-06-26,15.0,Having Our Way,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2021-06-26,16.0,Thot Shit,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-06-26,17.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-06-26,18.0,Yonaguni,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2021-06-26,19.0,Drivers License,Olivia Rodrigo,['pop']
+2021-06-26,20.0,Best Friend,Saweetie,"['cali rap', 'trap queen']"
+2021-06-26,21.0,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']"
+2021-06-26,22.0,Heartbreak Anniversary,Giveon,['r&b']
+2021-06-26,23.0,Straightenin,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2021-06-26,24.0,Wants And Needs,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2021-06-26,25.0,Traitor,Olivia Rodrigo,['pop']
+2021-06-26,26.0,No Return,Polo G,"['chicago rap', 'rap']"
+2021-06-26,27.0,Avalanche,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2021-06-26,28.0,Famous Friends,Chris Young + Kane Brown,"['contemporary country', 'country', 'country road']"
+2021-06-26,29.0,Calling My Phone,Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']"
+2021-06-26,30.0,Telepatia,Kali Uchis,['colombian pop']
+2021-06-26,31.0,Mood,24kGoldn,"['cali rap', 'pop rap']"
+2021-06-26,32.0,Gone,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-06-26,33.0,pov,Ariana Grande,['pop']
+2021-06-26,34.0,Every Chance I Get,DJ Khaled,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2021-06-26,35.0,Late At Night,Roddy Ricch,"['melodic rap', 'rap', 'trap']"
+,,My Ex's Best Friend,Machine Gun Kelly,[]
+2021-06-26,37.0,Lil Bit,Nelly,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']"
+2021-06-26,38.0,Need To Know,Doja Cat,"['dance pop', 'pop']"
+2021-06-26,39.0,Wockesha,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2021-06-26,40.0,Happier,Olivia Rodrigo,['pop']
+2021-06-26,41.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']"
+2021-06-26,42.0,Up,Cardi B,"['pop', 'rap']"
+2021-06-26,43.0,Favorite Crime,Olivia Rodrigo,['pop']
+2021-06-26,44.0,Blame It On You,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-06-26,45.0,Todo de Ti,Rauw Alejandro,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']"
+2021-06-26,46.0,Beat Box,SpotemGottem,"['florida drill', 'florida rap']"
+2021-06-26,47.0,Time Today,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+2021-06-26,48.0,Gang Gang,Polo G,"['chicago rap', 'rap']"
+2021-06-26,49.0,Hats Off,"Lil Baby, Lil Durk","['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-06-26,50.0,Settling Down,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']"
+2021-06-26,51.0,Track Star,Mooski,['alabama rap']
+2021-06-26,52.0,Brutal,Olivia Rodrigo,['pop']
+2021-06-26,53.0,Black Hearted,Polo G,"['chicago rap', 'rap']"
+2021-06-26,54.0,Almost Maybes,Jordan Davis,['contemporary country']
+2021-06-26,55.0,Nobody,Dylan Scott,"['contemporary country', 'country road', 'modern country rock']"
+,,my.life,"J. Cole, 21 Savage",[]
+2021-06-26,57.0,Glad You Exist,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2021-06-26,58.0,Leave Before You Love Me,Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2021-06-26,59.0,Painting Pictures,Polo G,"['chicago rap', 'rap']"
+2021-06-26,60.0,Single Saturday Night,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-06-26,61.0,Modern Day,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2021-06-26,62.0,Breaking Up Was Easy In The 90's,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']"
+2021-06-26,63.0,Toxic,Polo G,"['chicago rap', 'rap']"
+2021-06-26,64.0,Solar Power,Lorde,"['art pop', 'metropopolis', 'nz pop', 'pop']"
+2021-06-26,65.0,Malibu,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2021-06-26,66.0,Ski,Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']"
+2021-06-26,67.0,Build A Bitch,Bella Poarch,['modern alternative pop']
+2021-06-26,68.0,Way Less Sad,AJR,['pov: indie']
+2021-06-26,69.0,"Jealousy, Jealousy",Olivia Rodrigo,['pop']
+,,One Too Many,Keith Urban Duet With P!nk,[]
+2021-06-26,71.0,Type Shit,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2021-06-26,72.0,Made For You,Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-06-26,73.0,Enough For You,Olivia Rodrigo,['pop']
+2021-06-26,74.0,Arcade,Duncan Laurence,['dutch pop']
+2021-06-26,75.0,No More Parties,Coi Leray,"['new jersey underground rap', 'trap queen']"
+2021-06-26,76.0,Minimum Wage,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2021-06-26,77.0,Lost Cause,Billie Eilish,"['art pop', 'pop']"
+2021-06-26,78.0,Drinkin' Beer. Talkin' God. Amen.,Chase Rice,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-06-26,79.0,Clueless,Polo G,"['chicago rap', 'rap']"
+2021-06-26,80.0,How It Feels,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-06-26,81.0,Things A Man Oughta Know,Lainey Wilson,"['contemporary country', 'modern country pop']"
+2021-06-26,82.0,Voice Of The Heroes,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-06-26,83.0,Heart Of A Giant,Polo G,"['chicago rap', 'rap']"
+2021-06-26,84.0,pride.is.the.devil,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+2021-06-26,85.0,Party Lyfe,Polo G,"['chicago rap', 'rap']"
+2021-06-26,86.0,Go Part 1,Polo G,"['chicago rap', 'rap']"
+,,transparentsoul,Willow,[]
+2021-06-26,88.0,Epidemic,Polo G,"['chicago rap', 'rap']"
+2021-06-26,89.0,Boom,Polo G,"['chicago rap', 'rap']"
+2021-06-26,90.0,Drunk (And I Don't Wanna Go Home),Elle King,['modern blues rock']
+2021-06-26,91.0,Quicksand,Morray,['pop rap']
+2021-06-26,92.0,Country Again,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-06-26,93.0,Fiel,"Los Legendarios, Wisin",[]
+2021-06-26,94.0,2040,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-06-26,95.0,"1 Step Forward, 3 Steps Back",Olivia Rodrigo,['pop']
+2021-06-26,96.0,Follow You,Imagine Dragons,"['modern rock', 'pop', 'rock']"
+2021-06-26,97.0,Bloody Canvas,Polo G,"['chicago rap', 'rap']"
+2021-06-26,98.0,Miss The Rage,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2021-06-26,99.0,Still Runnin,"Lil Baby, Lil Durk","['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-06-26,100.0,You,Regard,"['pop dance', 'pop edm', 'slap house', 'uk dance']"

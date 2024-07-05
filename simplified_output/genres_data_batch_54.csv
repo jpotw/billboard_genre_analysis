@@ -1,0 +1,95 @@
+date,rank,song_title,artist,genres,simplified_genre
+2017-01-07,1.0,Starboy,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,2.0,Black Beatles,Rae Sremmurd ,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2017-01-07,3.0,Closer,The Chainsmokers ,['pop'],Pop
+2017-01-07,4.0,24K Magic,Bruno Mars,"['dance pop', 'pop']",Pop
+2017-01-07,5.0,Juju On That Beat (TZ Anthem),Zay Hilfigerrr ,['viral trap'],Hip Hop
+2017-01-07,6.0,Side To Side,Ariana Grande ,['pop'],Pop
+2017-01-07,7.0,Let Me Love You,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
+2017-01-07,8.0,Don't Wanna Know,Maroon 5 ,['pop'],Pop
+2017-01-07,10.0,Fake Love,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-01-07,11.0,Caroline,Amine,"['pop rap', 'portland hip hop', 'rap', 'underground hip hop']",Pop
+2017-01-07,12.0,Heathens,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2017-01-07,13.0,Bad And Boujee,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2017-01-07,14.0,Scars To Your Beautiful,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,16.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",Pop
+2017-01-07,17.0,Starving,Hailee Steinfeld ,['pop'],Pop
+2017-01-07,18.0,I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,"['pop', 'uk pop']",Pop
+2017-01-07,19.0,OOOUUU,Young M.A,"['alternative r&b', 'lgbtq+ hip hop', 'nyc rap', 'rap', 'trap']",R&B
+2017-01-07,20.0,Love On The Brain,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
+2017-01-07,21.0,Bounce Back,Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-01-07,22.0,The Greatest,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
+2017-01-07,23.0,Hallelujah,Pentatoni,"['a cappella', 'viral pop']",Pop
+2017-01-07,24.0,All Time Low,Jon Bellion,['indie pop rap'],Pop
+2017-01-07,25.0,I Feel It Coming,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,26.0,Treat You Better,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2017-01-07,27.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']",Rock
+2017-01-07,28.0,Mercy,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2017-01-07,29.0,Jingle Bell Rock,Bobby Helms,[],기타
+2017-01-07,30.0,In The Name Of Love,Martin Garri,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Electronic/Dance
+2017-01-07,31.0,I Hate U I Love U,gnash ,"['alt z', 'pop']",Pop
+2017-01-07,32.0,Can't Stop The Feeling!,Justin Timberlake,"['dance pop', 'pop']",Pop
+2017-01-07,33.0,Blue Ain't Your Color,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-01-07,34.0,Don't Let Me Down,The Chainsmokers ,['pop'],Pop
+2017-01-07,35.0,Deja Vu,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,36.0,Cheap Thrills,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
+2017-01-07,37.0,This Town,Niall Horan,['pop'],Pop
+2017-01-07,38.0,Cold Water,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
+2017-01-07,39.0,Chill Bill,Rob $tone ,"['san diego rap', 'viral trap']",Hip Hop
+2017-01-07,40.0,Love Me Now,John Legend,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",Pop
+2017-01-07,41.0,Both,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-01-07,42.0,Unsteady,,[],기타
+2017-01-07,43.0,X,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2017-01-07,44.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']",Pop
+2017-01-07,45.0,"Mary, Did You Know?",Pentatoni,"['a cappella', 'viral pop']",Pop
+2017-01-07,46.0,A Holly Jolly Christmas,Burl Ives,['american folk revival'],기타
+2017-01-07,47.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",Jazz
+2017-01-07,48.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']",기타
+2017-01-07,49.0,Party Monster,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,50.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']",Pop
+2017-01-07,51.0,Water Under The Bridge,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
+2017-01-07,52.0,You Was Right,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
+2017-01-07,53.0,No Heart,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2017-01-07,54.0,Neighbors,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,55.0,Used To This,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-01-07,57.0,Do You Mind,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2017-01-07,58.0,Party,Chris Brown ,"['r&b', 'rap']",R&B
+2017-01-07,59.0,Immortal,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,60.0,May We All,Florida Georgia Line ,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2017-01-07,61.0,Say You Won't Let Go,James Arthur,"['pop', 'talent show', 'uk pop']",Pop
+2017-01-07,62.0,Wanna Be That Song,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-01-07,63.0,Too Much Sauce,DJ ESCO ,"['atl hip hop', 'trap']",Hip Hop
+2017-01-07,64.0,Better Man,Little Big Town,"['contemporary country', 'country', 'country dawn', 'country road']",Country
+2017-01-07,65.0,Chantaje,Shakira ,"['colombian pop', 'dance pop', 'latin pop', 'pop']",Pop
+2017-01-07,66.0,Dirty Laundry,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2017-01-07,68.0,Redbone,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2017-01-07,69.0,Sneakin',Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-01-07,70.0,Million Reasons,Lady Gaga,"['art pop', 'dance pop', 'pop']",Pop
+2017-01-07,71.0,A Guy With A Girl,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-01-07,72.0,Just Hold On,Steve Aoki ,"['edm', 'electro house', 'pop dance']",Electronic/Dance
+2017-01-07,73.0,Song For Another Time,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-01-07,75.0,Make Me (Cry),Noah Cyrus ,"['alt z', 'pop']",Pop
+2017-01-07,76.0,Star Of The Show,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-01-07,77.0,HandClap,Fitz And The Tantrums,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'pov: indie']",Rock
+2017-01-07,78.0,How I'll Always Be,Tim McGraw,"['contemporary country', 'country', 'country road']",Country
+2017-01-07,79.0,Rockabye,Clean Bandit ,"['pop', 'uk dance', 'uk funky']",Pop
+2017-01-07,80.0,Alone,Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2017-01-07,81.0,How Far I'll Go,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,82.0,All We Know,The Chainsmokers ,['pop'],Pop
+2017-01-07,83.0,Change,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,84.0,Dirt On My Boots,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-01-07,85.0,Selfish,PnB Rock,"['melodic rap', 'rap', 'trap']",Hip Hop
+2017-01-07,87.0,Fresh Eyes,Andy Grammer,"['neo mellow', 'post-teen pop', 'viral pop']",Pop
+2017-01-07,88.0,Sleep Without You,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-01-07,89.0,She's Mine Pt. 1,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,90.0,Ville Mentality,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,91.0,OTW,DJ Luke Nasty,"['north carolina hip hop', 'trap']",Hip Hop
+2017-01-07,92.0,Red Opps,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2017-01-07,93.0,For Whom The Bell Tolls,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,94.0,Six Feet Under,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,95.0,Reminder,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,96.0,Play That Song,Train,"['dance pop', 'neo mellow', 'pop', 'pop rock']",Pop
+2017-01-07,97.0,Sidewalks,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-01-07,98.0,Foldin Clothes,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
+2017-01-07,99.0,Swang,Rae Sremmurd,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2017-01-07,100.0,Versace On The Floor,Bruno Mars,"['dance pop', 'pop']",Pop

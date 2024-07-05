@@ -1,0 +1,100 @@
+date,rank,song_title,artist,genres,simplified_genre
+2019-12-21,1.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",Pop
+2019-12-21,2.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2019-12-21,3.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']",Rock
+2019-12-21,4.0,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2019-12-21,5.0,Good As Hell,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
+2019-12-21,6.0,Roxanne,Arizona Zervas,"['indie pop rap', 'pop rap', 'rhode island rap']",Pop
+2019-12-21,7.0,Memories,Maroon 5,['pop'],Pop
+2019-12-21,8.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2019-12-21,9.0,Dance Monkey,Tones And I,['australian pop'],Pop
+2019-12-21,10.0,A Holly Jolly Christmas,Burl Ives,['american folk revival'],기타
+2019-12-21,11.0,BOP,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-12-21,12.0,Bandit,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2019-12-21,13.0,Lose You To Love Me,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2019-12-21,14.0,"10,000 Hours",Dan + Shay ,"['contemporary country', 'country', 'country road']",Country
+2019-12-21,15.0,Jingle Bell Rock,Bobby Helms,[],기타
+2019-12-21,16.0,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2019-12-21,17.0,Heartless,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2019-12-21,18.0,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2019-12-21,19.0,No Guidance,Chris Brown ,"['r&b', 'rap']",R&B
+2019-12-21,20.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']",기타
+2019-12-21,21.0,Bad Guy,Billie Eilish,"['art pop', 'pop']",Pop
+2019-12-21,22.0,Panini,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
+2019-12-21,23.0,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
+2019-12-21,24.0,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",Jazz
+2019-12-21,25.0,HIGHEST IN THE ROOM,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2019-12-21,26.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']",Pop
+2019-12-21,27.0,Trampoline,SHAED,['electropop'],Pop
+2019-12-21,28.0,Woah,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2019-12-21,29.0,Legends,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2019-12-21,30.0,Everything I Wanted,Billie Eilish,"['art pop', 'pop']",Pop
+2019-12-21,31.0,Ran$om,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
+2019-12-21,32.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",Jazz
+2019-12-21,33.0,Hot,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,34.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']",Pop
+2019-12-21,35.0,Adore You,Harry Styles,['pop'],Pop
+2019-12-21,36.0,Falling,Trevor Daniel,['melodic rap'],Hip Hop
+2019-12-21,37.0,Sleigh Ride,The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",Pop
+2019-12-21,38.0,Rudolph The Red-Nosed Reindeer,Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Country
+2019-12-21,39.0,Old Town Road,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
+2019-12-21,40.0,Lover,Taylor Swift,['pop'],Pop
+2019-12-21,41.0,One Man Band,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-12-21,42.0,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2019-12-21,43.0,Happy Holiday / The Holiday Season,Andy Williams,"['adult standards', 'easy listening']",기타
+2019-12-21,44.0,Only Human,Jonas Brothers,"['boy band', 'pop']",Pop
+2019-12-21,45.0,On Chill,Wale ,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Pop
+2019-12-21,46.0,Even Though I'm Leaving,Luke Combs,"['contemporary country', 'country']",Country
+2019-12-21,47.0,The Box,Roddy Ricch,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,48.0,Graveyard,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2019-12-21,49.0,Robbery,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2019-12-21,50.0,Beautiful People,Ed Sheeran ,[],기타
+2019-12-21,51.0,Hot Girl Bummer,blackbear,['pop'],Pop
+2019-12-21,52.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2019-12-21,53.0,Playing Games,Summer Walker,"['r&b', 'rap']",R&B
+2019-12-21,54.0,The Bones,Maren Morris,"['classic texas country', 'contemporary country']",Country
+2019-12-21,55.0,Into The Unknown,Idina Menzel ,"['hollywood', 'movie tunes', 'show tunes']",기타
+2019-12-21,56.0,Heat,Chris Brown ,"['r&b', 'rap']",R&B
+2019-12-21,57.0,Juicy,Doja Cat ,"['dance pop', 'pop']",Pop
+2019-12-21,58.0,Start Wit Me,Roddy Ricch ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,59.0,Christmas Tree Farm,Taylor Swift,['pop'],Pop
+2019-12-21,60.0,Hate Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
+2019-12-21,61.0,Like It's Christmas,Jonas Brothers,"['boy band', 'pop']",Pop
+2019-12-21,62.0,VIBEZ,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-12-21,63.0,Remember You Young,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-12-21,64.0,Death,Trippie Redd ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,65.0,Heart On Ice,Rod Wave,['florida rap'],Hip Hop
+2019-12-21,66.0,Camelot,NLE Choppa,"['memphis hip hop', 'rap']",Hip Hop
+2019-12-21,67.0,Take What You Want,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2019-12-21,68.0,Ridin' Roads,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-12-21,70.0,What If I Never Get Over You,Lady Antebellum,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']",Country
+2019-12-21,71.0,Heartache Medication,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-12-21,72.0,Peta,Roddy Ricch ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,73.0,Tip Toe,Roddy Ricch ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,74.0,Suicidal,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
+2019-12-21,75.0,Vete,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2019-12-21,76.0,No Idea,Don Toliver,"['pop rap', 'rap', 'trap']",Pop
+2019-12-21,77.0,Kinfolks,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2019-12-21,78.0,6 Kiss,Trippie Redd ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,79.0,Prayed For You,Matt Stell,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']",Country
+2019-12-21,80.0,223's,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
+2019-12-21,81.0,Slow Dancing In The Dark,Joji,['viral pop'],Pop
+2019-12-21,82.0,My Oh My,Camila Cabello ,"['dance pop', 'pop']",Pop
+2019-12-21,83.0,Enemies,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2019-12-21,84.0,Baby Sitter,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-12-21,85.0,Bad Vibes Forever,,[],기타
+2019-12-21,86.0,Candy,Doja Cat,"['dance pop', 'pop']",Pop
+2019-12-21,87.0,Empty,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2019-12-21,88.0,We Back,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-12-21,89.0,Easy,DaniLeigh ,"['pop r&b', 'r&b', 'rap latina']",Pop
+2019-12-21,90.0,Homesick,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
+2019-12-21,91.0,Nice To Meet Ya,Niall Horan,['pop'],Pop
+2019-12-21,92.0,Watermelon Sugar,Harry Styles,['pop'],Pop
+2019-12-21,93.0,Show Yourself,Idina Menzel ,"['hollywood', 'movie tunes', 'show tunes']",기타
+2019-12-21,94.0,We Were,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2019-12-21,95.0,Yellow Hearts,Ant Saunders,['chill r&b'],R&B
+2019-12-21,96.0,RITMO (Bad Boys For Life),Black Eyed Peas ,"['dance pop', 'pop', 'pop rap']",Pop
+2019-12-21,97.0,Lord Above,Fat Joe ,"['bronx hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2019-12-21,98.0,Big Stepper,Roddy Ricch,"['melodic rap', 'rap', 'trap']",Hip Hop
+2019-12-21,99.0,Cuban Links,Rod Wave ,['florida rap'],Hip Hop
+2019-12-21,100.0,BEST ON EARTH,Russ ,"['hawaiian hip hop', 'pop rap']",Hip Hop

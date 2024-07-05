@@ -1,0 +1,99 @@
+date,rank,song_title,artist,genres,simplified_genre
+2018-04-14,1.0,God's Plan,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-04-14,2.0,Meant To Be,Bebe Re,"['dance pop', 'pop']",Pop
+2018-04-14,3.0,Psycho,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-04-14,4.0,Call Out My Name,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-04-14,5.0,Look Alive,BlocBoy JB ,"['memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",Hip Hop
+2018-04-14,6.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
+2018-04-14,7.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
+2018-04-14,8.0,Finesse,Bruno Mars ,"['dance pop', 'pop']",Pop
+2018-04-14,9.0,Freaky Friday,Lil Dicky ,"['comedy rap', 'indie pop rap', 'pop rap']",Hip Hop
+2018-04-14,10.0,Walk It Talk It,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-04-14,11.0,Havana,Camila Cabello ,"['dance pop', 'pop']",Pop
+2018-04-14,12.0,Mine,Bazzi,['pop'],Pop
+2018-04-14,13.0,Plug Walk,Rich The Kid,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",Hip Hop
+2018-04-14,14.0,Never Be The Same,Camila Cabello,"['dance pop', 'pop']",Pop
+2018-04-14,15.0,Pray For Me,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-04-14,16.0,Be Careful,Cardi B,"['pop', 'rap']",Pop
+2018-04-14,17.0,Stir Fry,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-04-14,18.0,Sad!,,[],기타
+2018-04-14,19.0,All The Stars,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2018-04-14,20.0,Ric Flair Drip,Offset ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-04-14,21.0,Rockstar,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-04-14,22.0,New Rules,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2018-04-14,23.0,Whatever It Takes,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2018-04-14,24.0,Let You Down,NF,"['hip hop', 'pop rap']",Hip Hop
+2018-04-14,25.0,Friends,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2018-04-14,26.0,Try Me,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-04-14,27.0,Wasted Times,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-04-14,28.0,Heaven,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
+2018-04-14,29.0,Thunder,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2018-04-14,30.0,Wait,Maroon 5,['pop'],Pop
+2018-04-14,31.0,In My Blood,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2018-04-14,32.0,Him & I,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
+2018-04-14,33.0,Lights Down Low,MA,"['singer-songwriter pop', 'teen pop', 'viral pop']",Pop
+2018-04-14,34.0,Powerglide,Rae Sremmurd ,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2018-04-14,35.0,I Was Never There,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-04-14,36.0,You Make It Easy,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,37.0,Say Something,Justin Timberlake ,"['dance pop', 'pop']",Pop
+2018-04-14,38.0,Feel It Still,Portugal. The Man,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock']",Rock
+2018-04-14,39.0,I Fall Apart,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2018-04-14,41.0,New Freezer,Rich The Kid ,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",Hip Hop
+2018-04-14,42.0,Bad At Love,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2018-04-14,43.0,Hurt You,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-04-14,44.0,Marry Me,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,45.0,Medicine,Queen Naija,"['pop r&b', 'r&b']",Pop
+2018-04-14,46.0,Delicate,Taylor Swift,['pop'],Pop
+2018-04-14,47.0,X,Nicky Jam ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
+2018-04-14,48.0,Lemon,N*E*R*D ,"['hip hop', 'virginia hip hop']",Hip Hop
+2018-04-14,49.0,Most People Are Good,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,50.0,Singles You Up,Jordan Davis,['contemporary country'],Country
+2018-04-14,51.0,Bartier Cardi,Cardi B ,"['pop', 'rap']",Pop
+2018-04-14,52.0,Privilege,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2018-04-14,53.0,Japan,Famous De,"['chicago rap', 'drill', 'rap', 'trap']",Hip Hop
+2018-04-14,54.0,Outside Today,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2018-04-14,55.0,No Excuses,Meghan Trainor,"['hip pop', 'pop']",Pop
+2018-04-14,56.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
+2018-04-14,57.0,IDGAF,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2018-04-14,58.0,Changes,,[],기타
+2018-04-14,59.0,Dura,Daddy Yankee,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
+2018-04-14,60.0,Billy,6i,['emo rap'],Hip Hop
+2018-04-14,61.0,Zombie,Bad Wolves,"['alternative metal', 'metal', 'post-grunge']",기타
+2018-04-14,62.0,Tell Me You Love Me,Demi Lovato,"['pop', 'post-teen pop']",Pop
+2018-04-14,63.0,El Farsante,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+2018-04-14,64.0,Broken Halos,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2018-04-14,65.0,The Long Way,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,66.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2018-04-14,67.0,One Number Away,Luke Combs,"['contemporary country', 'country']",Country
+2018-04-14,68.0,Hardaway,Derez De'Shon,"['atl trap', 'memphis hip hop', 'trap']",Hip Hop
+2018-04-14,69.0,Everyday,Logic ,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2018-04-14,70.0,Top Off,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2018-04-14,71.0,Moonlight,,[],기타
+2018-04-14,72.0,Sit Next To Me,Foster The People,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']",Rock
+2018-04-14,73.0,I Like Me Better,Lauv,['pop'],Pop
+2018-04-14,74.0,Sativa,Jhene Aiko ,['r&b'],R&B
+2018-04-14,75.0,All On Me,Devin Dawson,"['contemporary country', 'country pop', 'country road', 'modern country rock']",Country
+2018-04-14,76.0,Five More Minutes,Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,77.0,Red Roses,Lil Skies ,['melodic rap'],Hip Hop
+2018-04-14,79.0,She's With Me,High Valley,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country road', 'modern country rock']",Country
+2018-04-14,80.0,When We,Tank,"['pop r&b', 'r&b']",Pop
+2018-04-14,81.0,I Lived It,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,82.0,Broken Clocks,SZA,"['pop', 'r&b', 'rap']",Pop
+2018-04-14,83.0,Up Down,Morgan Wallen ,['contemporary country'],Country
+2018-04-14,84.0,No Roots,Alice Merton,[],기타
+2018-04-14,85.0,Nowadays,Lil Skies ,['melodic rap'],Hip Hop
+2018-04-14,86.0,Say Amen (Saturday Night),Panic! At The Disco,"['modern rock', 'pop']",Rock
+2018-04-14,87.0,No Smoke,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2018-04-14,88.0,Tempo,Chris Brown,"['r&b', 'rap']",R&B
+2018-04-14,89.0,OKRA,"Tyler, The Creator","['hip hop', 'rap']",Hip Hop
+2018-04-14,90.0,For The First Time,Darius Rucker,"['black americana', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,91.0,Echame La Culpa,Luis Fonsi ,"['latin pop', 'puerto rican pop']",Pop
+2018-04-14,92.0,Take Back Home Girl,Chris Lane ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,93.0,Written In The Sand,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,94.0,"Woman, Amen",Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2018-04-14,95.0,La Modelo,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+2018-04-14,96.0,Proud,2 Chainz ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2018-04-14,97.0,Beautiful Trauma,P!nk,"['dance pop', 'pop']",Pop
+2018-04-14,98.0,NBAYoungboat,Lil Yachty ,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
+2018-04-14,99.0,Get You,Daniel Caesar ,['canadian contemporary r&b'],R&B
+2018-04-14,100.0,Focus,H.E.R.,"['r&b', 'rap']",R&B

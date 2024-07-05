@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2019-08-03,1.0,Old Town Road,Lil Nas ,['lgbtq+ hip hop']
+2019-08-03,2.0,Bad Guy,Billie Eilish,"['art pop', 'pop']"
+2019-08-03,3.0,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']"
+2019-08-03,4.0,Talk,Khalid,"['pop', 'pop r&b']"
+2019-08-03,5.0,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2019-08-03,6.0,I Don't Care,Ed Sheeran ,[]
+2019-08-03,7.0,Goodbyes,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-08-03,8.0,Sucker,Jonas Brothers,"['boy band', 'pop']"
+2019-08-03,9.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-08-03,10.0,If I Can't Have You,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
+2019-08-03,11.0,No Guidance,Chris Brown ,"['r&b', 'rap']"
+2019-08-03,12.0,Suge,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2019-08-03,13.0,Money In The Grave,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2019-08-03,14.0,The Git Up,Blanco Brown,"['black americana', 'country rap']"
+2019-08-03,15.0,You Need To Calm Down,Taylor Swift,['pop']
+2019-08-03,16.0,"Hey Look Ma, I Made It",Panic! At The Disco,"['modern rock', 'pop']"
+2019-08-03,17.0,Dancing With A Stranger,Sam Smith ,"['pop', 'uk pop']"
+2019-08-03,18.0,Wow.,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+,,Ran$om,Lil Tecca,Need Manual Check
+2019-08-03,20.0,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']"
+2019-08-03,21.0,God's Country,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-03,22.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2019-08-03,23.0,The London,"Young Thug, J. Cole ","['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']"
+2019-08-03,24.0,Beer Never Broke My Heart,Luke Combs,"['contemporary country', 'country']"
+2019-08-03,25.0,Beautiful People,Ed Sheeran ,[]
+2019-08-03,26.0,Pop Out,Polo G ,"['chicago rap', 'rap']"
+2019-08-03,27.0,Happier,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2019-08-03,28.0,Panini,Lil Nas ,['lgbtq+ hip hop']
+2019-08-03,29.0,How Do You Sleep?,Sam Smith,"['pop', 'uk pop']"
+2019-08-03,30.0,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2019-08-03,31.0,Sweet But Psycho,Ava Ma,['pop']
+2019-08-03,32.0,Never Really Over,Katy Perry,['pop']
+2019-08-03,33.0,7 Rings,Ariana Grande,['pop']
+2019-08-03,34.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']"
+2019-08-03,35.0,Whiskey Glasses,Morgan Wallen,['contemporary country']
+2019-08-03,36.0,Shotta Flow,NLE Choppa,"['memphis hip hop', 'rap']"
+2019-08-03,37.0,My Type,Saweetie,"['cali rap', 'trap queen']"
+2019-08-03,38.0,Knockin' Boots,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-03,39.0,Rumor,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-03,40.0,Act Up,City Girls,"['scam rap', 'trap queen']"
+2019-08-03,41.0,All To Myself,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2019-08-03,42.0,Baby,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2019-08-03,43.0,Better,Khalid,"['pop', 'pop r&b']"
+2019-08-03,44.0,GIRL,Maren Morris,"['classic texas country', 'contemporary country']"
+2019-08-03,45.0,Going Bad,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-03,46.0,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']"
+2019-08-03,47.0,Shallow,Lady Gaga ,"['art pop', 'dance pop', 'pop']"
+2019-08-03,48.0,Con Calma,Daddy Yankee ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+2019-08-03,49.0,Middle Child,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+2019-08-03,50.0,Clout,Offset ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']"
+2019-08-03,51.0,Cash Shit,Megan Thee Stallion ,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2019-08-03,52.0,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna ","['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']"
+2019-08-03,53.0,Worth It,YK Osiris,"['melodic rap', 'trap']"
+2019-08-03,54.0,Rearview Town,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-03,55.0,Callaita,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']"
+2019-08-03,56.0,Go Loko,"YG, Tyga ","['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-03,57.0,Just Us,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2019-08-03,58.0,ME!,Taylor Swift ,['pop']
+2019-08-03,59.0,Some Of It,Eric Church,"['contemporary country', 'country', 'country road']"
+2019-08-03,60.0,One Thing Right,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2019-08-03,61.0,Cross Me,Ed Sheeran ,[]
+2019-08-03,62.0,Antisocial,Ed Sheeran ,[]
+2019-08-03,63.0,Press,Cardi B,"['pop', 'rap']"
+2019-08-03,64.0,Easier,5 Seconds Of Summer,"['boy band', 'pop']"
+2019-08-03,65.0,Talk You Out Of It,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']"
+2019-08-03,66.0,Call You Mine,The Chainsmokers ,['pop']
+2019-08-03,67.0,Trampoline,SHAED,['electropop']
+2019-08-03,68.0,The Ones That Didn't Make It Back Home,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']"
+2019-08-03,69.0,The Archer,Taylor Swift,['pop']
+2019-08-03,70.0,EARFQUAKE,"Tyler, The Creator","['hip hop', 'rap']"
+2019-08-03,71.0,Raised On Country,Chris Young,"['contemporary country', 'country', 'country road']"
+2019-08-03,72.0,It's You,Ali Gatie,['canadian hip hop']
+2019-08-03,73.0,Rodeo,Lil Nas ,['lgbtq+ hip hop']
+2019-08-03,74.0,Soltera,"Lunay, Daddy Yankee ","['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']"
+2019-08-03,75.0,La La Land,Bryce Vine ,['indie pop rap']
+,,Brown Skin Girl,"Beyonce, SAINt JHN ",Need Manual Check
+2019-08-03,77.0,Lalala,Y2K ,"['pop rap', 'viral rap']"
+2019-08-03,78.0,Only Human,Jonas Brothers,"['boy band', 'pop']"
+2019-08-03,79.0,Otro Trago,"Sech, Darell, Nicky Jam, Ozuna ","['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']"
+2019-08-03,80.0,24/7,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-03,81.0,Nightmare,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2019-08-03,82.0,Hate Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']"
+2019-08-03,83.0,No Me Conoce,"Jhay Cortez, J Balvin ","['reggaeton', 'trap latino', 'urbano latino']"
+2019-08-03,84.0,Cool,Jonas Brothers,"['boy band', 'pop']"
+2019-08-03,85.0,Before I Let Go,Beyonce,"['pop', 'r&b']"
+2019-08-03,86.0,I Don't Know About You,Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-03,87.0,Tap,NAV ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']"
+2019-08-03,88.0,Under The Sun,Dreamville ,"['hip hop', 'pop rap', 'rap']"
+2019-08-03,89.0,Southbound,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']"
+2019-08-03,90.0,Mood 4 Eva,"Beyonce, JAY-Z ","['pop', 'r&b']"
+2019-08-03,91.0,Wish Wish,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']"
+2019-08-03,92.0,Love Ain't,Eli Young Band,"['classic texas country', 'contemporary country', 'country', 'country road', 'heartland rock', 'modern country rock']"
+,,Baguettes In The Face,"Mustard featuring NAV, Playboi Carti ",Need Manual Check
+2019-08-03,94.0,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-08-03,95.0,Calma,Pedro Capo ,"['latin pop', 'puerto rican pop']"
+2019-08-03,96.0,Que Pretendes,J Balvin ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2019-08-03,97.0,Sanguine Paradise,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']"
+2019-08-03,98.0,Tip Of My Tongue,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-08-03,99.0,South Of The Border,Ed Sheeran ,[]
+2019-08-03,100.0,MEGATRON,Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']"

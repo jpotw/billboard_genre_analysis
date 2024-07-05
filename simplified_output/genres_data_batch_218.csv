@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres,simplified_genre
+2020-02-29,1,The Box,Roddy Ricch,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,2,Life Is Good,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2020-02-29,3,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2020-02-29,4,Dance Monkey,Tones And I,['australian pop'],Pop
+2020-02-29,5,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2020-02-29,6,Roxanne,Arizona Zervas,"['indie pop rap', 'pop rap', 'rhode island rap']",Pop
+2020-02-29,7,Memories,Maroon 5,['pop'],Pop
+2020-02-29,8,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2020-02-29,9,Intentions,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-02-29,10,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-02-29,11,Yummy,Justin Bieber,"['canadian pop', 'pop']",Pop
+2020-02-29,12,Everything I Wanted,Billie Eilish,"['art pop', 'pop']",Pop
+2020-02-29,13,"10,000 Hours",Dan + Shay ,"['contemporary country', 'country', 'country road']",Country
+2020-02-29,14,Heartless,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-02-29,15,Hot Girl Bummer,blackbear,['pop'],Pop
+2020-02-29,16,No Time To Die,Billie Eilish,"['art pop', 'pop']",Pop
+2020-02-29,17,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2020-02-29,18,BOP,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-02-29,19,The Bones,Maren Morris,"['classic texas country', 'contemporary country']",Country
+2020-02-29,20,Adore You,Harry Styles,['pop'],Pop
+2020-02-29,21,Lose You To Love Me,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2020-02-29,22,Good As Hell,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
+2020-02-29,23,Numbers,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,24,Forever,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-02-29,25,My Oh My,Camila Cabello ,"['dance pop', 'pop']",Pop
+2020-02-29,26,High Fashion,Roddy Ricch ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,27,Falling,Trevor Daniel,['melodic rap'],Hip Hop
+2020-02-29,28,Woah,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-02-29,29,You Should Be Sad,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2020-02-29,30,Bad Guy,Billie Eilish,"['art pop', 'pop']",Pop
+2020-02-29,31,No Guidance,Chris Brown ,"['r&b', 'rap']",R&B
+2020-02-29,32,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2020-02-29,33,What A Man Gotta Do,Jonas Brothers,"['boy band', 'pop']",Pop
+2020-02-29,34,Kinfolks,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2020-02-29,35,HIGHEST IN THE ROOM,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2020-02-29,36,Godzilla,Eminem ,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
+2020-02-29,37,Trampoline,SHAED,['electropop'],Pop
+2020-02-29,38,One Man Band,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-02-29,39,I Don't Care,Ed Sheeran ,[],기타
+2020-02-29,40,RITMO (Bad Boys For Life),Black Eyed Peas ,"['dance pop', 'pop', 'pop rap']",Pop
+2020-02-29,41,Sucker,Jonas Brothers,"['boy band', 'pop']",Pop
+2020-02-29,42,Only Human,Jonas Brothers,"['boy band', 'pop']",Pop
+2020-02-29,43,Homesick,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
+2020-02-29,44,I Hope,Gabby Barrett ,['contemporary country'],Country
+2020-02-29,45,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
+2020-02-29,46,To Die For,Sam Smith,"['pop', 'uk pop']",Pop
+2020-02-29,47,Tusa,Karol G ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
+2020-02-29,48,g n f (Give No Fxk),"Migos, Young Thug ","['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-02-29,49,Dior,Pop Smoke,"['brooklyn drill', 'rap']",Hip Hop
+2020-02-29,50,Sum 2 Prove,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-02-29,51,Say So,Doja Cat ,"['dance pop', 'pop']",Pop
+2020-02-29,52,Juicy,Doja Cat ,"['dance pop', 'pop']",Pop
+2020-02-29,53,Make Me Want To,Jimmie Allen,"['black americana', 'contemporary country', 'country road', 'modern country rock']",Country
+2020-02-29,54,Blueberry Faygo,Lil Mosey,"['melodic rap', 'rap conscient']",Hip Hop
+2020-02-29,55,Slide,H.E.R. ,"['r&b', 'rap']",R&B
+2020-02-29,56,Suicidal,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
+2020-02-29,57,BEST ON EARTH,Russ ,"['hawaiian hip hop', 'pop rap']",Hip Hop
+2020-02-29,58,Me And My Guitar,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,59,South Of The Border,Ed Sheeran ,[],기타
+2020-02-29,60,Go Stupid,Polo G ,"['chicago rap', 'rap']",Hip Hop
+2020-02-29,61,Heart On Ice,Rod Wave,['florida rap'],Hip Hop
+2020-02-29,62,Bandit,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2020-02-29,63,Nobody But You,Blake Shelton Duet With Gwen Stefani,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-02-29,64,What She Wants Tonight,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-02-29,65,I Hope You're Happy Now,Carly Pearce ,"['contemporary country', 'country', 'country road']",Country
+2020-02-29,66,Might Not Give Up,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,67,I Wish Grandpas Never Died,Riley Green,"['contemporary country', 'country road', 'modern country pop', 'modern country rock']",Country
+2020-02-29,68,Out West,JACKBOYS ,['pop rap'],Pop
+2020-02-29,69,We Back,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-02-29,70,More Hearts Than Mine,Ingrid Andress,"['contemporary country', 'country pop']",Country
+2020-02-29,71,Chasin' You,Morgan Wallen,['contemporary country'],Country
+2020-02-29,72,Slow Dance In A Parking Lot,Jordan Davis,['contemporary country'],Country
+2020-02-29,73,Thug Love,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,74,Homemade,Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-02-29,75,TOES,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-02-29,76,Before You Go,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2020-02-29,77,After Hours,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-02-29,78,Know Your Worth,Khalid ,"['pop', 'pop r&b']",Pop
+2020-02-29,79,Ignorantes,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-02-29,80,Stain,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,81,Yikes,Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']",Pop
+2020-02-29,82,Make No Sense,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
+2020-02-29,83,Heartless,Diplo Presents Thomas Wesley ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",Pop
+2020-02-29,84,Whats Poppin,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-02-29,85,Ridin' Roads,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-02-29,86,Come Around Me,Justin Bieber,"['canadian pop', 'pop']",Pop
+2020-02-29,87,Catch,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-02-29,88,B.I.T.C.H.,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-02-29,89,homecoming queen?,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2020-02-29,90,Rare,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2020-02-29,91,King Of My City,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,92,Dive Bar,Garth Brooks ,[],기타
+2020-02-29,93,SUGAR,BrockHampton,"['boy band', 'rap']",Hip Hop
+2020-02-29,94,Come Thru,Summer Walker ,"['r&b', 'rap']",R&B
+2020-02-29,95,Cinderella Story,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-02-29,96,Vete,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-02-29,97,Into The Unknown,Idina Menzel ,"['hollywood', 'movie tunes', 'show tunes']",기타
+2020-02-29,98,Habitual,Justin Bieber,"['canadian pop', 'pop']",Pop
+2020-02-29,99,P*$$y Fairy (OTW),Jhene Aiko,['r&b'],R&B
+2020-02-29,100,All Around Me,Justin Bieber,"['canadian pop', 'pop']",Pop

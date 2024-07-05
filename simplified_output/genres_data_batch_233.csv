@@ -1,0 +1,100 @@
+date,rank,song_title,artist,genres,simplified_genre
+2020-06-13,1.0,Rockstar,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-06-13,2.0,Savage,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-06-13,3.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-06-13,4.0,Say So,Doja Cat ,"['dance pop', 'pop']",Pop
+2020-06-13,5.0,Rain On Me,Lady Gaga ,"['art pop', 'dance pop', 'pop']",Pop
+2020-06-13,6.0,Toosie Slide,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2020-06-13,7.0,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2020-06-13,8.0,Intentions,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-06-13,9.0,The Box,Roddy Ricch,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-06-13,10.0,Roses,SAINt JHN,"['melodic rap', 'slap house']",Hip Hop
+2020-06-13,11.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2020-06-13,12.0,Adore You,Harry Styles,['pop'],Pop
+2020-06-13,13.0,Life Is Good,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2020-06-13,14.0,The Bones,Maren Morris,"['classic texas country', 'contemporary country']",Country
+2020-06-13,15.0,Blueberry Faygo,Lil Mosey,"['melodic rap', 'rap conscient']",Hip Hop
+2020-06-13,16.0,Chasin' You,Morgan Wallen,['contemporary country'],Country
+2020-06-13,17.0,Stuck With U,Ariana Grande ,['pop'],Pop
+2020-06-13,18.0,Falling,Trevor Daniel,['melodic rap'],Hip Hop
+2020-06-13,19.0,I Hope,Gabby Barrett ,['contemporary country'],Country
+2020-06-13,20.0,Sunday Best,Surfaces,['bedroom soul'],기타
+2020-06-13,21.0,Whats Poppin,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-06-13,22.0,The Scotts,"THE SCOTTS, Travis Scott ",[],기타
+2020-06-13,23.0,High Fashion,Roddy Ricch ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2020-06-13,24.0,Death Bed,Powfu ,"['sad lo-fi', 'sad rap']",Hip Hop
+2020-06-13,25.0,Does To Me,Luke Combs ,"['contemporary country', 'country']",Country
+2020-06-13,26.0,Party Girl,StaySolidRocky,['melodic rap'],Hip Hop
+2020-06-13,27.0,I Hope You're Happy Now,Carly Pearce ,"['contemporary country', 'country', 'country road']",Country
+2020-06-13,28.0,Before You Go,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2020-06-13,29.0,Break My Heart,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2020-06-13,30.0,Hard To Forget,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2020-06-13,31.0,After A Few,Travis Denning,"['contemporary country', 'country pop', 'modern country pop', 'modern country rock']",Country
+2020-06-13,32.0,Memories,Maroon 5,['pop'],Pop
+2020-06-13,33.0,Sour Candy,Lady Gaga ,"['art pop', 'dance pop', 'pop']",Pop
+2020-06-13,34.0,My Oh My,Camila Cabello ,"['dance pop', 'pop']",Pop
+2020-06-13,35.0,Nobody But You,Blake Shelton Duet With Gwen Stefani,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,36.0,Be Kind,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
+2020-06-13,37.0,Gooba,6i,['emo rap'],Hip Hop
+2020-06-13,38.0,Everything I Wanted,Billie Eilish,"['art pop', 'pop']",Pop
+2020-06-13,39.0,Heartless,Diplo Presents Thomas Wesley ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",Pop
+2020-06-13,40.0,Watermelon Sugar,Harry Styles,['pop'],Pop
+2020-06-13,41.0,Tell Me U Luv Me,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2020-06-13,42.0,Stupid Love,Lady Gaga,"['art pop', 'dance pop', 'pop']",Pop
+2020-06-13,43.0,Supalonely,BENEE ,"['alt z', 'nz pop']",Pop
+2020-06-13,44.0,One Margarita,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,45.0,Walk Em Down,NLE Choppa ,"['memphis hip hop', 'rap']",Hip Hop
+2020-06-13,46.0,Bluebird,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']",Country
+2020-06-13,47.0,Hot Girl Bummer,blackbear,['pop'],Pop
+2020-06-13,48.0,Here And Now,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,49.0,Dance Monkey,Tones And I,['australian pop'],Pop
+2020-06-13,50.0,Go Crazy,Chris Brown ,"['r&b', 'rap']",R&B
+2020-06-13,51.0,Beer Can't Fix,Thomas Rhett ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,52.0,Emotionally Scarred,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-06-13,53.0,In Your Eyes,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-06-13,54.0,Dior,Pop Smoke,"['brooklyn drill', 'rap']",Hip Hop
+2020-06-13,55.0,We Paid,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-06-13,56.0,Flex,Polo G ,"['chicago rap', 'rap']",Hip Hop
+2020-06-13,57.0,After Party,Don Toliver,"['pop rap', 'rap', 'trap']",Pop
+2020-06-13,58.0,If The World Was Ending,JP Sa,"['alt z', 'canadian contemporary r&b', 'singer-songwriter pop']",R&B
+2020-06-13,59.0,Chicago Freestyle,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2020-06-13,60.0,Be A Light,Thomas Rhett ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,61.0,Out West,JACKBOYS ,['pop rap'],Pop
+2020-06-13,62.0,I Love My Country,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2020-06-13,63.0,Believe It,PARTYNE,"['r&b', 'rap', 'urban contemporary']",R&B
+2020-06-13,64.0,Level Of Concern,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2020-06-13,65.0,Ride It.,Regard,"['pop dance', 'pop edm', 'slap house', 'uk dance']",Pop
+2020-06-13,66.0,TKN,Rosalia ,"['pop', 'r&b en espanol']",Pop
+2020-06-13,67.0,Yo Perreo Sola,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-06-13,68.0,P*$$y Fairy (OTW),Jhene Aiko,['r&b'],R&B
+2020-06-13,69.0,In Between,Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,70.0,Die From A Broken Heart,Maddie ,"['contemporary country', 'country', 'country road']",Country
+2020-06-13,71.0,God Whispered Your Name,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,72.0,X,Jonas Brothers ,"['boy band', 'pop']",Pop
+2020-06-13,73.0,Dollaz On My Head,Gunna ,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
+2020-06-13,74.0,Daisies,Katy Perry,['pop'],Pop
+2020-06-13,75.0,Righteous,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2020-06-13,76.0,Need It,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-06-13,77.0,Drinking Alone,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2020-06-13,78.0,Got What I Got,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,80.0,Godzilla,Eminem ,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
+2020-06-13,81.0,Cooler Than A Bitch,Gunna ,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
+2020-06-13,82.0,One Big Country Song,LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']",Country
+2020-06-13,83.0,T.D,Lil Yachty ,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
+2020-06-13,84.0,Alice,Lady Gaga,"['art pop', 'dance pop', 'pop']",Pop
+2020-06-13,85.0,Grace,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-06-13,86.0,Hasta Que Dios Diga,Anuel AA ,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",Reggae
+2020-06-13,87.0,Why We Drink,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']",Country
+2020-06-13,88.0,Lose Somebody,Kygo ,"['edm', 'pop', 'pop dance', 'tropical house']",Electronic/Dance
+2020-06-13,89.0,Turks,"NAV, Gunna ","['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']",Hip Hop
+2020-06-13,90.0,One Of Them Girls,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-06-13,91.0,Girl Of My Dreams,Rod Wave,['florida rap'],Hip Hop
+2020-06-13,92.0,Like That,Doja Cat ,"['dance pop', 'pop']",Pop
+2020-06-13,93.0,Sigues Con El,Arcangel ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
+2020-06-13,94.0,That Way,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
+2020-06-13,95.0,Trillionaire,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2020-06-13,96.0,ily,Surf Mesa ,['pop edm'],Pop
+2020-06-13,97.0,One Beer,HARDY ,"['contemporary country', 'modern country pop']",Country
+2020-06-13,98.0,July,Noah Cyrus ,"['alt z', 'pop']",Pop
+2020-06-13,99.0,All In,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-06-13,100.0,Solitaires,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop

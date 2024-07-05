@@ -1,0 +1,96 @@
+date,rank,song_title,artist,genres,simplified_genre
+2016-10-22,1.0,Closer,The Chainsmokers ,['pop'],Pop
+2016-10-22,2.0,Starboy,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-10-22,3.0,Heathens,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2016-10-22,4.0,Cold Water,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
+2016-10-22,5.0,Let Me Love You,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
+2016-10-22,7.0,Treat You Better,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2016-10-22,8.0,Cheap Thrills,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
+2016-10-22,9.0,Don't Let Me Down,The Chainsmokers ,['pop'],Pop
+2016-10-22,10.0,I Hate U I Love U,gnash ,"['alt z', 'pop']",Pop
+2016-10-22,11.0,This Is What You Came For,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
+2016-10-22,12.0,Side To Side,Ariana Grande ,['pop'],Pop
+2016-10-22,13.0,Gold,Kiiara,"['alt z', 'electropop']",Pop
+2016-10-22,14.0,Ride,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2016-10-22,15.0,Needed Me,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
+2016-10-22,16.0,One Dance,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-10-22,17.0,Send My Love (To Your New Lover),Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
+2016-10-22,18.0,All We Know,The Chainsmokers ,['pop'],Pop
+2016-10-22,19.0,Too Good,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-10-22,20.0,Starving,Hailee Steinfeld ,['pop'],Pop
+2016-10-22,21.0,We Don't Talk Anymore,Charlie Puth ,"['pop', 'viral pop']",Pop
+2016-10-22,22.0,Luv,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
+2016-10-22,23.0,Can't Stop The Feeling!,Justin Timberlake,"['dance pop', 'pop']",Pop
+2016-10-22,24.0,Sucker For Pain,"Lil Wayne, Wiz Khalifa ","['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Hip Hop
+2016-10-22,25.0,This Town,Niall Horan,['pop'],Pop
+2016-10-22,26.0,Hymn For The Weekend,Coldplay,"['permanent wave', 'pop']",Pop
+2016-10-22,27.0,The Greatest,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
+2016-10-22,28.0,My Way,Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
+2016-10-22,29.0,OOOUUU,Young M.A,"['alternative r&b', 'lgbtq+ hip hop', 'nyc rap', 'rap', 'trap']",R&B
+2016-10-22,30.0,Unsteady,,[],기타
+2016-10-22,31.0,Into You,Ariana Grande,['pop'],Pop
+2016-10-22,32.0,"Sit Still, Look Pretty",Daya,"['alt z', 'pop']",Pop
+2016-10-22,33.0,Panda,Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",Pop
+2016-10-22,34.0,Setting The World On Fire,Kenny Chesney ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,35.0,Tiimmy Turner,Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",Pop
+2016-10-22,36.0,Controlla,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-10-22,37.0,For Free,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2016-10-22,38.0,Black Beatles,Rae Sremmurd ,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2016-10-22,39.0,No Limit,Usher ,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",Hip Hop
+2016-10-22,40.0,Chill Bill,Rob $tone ,"['san diego rap', 'viral trap']",Hip Hop
+2016-10-22,41.0,In The Name Of Love,Martin Garri,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Electronic/Dance
+2016-10-22,42.0,Work From Home,Fifth Harmony ,"['girl group', 'pop', 'talent show']",Pop
+2016-10-22,43.0,Just Like Fire,P!nk,"['dance pop', 'pop']",Pop
+2016-10-22,44.0,Caroline,Amine,"['pop rap', 'portland hip hop', 'rap', 'underground hip hop']",Pop
+2016-10-22,45.0,Blue Ain't Your Color,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,46.0,Scars To Your Beautiful,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-10-22,47.0,This Girl,Kungs vs Cookin' On 3 Burners,"['edm', 'pop dance', 'uk dance']",Electronic/Dance
+2016-10-22,49.0,Low Life,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-10-22,50.0,It Don't Hurt Like It Used To,Billy Currington,"['contemporary country', 'country', 'country road']",Country
+2016-10-22,51.0,No Problem,Chance The Rapper ,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2016-10-22,52.0,Do You Mind,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2016-10-22,53.0,Middle Of A Memory,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,54.0,Fade,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
+2016-10-22,55.0,Move,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,56.0,Father Stretch My Hands Pt. 1,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
+2016-10-22,58.0,I Know Somebody,LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']",Country
+2016-10-22,59.0,May We All,Florida Georgia Line ,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2016-10-22,60.0,Say It,Flume ,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica']",Electronic/Dance
+2016-10-22,61.0,I Met A Girl,William Michael Morgan,"['country pop', 'modern country rock']",Pop
+2016-10-22,63.0,False Alarm,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-10-22,64.0,Vice,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']",Country
+2016-10-22,65.0,Come And See Me,PARTYNE,"['r&b', 'rap', 'urban contemporary']",R&B
+2016-10-22,66.0,A Little More Summertime,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,67.0,Different For Girls,Dierks Bentley ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,68.0,Money Longer,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
+2016-10-22,69.0,Perfect Illusion,Lady Gaga,"['art pop', 'dance pop', 'pop']",Pop
+2016-10-22,70.0,Sleep Without You,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,71.0,Too Much Sauce,DJ ESCO ,"['atl hip hop', 'trap']",Hip Hop
+2016-10-22,72.0,X,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2016-10-22,73.0,Forever Country,"Artists Of Then, Now ",[],기타
+2016-10-22,74.0,Cranes In The Sky,Solange,"['afrofuturism', 'alternative r&b', 'r&b', 'urban contemporary']",R&B
+2016-10-22,75.0,You & Me,Marc E. Bassy ,"['indie pop rap', 'pop r&b']",Pop
+2016-10-22,76.0,Mercy,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2016-10-22,77.0,Wishing,DJ Drama ,"['dirty south rap', 'philly rap', 'southern hip hop', 'trap']",Hip Hop
+2016-10-22,78.0,You Was Right,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
+2016-10-22,79.0,All In My Head (Flex),Fifth Harmony ,"['girl group', 'pop', 'talent show']",Pop
+2016-10-22,80.0,Peter Pan,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2016-10-22,81.0,Hold Up,Beyonce,"['pop', 'r&b']",Pop
+2016-10-22,82.0,"Wat U Mean (Aye, Aye, Aye)",Dae Dae,"['atl hip hop', 'trap']",Hip Hop
+2016-10-22,83.0,Key To The Streets,YFN Lucci ,"['arkansas hip hop', 'atl hip hop', 'melodic rap', 'southern hip hop', 'trap']",Hip Hop
+2016-10-22,84.0,HandClap,Fitz And The Tantrums,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'pov: indie']",Rock
+2016-10-22,85.0,CRZY,Kehlani,"['pop', 'r&b', 'rap']",Pop
+2016-10-22,86.0,Make You Miss Me,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2016-10-22,88.0,THat Part,ScHoolboy Q ,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-10-22,89.0,Juju On That Beat (TZ Anthem),Zay Hilfigerrr ,['viral trap'],Hip Hop
+2016-10-22,90.0,I Got The Keys,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2016-10-22,91.0,Don't Touch My Hair,Solange ,"['afrofuturism', 'alternative r&b', 'r&b', 'urban contemporary']",R&B
+2016-10-22,92.0,Song For Another Time,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,93.0,Capsize,Frenship ,"['electropop', 'indie poptimism', 'la pop']",Pop
+2016-10-22,94.0,LIFTED,CL,['k-pop'],Pop
+2016-10-22,95.0,Gangsta,Kehlani,"['pop', 'r&b', 'rap']",Pop
+2016-10-22,96.0,Goosebumps,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2016-10-22,97.0,Fresh Eyes,Andy Grammer,"['neo mellow', 'post-teen pop', 'viral pop']",Pop
+2016-10-22,98.0,Wanna Be That Song,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-10-22,99.0,Why You Always Hatin?,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-10-22,100.0,All Eyez,The Game ,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop

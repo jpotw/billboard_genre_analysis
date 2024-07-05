@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2021-01-09,1.0,Mood,24kGoldn ,"['cali rap', 'pop rap']"
+2021-01-09,2.0,Positions,Ariana Grande,['pop']
+2021-01-09,3.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-01-09,4.0,Holy,Justin Bieber ,"['canadian pop', 'pop']"
+2021-01-09,5.0,Dynamite,BTS,"['k-pop', 'k-pop boy group', 'pop']"
+2021-01-09,6.0,Go Crazy,Chris Brown ,"['r&b', 'rap']"
+2021-01-09,7.0,Laugh Now Cry Later,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2021-01-09,8.0,I Hope,Gabby Barrett ,['contemporary country']
+2021-01-09,9.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']"
+2021-01-09,10.0,Levitating,Dua Lipa ,"['dance pop', 'pop', 'uk pop']"
+2021-01-09,11.0,Bang!,AJR,['pov: indie']
+2021-01-09,12.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']"
+2021-01-09,13.0,For The Night,Pop Smoke ,"['brooklyn drill', 'rap']"
+2021-01-09,14.0,Lemonade,Internet Money ,"['pop rap', 'trap']"
+2021-01-09,15.0,Jingle Bell Rock,Bobby Helms,[]
+2021-01-09,16.0,Kings & Queens,Ava Ma,['pop']
+2021-01-09,17.0,A Holly Jolly Christmas,Burl Ives,['american folk revival']
+2021-01-09,18.0,Therefore I Am,Billie Eilish,"['art pop', 'pop']"
+2021-01-09,19.0,34+35,Ariana Grande,['pop']
+2021-01-09,20.0,Dakiti,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']"
+2021-01-09,21.0,Body,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-01-09,22.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']"
+2021-01-09,23.0,Willow,Taylor Swift,['pop']
+2021-01-09,24.0,Better Together,Luke Combs,"['contemporary country', 'country']"
+2021-01-09,25.0,Lonely,Justin Bieber ,"['canadian pop', 'pop']"
+2021-01-09,26.0,Rockstar,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2021-01-09,27.0,Whoopty,CJ,['nyc rap']
+2021-01-09,28.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']"
+2021-01-09,29.0,Run Rudolph Run,Chuck Berry,"['blues', 'blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']"
+2021-01-09,30.0,Before You Go,Lewis Capaldi,"['pop', 'uk pop']"
+2021-01-09,31.0,Savage Love (Laxed - Siren Beat),Jawsh 685 ,['nz pop']
+2021-01-09,32.0,Afterglow,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']"
+2021-01-09,33.0,More Than My Hometown,Morgan Wallen,['contemporary country']
+2021-01-09,34.0,Whats Poppin,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2021-01-09,35.0,Starting Over,Chris Stapleton,"['contemporary country', 'outlaw country']"
+2021-01-09,36.0,WAP,Cardi B ,"['pop', 'rap']"
+2021-01-09,37.0,I Should Probably Go To Bed,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2021-01-09,38.0,Good Days,SZA,"['pop', 'r&b', 'rap']"
+2021-01-09,39.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']"
+2021-01-09,40.0,Pretty Heart,Parker McCollum,"['classic texas country', 'contemporary country', 'modern country pop', 'texas country']"
+2021-01-09,41.0,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+2021-01-09,42.0,Happy Anywhere,Blake Shelton ,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,43.0,Holiday,Lil Nas ,['lgbtq+ hip hop']
+2021-01-09,44.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']"
+2021-01-09,45.0,Monster,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']"
+2021-01-09,46.0,Diamonds,Sam Smith,"['pop', 'uk pop']"
+2021-01-09,47.0,Watermelon Sugar,Harry Styles,['pop']
+2021-01-09,48.0,On Me,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-01-09,49.0,Hawai,Maluma ,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2021-01-09,50.0,Underneath The Tree,Kelly Clarkson,"['dance pop', 'pop', 'talent show']"
+2021-01-09,51.0,You Broke Me First.,Tate McRae,['pop']
+2021-01-09,52.0,Champagne Night,Lady A,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']"
+2021-01-09,53.0,Still Trappin',Lil Durk ,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-01-09,54.0,"Big, Big Plans",Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,55.0,Forever After All,Luke Combs,"['contemporary country', 'country']"
+,,My Ex's Best Friend,Machine Gun Kelly ,Need Manual Check
+2021-01-09,57.0,Cry Baby,Megan Thee Stallion ,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-01-09,58.0,Hole In The Bottle,Kelsea Ballerini,"['contemporary country', 'country']"
+2021-01-09,59.0,B.S.,Jhene Aiko ,['r&b']
+2021-01-09,60.0,Love You Like I Used To,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,61.0,Good Time,Niko Moon,[]
+2021-01-09,62.0,Backdoor,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-01-09,63.0,7 Summers,Morgan Wallen,['contemporary country']
+2021-01-09,64.0,Mr. Right Now,21 Savage ,"['atl hip hop', 'hip hop', 'rap']"
+2021-01-09,65.0,Without You,The Kid LAROI,['australian hip hop']
+2021-01-09,66.0,Throat Baby (Go Baby),BRS Kash,['viral rap']
+2021-01-09,67.0,Prisoner,Miley Cyrus ,['pop']
+2021-01-09,68.0,Tyler Herro,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2021-01-09,69.0,You're Mines Still,Yung Bleu ,"['alabama rap', 'trap']"
+2021-01-09,70.0,Hit Different,SZA ,"['pop', 'r&b', 'rap']"
+2021-01-09,71.0,Redman,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-01-09,72.0,Slay3r,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']"
+2021-01-09,73.0,Stay Down,"Lil Durk, 6LACK ","['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-01-09,74.0,Adderall (Corvette Corvette),Popp Hunna,"['philly rap', 'viral rap']"
+2021-01-09,75.0,Golden,Harry Styles,['pop']
+2021-01-09,76.0,Beers And Sunshine,Darius Rucker,"['black americana', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,77.0,Back To The Streets,Saweetie ,"['cali rap', 'trap queen']"
+2021-01-09,78.0,Damage,H.E.R.,"['r&b', 'rap']"
+2021-01-09,79.0,Take You Dancing,Jason Derulo,"['dance pop', 'pop']"
+2021-01-09,80.0,What's Your Country Song,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,81.0,Midnight Sky,Miley Cyrus,['pop']
+2021-01-09,82.0,Go2DaMoon,Playboi Carti ,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']"
+2021-01-09,83.0,Ain't Always The Cowboy,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,84.0,Put Your Records On,Ritt Momney,['bedroom pop']
+2021-01-09,85.0,Bichota,Karol G,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2021-01-09,86.0,Refugee,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-01-09,87.0,Happy Does,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,88.0,Monsters,All Time Low ,"['modern rock', 'neon pop punk', 'pop emo', 'pop punk']"
+2021-01-09,89.0,Take Me Home For Christmas,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2021-01-09,90.0,Vamp Anthem,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']"
+2021-01-09,91.0,Down To One,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-09,92.0,New N3on,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']"
+2021-01-09,93.0,Death Ain't Easy,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-01-09,94.0,Took Her To The O,King Von,"['chicago rap', 'rap']"
+2021-01-09,95.0,Save Your Tears,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2021-01-09,96.0,So Done,The Kid LAROI,['australian hip hop']
+2021-01-09,97.0,Just The Way,Parmalee ,"['contemporary country', 'country road', 'modern country rock', 'modern uplift']"
+2021-01-09,98.0,Way Out,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2021-01-09,99.0,M3tamorphosis,Playboi Carti ,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']"
+2021-01-09,100.0,The Good Ones,Gabby Barrett,['contemporary country']

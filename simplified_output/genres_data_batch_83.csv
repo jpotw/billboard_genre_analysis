@@ -1,0 +1,100 @@
+date,rank,song_title,artist,genres,simplified_genre
+2017-07-29,1.0,Despacito,Luis Fonsi ,"['latin pop', 'puerto rican pop']",Pop
+2017-07-29,2.0,Wild Thoughts,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,3.0,I'm The One,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,4.0,That's What I Like,Bruno Mars,"['dance pop', 'pop']",Pop
+2017-07-29,5.0,Shape Of You,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
+2017-07-29,6.0,Humble.,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2017-07-29,7.0,Believer,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2017-07-29,8.0,There's Nothing Holdin' Me Back,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2017-07-29,9.0,Unforgettable,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-07-29,10.0,Body Like A Back Road,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2017-07-29,11.0,Congratulations,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
+2017-07-29,12.0,Stay,Zedd ,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
+2017-07-29,13.0,Attention,Charlie Puth,"['pop', 'viral pop']",Pop
+2017-07-29,14.0,Redbone,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2017-07-29,15.0,Something Just Like This,The Chainsmokers ,['pop'],Pop
+2017-07-29,16.0,XO TOUR Llif3,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
+2017-07-29,17.0,Now Or Never,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
+2017-07-29,18.0,Mask Off,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-07-29,19.0,Slow Hands,Niall Horan,['pop'],Pop
+2017-07-29,20.0,Issues,Julia Michaels,['pop'],Pop
+2017-07-29,21.0,Say You Won't Let Go,James Arthur,"['pop', 'talent show', 'uk pop']",Pop
+2017-07-29,22.0,It Ain't Me,Kygo ,"['edm', 'pop', 'pop dance', 'tropical house']",Electronic/Dance
+2017-07-29,23.0,The Story Of O.J.,JAY-Z,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,24.0,Castle On The Hill,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
+2017-07-29,25.0,Praying,Kesha,"['dance pop', 'pop']",Pop
+2017-07-29,26.0,Location,Khalid,"['pop', 'pop r&b']",Pop
+2017-07-29,27.0,Bad Liar,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2017-07-29,28.0,Strip That Down,Liam Payne ,['pop'],Pop
+2017-07-29,29.0,Magnolia,Playboi Carti,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",Hip Hop
+2017-07-29,30.0,Feels,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
+2017-07-29,31.0,Malibu,Miley Cyrus,['pop'],Pop
+2017-07-29,32.0,2U,David Guetta ,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",Pop
+2017-07-29,33.0,Bank Account,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2017-07-29,34.0,Slippery,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2017-07-29,35.0,4:44,JAY-Z,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,36.0,Everyday We Lit,YFN Lucci ,"['arkansas hip hop', 'atl hip hop', 'melodic rap', 'southern hip hop', 'trap']",Hip Hop
+2017-07-29,37.0,Closer,The Chainsmokers ,['pop'],Pop
+2017-07-29,38.0,In Case You Didn't Know,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-07-29,39.0,iSpy,KYLE ,"['deep underground hip hop', 'indie pop rap', 'pop rap', 'viral trap']",Hip Hop
+2017-07-29,40.0,Rolex,Ayo ,"['trap', 'viral rap', 'viral trap']",Hip Hop
+2017-07-29,41.0,Craving You,Thomas Rhett ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-07-29,42.0,Drowning,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
+2017-07-29,43.0,Bad And Boujee,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2017-07-29,44.0,My Girl,Dylan Scott,"['contemporary country', 'country road', 'modern country rock']",Country
+2017-07-29,45.0,Slide,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
+2017-07-29,46.0,DNA.,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2017-07-29,47.0,Bam,JAY-Z ,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,48.0,24K Magic,Bruno Mars,"['dance pop', 'pop']",Pop
+2017-07-29,49.0,Felices Los 4,Maluma,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Pop
+2017-07-29,50.0,Hurricane,Luke Combs,"['contemporary country', 'country']",Country
+2017-07-29,51.0,Family Feud,JAY-Z ,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,52.0,Sorry Not Sorry,Demi Lovato,"['pop', 'post-teen pop']",Pop
+2017-07-29,53.0,Mi Gente,J Balvin ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
+2017-07-29,54.0,Small Town Boy,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-07-29,55.0,Kill Jay Z,JAY-Z,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,56.0,Smile,JAY-Z ,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,57.0,Versace On The Floor,Bruno Mars,"['dance pop', 'pop']",Pop
+2017-07-29,58.0,Do I Make You Wanna,Billy Currington,"['contemporary country', 'country', 'country road']",Country
+2017-07-29,59.0,First Day Out,Tee Grizzley,"['detroit hip hop', 'detroit trap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-07-29,60.0,Drinkin' Problem,Midland,"['classic texas country', 'neo-traditional country']",Country
+2017-07-29,61.0,1-800-273-8255,Logic ,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,62.0,Love Galore,SZA ,"['pop', 'r&b', 'rap']",Pop
+2017-07-29,63.0,Caught Their Eyes,JAY-Z ,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,64.0,It's A Vibe,2 Chainz ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-07-29,65.0,Swalla,Jason Derulo ,"['dance pop', 'pop']",Pop
+2017-07-29,66.0,Most Girls,Hailee Steinfeld,['pop'],Pop
+2017-07-29,67.0,Passionfruit,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,68.0,Rake It Up,Yo Gotti ,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+2017-07-29,69.0,"God, Your Mama, And Me",Florida Georgia Line ,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2017-07-29,70.0,Thunder,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
+2017-07-29,71.0,Crying In The Club,Camila Cabello,"['dance pop', 'pop']",Pop
+2017-07-29,72.0,Escapate Conmigo,Wisin ,"['reggaeton', 'urbano latino']",Reggae
+2017-07-29,73.0,No Such Thing As A Broken Heart,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-07-29,74.0,Loyalty.,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2017-07-29,75.0,Flatliner,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-07-29,76.0,4:00 AM,2 Chainz ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2017-07-29,77.0,Privacy,Chris Brown,"['r&b', 'rap']",R&B
+2017-07-29,79.0,Every Time I Hear That Song,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-07-29,80.0,Feel It Still,Portugal. The Man,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock']",Rock
+2017-07-29,81.0,Yours If You Want It,Rascal Flatts,"['contemporary country', 'country', 'country road']",Country
+2017-07-29,82.0,Love.,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
+2017-07-29,83.0,Signs,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,84.0,The Cure,Lady Gaga,"['art pop', 'dance pop', 'pop']",Pop
+2017-07-29,85.0,What Ifs,Kane Brown ,"['black americana', 'contemporary country', 'country', 'country road']",Country
+2017-07-29,86.0,Moonlight,JAY-Z,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,87.0,You Look Good,Lady Antebellum,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']",Country
+2017-07-29,88.0,No Promises,Cheat Codes ,"['edm', 'pop', 'pop dance']",Electronic/Dance
+2017-07-29,89.0,Glorious,Macklemore ,"['pop rap', 'seattle hip hop']",Pop
+2017-07-29,90.0,Marcy Me,JAY-Z,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2017-07-29,91.0,Get Low,Zedd ,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
+2017-07-29,92.0,Fetish,Selena Gomez ,"['pop', 'post-teen pop']",Pop
+2017-07-29,93.0,Somebody Else Will,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']",Country
+2017-07-29,94.0,Famous,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2017-07-29,95.0,Weak,AJR,['pov: indie'],기타
+2017-07-29,96.0,Heartache On The Dance Floor,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2017-07-29,97.0,Butterfly Effect,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
+2017-07-29,98.0,Crew,GoldLink ,['alternative r&b'],R&B
+2017-07-29,99.0,Reminder,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2017-07-29,100.0,Element.,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop

@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2019-12-07,1.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-12-07,2.0,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']"
+2019-12-07,3.0,Good As Hell,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2019-12-07,4.0,Memories,Maroon 5,['pop']
+2019-12-07,5.0,Roxanne,Arizona Zervas,"['indie pop rap', 'pop rap', 'rhode island rap']"
+2019-12-07,6.0,Lose You To Love Me,Selena Gomez,"['pop', 'post-teen pop']"
+2019-12-07,7.0,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']"
+2019-12-07,8.0,"10,000 Hours",Dan + Shay ,"['contemporary country', 'country', 'country road']"
+2019-12-07,9.0,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2019-12-07,10.0,No Guidance,Chris Brown ,"['r&b', 'rap']"
+2019-12-07,11.0,Dance Monkey,Tones And I,['australian pop']
+2019-12-07,12.0,BOP,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2019-12-07,13.0,Panini,Lil Nas ,['lgbtq+ hip hop']
+2019-12-07,14.0,Bad Guy,Billie Eilish,"['art pop', 'pop']"
+2019-12-07,15.0,HIGHEST IN THE ROOM,Travis Scott,"['hip hop', 'rap', 'slap house']"
+2019-12-07,16.0,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2019-12-07,17.0,Trampoline,SHAED,['electropop']
+2019-12-07,18.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']"
+2019-12-07,19.0,Lover,Taylor Swift,['pop']
+2019-12-07,20.0,Old Town Road,Lil Nas ,['lgbtq+ hip hop']
+2019-12-07,21.0,Hot,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']"
+2019-12-07,22.0,One Man Band,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,23.0,Woah,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2019-12-07,24.0,Only Human,Jonas Brothers,"['boy band', 'pop']"
+2019-12-07,25.0,Ran$om,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']"
+2019-12-07,26.0,Everything I Wanted,Billie Eilish,"['art pop', 'pop']"
+2019-12-07,27.0,Beautiful People,Ed Sheeran ,[]
+2019-12-07,28.0,Even Though I'm Leaving,Luke Combs,"['contemporary country', 'country']"
+2019-12-07,29.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']"
+2019-12-07,30.0,Bandit,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']"
+2019-12-07,31.0,On Chill,Wale ,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']"
+2019-12-07,32.0,Heartless,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2019-12-07,33.0,Vete,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2019-12-07,34.0,Graveyard,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2019-12-07,35.0,I Don't Care,Ed Sheeran ,[]
+2019-12-07,36.0,Talk,Khalid,"['pop', 'pop r&b']"
+2019-12-07,37.0,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2019-12-07,38.0,Heat,Chris Brown ,"['r&b', 'rap']"
+2019-12-07,39.0,Baby,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2019-12-07,40.0,How Do You Sleep?,Sam Smith,"['pop', 'uk pop']"
+2019-12-07,41.0,Goodbyes,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-12-07,42.0,Falling,Trevor Daniel,['melodic rap']
+2019-12-07,43.0,Playing Games,Summer Walker,"['r&b', 'rap']"
+2019-12-07,44.0,Suge,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2019-12-07,45.0,Hot Girl Bummer,blackbear,['pop']
+2019-12-07,46.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']"
+2019-12-07,47.0,Jingle Bell Rock,Bobby Helms,[]
+2019-12-07,48.0,A Holly Jolly Christmas,Burl Ives,['american folk revival']
+2019-12-07,49.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']"
+2019-12-07,50.0,Take What You Want,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-12-07,51.0,Juicy,Doja Cat ,"['dance pop', 'pop']"
+2019-12-07,52.0,One Thing Right,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2019-12-07,53.0,The Bones,Maren Morris,"['classic texas country', 'contemporary country']"
+2019-12-07,54.0,Time,NF,"['hip hop', 'pop rap']"
+2019-12-07,55.0,Into The Unknown,Idina Menzel ,"['hollywood', 'movie tunes', 'show tunes']"
+2019-12-07,56.0,Heart On Ice,Rod Wave,['florida rap']
+2019-12-07,57.0,223's,YNW Melly ,"['melodic rap', 'rap']"
+2019-12-07,58.0,Who Needs Love,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2019-12-07,59.0,Death,Trippie Redd ,"['melodic rap', 'rap', 'trap']"
+2019-12-07,60.0,6 Kiss,Trippie Redd ,"['melodic rap', 'rap', 'trap']"
+2019-12-07,61.0,What If I Never Get Over You,Lady Antebellum,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']"
+2019-12-07,62.0,Remember You Young,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,63.0,Loyal,PARTYNE,"['r&b', 'rap', 'urban contemporary']"
+2019-12-07,64.0,Suicidal,YNW Melly ,"['melodic rap', 'rap']"
+2019-12-07,65.0,Camelot,NLE Choppa,"['memphis hip hop', 'rap']"
+2019-12-07,66.0,VIBEZ,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+,,Leave Em Alone,"Layton Greene, Lil Baby, City Girls ",Need Manual Check
+2019-12-07,68.0,We Were,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,69.0,Prayed For You,Matt Stell,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']"
+2019-12-07,70.0,Kinfolks,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']"
+2019-12-07,71.0,Enemies,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2019-12-07,72.0,Ridin' Roads,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,73.0,Hate Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']"
+2019-12-07,74.0,Heartache Medication,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,75.0,Baby Sitter,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2019-12-07,76.0,All The Good Girls Go To Hell,Billie Eilish,"['art pop', 'pop']"
+2019-12-07,77.0,Watermelon Sugar,Harry Styles,['pop']
+2019-12-07,78.0,We Back,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,79.0,Follow God,Kanye West,"['chicago rap', 'hip hop', 'rap']"
+2019-12-07,80.0,Jerry Sprunger,Tory Lanez ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']"
+2019-12-07,81.0,Love Me More,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2019-12-07,82.0,Nice To Meet Ya,Niall Horan,['pop']
+2019-12-07,83.0,Lalala,Y2K ,"['pop rap', 'viral rap']"
+2019-12-07,84.0,Hate Me,Trippie Redd ,"['melodic rap', 'rap', 'trap']"
+2019-12-07,85.0,Reply,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']"
+2019-12-07,86.0,Tip Of My Tongue,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,87.0,Candy,Doja Cat,"['dance pop', 'pop']"
+2019-12-07,88.0,Slow Dancing In The Dark,Joji,['viral pop']
+2019-12-07,89.0,None Of Your Concern,Jhene Aiko ,['r&b']
+2019-12-07,90.0,Yellow Hearts,Ant Saunders,['chill r&b']
+2019-12-07,91.0,Make No Sense,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']"
+2019-12-07,92.0,Good Vibes,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2019-12-07,93.0,La Cancion,J Balvin ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2019-12-07,94.0,Easy,DaniLeigh ,"['pop r&b', 'r&b', 'rap latina']"
+2019-12-07,95.0,Cuban Links,Rod Wave ,['florida rap']
+2019-12-07,96.0,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj ","['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2019-12-07,97.0,Lonely Child,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']"
+2019-12-07,98.0,Into The Unknown,Panic! At The Disco,"['modern rock', 'pop']"
+2019-12-07,99.0,Show Yourself,Idina Menzel ,"['hollywood', 'movie tunes', 'show tunes']"
+2019-12-07,100.0,Homesick,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']"

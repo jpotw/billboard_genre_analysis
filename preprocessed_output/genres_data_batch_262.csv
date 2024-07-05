@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2021-01-02,1.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']"
+2021-01-02,2.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']"
+2021-01-02,3.0,Jingle Bell Rock,Bobby Helms,[]
+2021-01-02,4.0,A Holly Jolly Christmas,Burl Ives,['american folk revival']
+2021-01-02,5.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']"
+2021-01-02,6.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']"
+2021-01-02,7.0,Mood,24kGoldn,"['cali rap', 'pop rap']"
+2021-01-02,8.0,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+2021-01-02,9.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']"
+2021-01-02,10.0,Run Rudolph Run,Chuck Berry,"['blues', 'blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']"
+2021-01-02,11.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']"
+2021-01-02,12.0,Underneath The Tree,Kelly Clarkson,"['dance pop', 'pop', 'talent show']"
+2021-01-02,13.0,Sleigh Ride,The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']"
+2021-01-02,14.0,Positions,Ariana Grande,['pop']
+,,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,[]
+2021-01-02,16.0,Rudolph The Red-Nosed Reindeer,Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']"
+2021-01-02,17.0,Santa Tell Me,Ariana Grande,['pop']
+2021-01-02,18.0,Happy Holiday / The Holiday Season,Andy Williams,"['adult standards', 'easy listening']"
+2021-01-02,19.0,Christmas (Baby Please Come Home),Darlene Love,[]
+2021-01-02,20.0,White Christmas,Bing Crosby,"['adult standards', 'easy listening', 'lounge']"
+2021-01-02,21.0,Holy,Justin Bieber,"['canadian pop', 'pop']"
+,,(There's No Place Like) Home For The Holidays,Perry Como,[]
+2021-01-02,23.0,It's Beginning To Look A Lot Like Christmas,Michael Buble,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']"
+2021-01-02,24.0,Go Crazy,Chris Brown,"['r&b', 'rap']"
+2021-01-02,25.0,Laugh Now Cry Later,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2021-01-02,26.0,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']"
+2021-01-02,27.0,Levitating,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2021-01-02,28.0,Wonderful Christmastime,Paul McCartney,"['classic rock', 'mellow gold', 'rock', 'soft rock']"
+2021-01-02,29.0,For The Night,Pop Smoke,"['brooklyn drill', 'rap']"
+2021-01-02,30.0,I Hope,Gabby Barrett,['contemporary country']
+2021-01-02,31.0,Lemonade,Internet Money,"['pop rap', 'trap']"
+2021-01-02,32.0,"You're A Mean One, Mr. Grinch",Thurl Ravenscroft,['movie tunes']
+2021-01-02,33.0,Blue Christmas,Elvis Presley,"['rock-and-roll', 'rockabilly']"
+2021-01-02,34.0,Dakiti,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2021-01-02,35.0,Body,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-01-02,36.0,Mele Kalikimaka (Merry Christmas),Bing Crosby,"['adult standards', 'easy listening', 'lounge']"
+2021-01-02,37.0,Bang!,AJR,['pov: indie']
+2021-01-02,38.0,Willow,Taylor Swift,['pop']
+2021-01-02,39.0,This Christmas,Donny Hathaway,"['chicago soul', 'classic soul', 'funk', 'neo soul', 'quiet storm', 'soul', 'southern soul']"
+2021-01-02,40.0,34+35,Ariana Grande,['pop']
+2021-01-02,41.0,Kings & Queens,Ava Ma,['pop']
+2021-01-02,42.0,Therefore I Am,Billie Eilish,"['art pop', 'pop']"
+2021-01-02,43.0,Deck The Halls,Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']"
+2021-01-02,44.0,Dynamite,BTS,"['k-pop', 'k-pop boy group', 'pop']"
+2021-01-02,45.0,Please Come Home For Christmas,Eagles,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']"
+2021-01-02,46.0,Santa Claus Is Comin' To Town,Jackson 5,"['motown', 'soul']"
+2021-01-02,47.0,Little Saint Nick,The Beach Boys,"['baroque pop', 'classic rock', 'folk rock', 'mellow gold', 'psychedelic rock', 'rock', 'singer-songwriter', 'sunshine pop']"
+2021-01-02,48.0,Take Me Home For Christmas,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2021-01-02,49.0,Have Yourself A Merry Little Christmas,Michael Buble,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']"
+2021-01-02,50.0,I'll Be Home For Christmas,Bing Crosby,"['adult standards', 'easy listening', 'lounge']"
+2021-01-02,51.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']"
+2021-01-02,52.0,Whoopty,CJ,['nyc rap']
+2021-01-02,53.0,Lonely,Justin Bieber,"['canadian pop', 'pop']"
+2021-01-02,54.0,Hallelujah,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']"
+2021-01-02,55.0,WAP,Cardi B,"['pop', 'rap']"
+2021-01-02,56.0,Holiday,Lil Nas,['lgbtq+ hip hop']
+2021-01-02,57.0,Better Together,Luke Combs,"['contemporary country', 'country']"
+2021-01-02,58.0,On Me,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2021-01-02,59.0,Afterglow,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']"
+2021-01-02,60.0,Gnat,Eminem,"['detroit hip hop', 'hip hop', 'rap']"
+2021-01-02,61.0,Rockin' Around The Christmas Tree,Justin Bieber,"['canadian pop', 'pop']"
+2021-01-02,62.0,Favorite Time Of Year,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']"
+2021-01-02,63.0,Hawai,Maluma,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2021-01-02,64.0,Monster,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
+2021-01-02,65.0,Diamonds,Sam Smith,"['pop', 'uk pop']"
+2021-01-02,66.0,Starting Over,Chris Stapleton,"['contemporary country', 'outlaw country']"
+2021-01-02,67.0,Cry Baby,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']"
+2021-01-02,68.0,You Broke Me First.,Tate McRae,['pop']
+,,My Ex's Best Friend,Machine Gun Kelly,[]
+2021-01-02,70.0,Without You,The Kid LAROI,['australian hip hop']
+2021-01-02,71.0,"Big, Big Plans",Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-02,72.0,Mr. Right Now,21 Savage,"['atl hip hop', 'hip hop', 'rap']"
+2021-01-02,73.0,Forever After All,Luke Combs,"['contemporary country', 'country']"
+2021-01-02,74.0,Throat Baby (Go Baby),BRS Kash,['viral rap']
+2021-01-02,75.0,Under The Mistletoe,Kelly Clarkson,"['dance pop', 'pop', 'talent show']"
+2021-01-02,76.0,Tyler Herro,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2021-01-02,77.0,Champagne Problems,Taylor Swift,['pop']
+2021-01-02,78.0,The First Noel,Gabby Barrett,['contemporary country']
+2021-01-02,79.0,Love You Like I Used To,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2021-01-02,80.0,Champagne Night,Lady A,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']"
+2021-01-02,81.0,Prisoner,Miley Cyrus,['pop']
+2021-01-02,82.0,Good Time,Niko Moon,[]
+2021-01-02,83.0,7 Summers,Morgan Wallen,['contemporary country']
+2021-01-02,84.0,Adderall (Corvette Corvette),Popp Hunna,"['philly rap', 'viral rap']"
+2021-01-02,85.0,You're Mines Still,Yung Bleu,"['alabama rap', 'trap']"
+2021-01-02,86.0,Tequila Shots,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']"
+2021-01-02,87.0,Back To The Streets,Saweetie,"['cali rap', 'trap queen']"
+2021-01-02,88.0,Bichota,Karol G,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2021-01-02,89.0,Way Out,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']"
+2021-01-02,90.0,Hit Different,SZA,"['pop', 'r&b', 'rap']"
+2021-01-02,91.0,Tis The Damn Season,Taylor Swift,['pop']
+2021-01-02,92.0,Damage,H.E.R.,"['r&b', 'rap']"
+2021-01-02,93.0,Backdoor,Lil Durk,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']"
+2021-01-02,94.0,Silent Night,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']"
+2021-01-02,95.0,Golden,Harry Styles,['pop']
+2021-01-02,96.0,Hole In The Bottle,Kelsea Ballerini,"['contemporary country', 'country']"
+2021-01-02,97.0,"No Body, No Crime",Taylor Swift,['pop']
+2021-01-02,98.0,Moonwalking In Calabasas,DDG,"['pop rap', 'trap']"
+2021-01-02,99.0,Took Her To The O,King Von,"['chicago rap', 'rap']"
+2021-01-02,100.0,Put Your Records On,Ritt Momney,['bedroom pop']

@@ -1,0 +1,98 @@
+date,rank,song_title,artist,genres,simplified_genre
+2020-12-26,1.0,Willow,Taylor Swift,['pop'],Pop
+2020-12-26,2.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",Pop
+2020-12-26,3.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']",Rock
+2020-12-26,4.0,Jingle Bell Rock,Bobby Helms,[],기타
+2020-12-26,5.0,Mood,24kGoldn ,"['cali rap', 'pop rap']",Hip Hop
+2020-12-26,6.0,A Holly Jolly Christmas,Burl Ives,['american folk revival'],기타
+2020-12-26,7.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']",기타
+2020-12-26,8.0,Positions,Ariana Grande,['pop'],Pop
+2020-12-26,9.0,Dynamite,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
+2020-12-26,10.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']",Pop
+2020-12-26,11.0,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']",Jazz
+2020-12-26,13.0,Holy,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-12-26,14.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']",Pop
+2020-12-26,15.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",Jazz
+2020-12-26,16.0,Go Crazy,Chris Brown ,"['r&b', 'rap']",R&B
+2020-12-26,17.0,Laugh Now Cry Later,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,18.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2020-12-26,19.0,Sleigh Ride,The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",Pop
+2020-12-26,20.0,I Hope,Gabby Barrett ,['contemporary country'],Country
+2020-12-26,21.0,Champagne Problems,Taylor Swift,['pop'],Pop
+2020-12-26,22.0,Body,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-12-26,23.0,Dakiti,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2020-12-26,24.0,Lemonade,Internet Money ,"['pop rap', 'trap']",Pop
+2020-12-26,25.0,For The Night,Pop Smoke ,"['brooklyn drill', 'rap']",Hip Hop
+2020-12-26,26.0,Happy Holiday / The Holiday Season,Andy Williams,"['adult standards', 'easy listening']",기타
+2020-12-26,27.0,Levitating,Dua Lipa ,"['dance pop', 'pop', 'uk pop']",Pop
+2020-12-26,28.0,Underneath The Tree,Kelly Clarkson,"['dance pop', 'pop', 'talent show']",Pop
+2020-12-26,29.0,Run Rudolph Run,Chuck Berry,"['blues', 'blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']",Rock
+2020-12-26,30.0,Kings & Queens,Ava Ma,['pop'],Pop
+2020-12-26,31.0,Rudolph The Red-Nosed Reindeer,Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Country
+2020-12-26,32.0,Santa Tell Me,Ariana Grande,['pop'],Pop
+2020-12-26,33.0,Bang!,AJR,['pov: indie'],기타
+2020-12-26,34.0,"No Body, No Crime",Taylor Swift ,['pop'],Pop
+2020-12-26,35.0,34+35,Ariana Grande,['pop'],Pop
+2020-12-26,36.0,Therefore I Am,Billie Eilish,"['art pop', 'pop']",Pop
+2020-12-26,37.0,Christmas (Baby Please Come Home),Darlene Love,[],기타
+2020-12-26,38.0,White Christmas,Bing Crosby,"['adult standards', 'easy listening', 'lounge']",기타
+2020-12-26,39.0,Tis The Damn Season,Taylor Swift,['pop'],Pop
+2020-12-26,40.0,Gold Rush,Taylor Swift,['pop'],Pop
+2020-12-26,41.0,Tequila Shots,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,42.0,It's Beginning To Look A Lot Like Christmas,Michael Buble,"['adult standards', 'canadian pop', 'jazz pop', 'lounge']",Pop
+2020-12-26,44.0,Whats Poppin,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,45.0,Tolerate It,Taylor Swift,['pop'],Pop
+2020-12-26,46.0,Wonderful Christmastime,Paul McCartney,"['classic rock', 'mellow gold', 'rock', 'soft rock']",Rock
+2020-12-26,47.0,Deck The Halls,Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",Jazz
+2020-12-26,48.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']",Hip Hop
+2020-12-26,49.0,She Knows This,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,50.0,Rockstar,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2020-12-26,51.0,Lonely,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2020-12-26,52.0,Happiness,Taylor Swift,['pop'],Pop
+2020-12-26,53.0,Whoopty,CJ,['nyc rap'],Hip Hop
+2020-12-26,54.0,Show Out,"Kid Cudi, Skepta ","['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,55.0,WAP,Cardi B ,"['pop', 'rap']",Pop
+2020-12-26,56.0,Holiday,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
+2020-12-26,57.0,Evermore,Taylor Swift ,['pop'],Pop
+2020-12-26,58.0,Take Me Home For Christmas,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2020-12-26,59.0,Better Together,Luke Combs,"['contemporary country', 'country']",Country
+2020-12-26,60.0,On Me,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-12-26,61.0,Ivy,Taylor Swift,['pop'],Pop
+2020-12-26,62.0,Monster,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2020-12-26,63.0,Coney Island,Taylor Swift ,['pop'],Pop
+2020-12-26,64.0,Another Day,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,65.0,Hawai,Maluma ,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Pop
+2020-12-26,66.0,Diamonds,Sam Smith,"['pop', 'uk pop']",Pop
+2020-12-26,67.0,Dorothea,Taylor Swift,['pop'],Pop
+2020-12-26,68.0,Long Story Short,Taylor Swift,['pop'],Pop
+2020-12-26,69.0,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']",Country
+2020-12-26,70.0,I Should Probably Go To Bed,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2020-12-26,71.0,Cowboy Like Me,Taylor Swift,['pop'],Pop
+2020-12-26,72.0,Starting Over,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2020-12-26,73.0,"Big, Big Plans",Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-12-26,74.0,Way Out,Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,75.0,Marjorie,Taylor Swift,['pop'],Pop
+2020-12-26,76.0,B.S.,Jhene Aiko ,['r&b'],R&B
+2020-12-26,77.0,Tyler Herro,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,78.0,Mr. Solo Dolo III,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,79.0,You Broke Me First.,Tate McRae,['pop'],Pop
+2020-12-26,80.0,Dive,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,81.0,Without You,The Kid LAROI,['australian hip hop'],Hip Hop
+2020-12-26,82.0,Closure,Taylor Swift,['pop'],Pop
+2020-12-26,83.0,Love You Like I Used To,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-12-26,84.0,Hallelujah,Carrie Underwood ,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2020-12-26,85.0,Heaven On Earth,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,87.0,Rockin' Around The Christmas Tree,Justin Bieber,"['canadian pop', 'pop']",Pop
+2020-12-26,88.0,Mr. Right Now,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+2020-12-26,89.0,Reminds Me Of You,The Kid LAROI ,['australian hip hop'],Hip Hop
+2020-12-26,90.0,Sad People,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,91.0,Damaged,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop
+2020-12-26,92.0,Forever After All,Luke Combs,"['contemporary country', 'country']",Country
+2020-12-26,93.0,Ain't Always The Cowboy,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2020-12-26,94.0,Prisoner,Miley Cyrus ,['pop'],Pop
+2020-12-26,95.0,Cry Baby,Megan Thee Stallion ,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2020-12-26,96.0,Good Time,Niko Moon,[],기타
+2020-12-26,97.0,Throat Baby (Go Baby),BRS Kash,['viral rap'],Hip Hop
+2020-12-26,98.0,Errbody,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2020-12-26,99.0,Favorite Time Of Year,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2020-12-26,100.0,Beautiful Trip,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",Hip Hop

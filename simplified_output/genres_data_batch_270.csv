@@ -1,0 +1,99 @@
+date,rank,song_title,artist,genres,simplified_genre
+2021-02-27,1.0,Drivers License,Olivia Rodrigo,['pop'],Pop
+2021-02-27,2.0,34+35,Ariana Grande,['pop'],Pop
+2021-02-27,3.0,Calling My Phone,Lil Tjay ,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",Hip Hop
+2021-02-27,4.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2021-02-27,5.0,Up,Cardi B,"['pop', 'rap']",Pop
+2021-02-27,6.0,Save Your Tears,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2021-02-27,7.0,Mood,24kGoldn ,"['cali rap', 'pop rap']",Hip Hop
+2021-02-27,8.0,Go Crazy,Chris Brown ,"['r&b', 'rap']",R&B
+2021-02-27,9.0,Levitating,Dua Lipa ,"['dance pop', 'pop', 'uk pop']",Pop
+2021-02-27,10.0,Positions,Ariana Grande,['pop'],Pop
+2021-02-27,11.0,Love Story (Taylor's Version),Taylor Swift,['pop'],Pop
+2021-02-27,12.0,What You Know Bout Love,Pop Smoke,"['brooklyn drill', 'rap']",Hip Hop
+2021-02-27,13.0,Therefore I Am,Billie Eilish,"['art pop', 'pop']",Pop
+2021-02-27,14.0,For The Night,Pop Smoke ,"['brooklyn drill', 'rap']",Hip Hop
+2021-02-27,15.0,Whoopty,CJ,['nyc rap'],Hip Hop
+2021-02-27,16.0,Back In Blood,Pooh Shiesty ,"['memphis hip hop', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+2021-02-27,17.0,Holy,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2021-02-27,18.0,Good Days,SZA,"['pop', 'r&b', 'rap']",Pop
+2021-02-27,19.0,I Hope,Gabby Barrett ,['contemporary country'],Country
+2021-02-27,20.0,Better Together,Luke Combs,"['contemporary country', 'country']",Country
+2021-02-27,21.0,Dakiti,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2021-02-27,22.0,Lonely,Justin Bieber ,"['canadian pop', 'pop']",Pop
+2021-02-27,23.0,You Broke Me First.,Tate McRae,['pop'],Pop
+2021-02-27,24.0,You're Mines Still,Yung Bleu ,"['alabama rap', 'trap']",Hip Hop
+2021-02-27,25.0,Willow,Taylor Swift,['pop'],Pop
+2021-02-27,26.0,Body,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2021-02-27,27.0,Streets,Doja Cat,"['dance pop', 'pop']",Pop
+2021-02-27,28.0,Anyone,Justin Bieber,"['canadian pop', 'pop']",Pop
+2021-02-27,30.0,Throat Baby (Go Baby),BRS Kash,['viral rap'],Hip Hop
+2021-02-27,31.0,Bang!,AJR,['pov: indie'],기타
+2021-02-27,32.0,On Me,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
+2021-02-27,33.0,Before You Go,Lewis Capaldi,"['pop', 'uk pop']",Pop
+2021-02-27,34.0,Lemonade,Internet Money ,"['pop rap', 'trap']",Pop
+2021-02-27,35.0,Good Time,Niko Moon,[],기타
+2021-02-27,36.0,Laugh Now Cry Later,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2021-02-27,37.0,Starting Over,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
+2021-02-27,38.0,Best Friend,Saweetie ,"['cali rap', 'trap queen']",Hip Hop
+2021-02-27,39.0,Put Your Records On,Ritt Momney,['bedroom pop'],Pop
+2021-02-27,40.0,Just The Way,Parmalee ,"['contemporary country', 'country road', 'modern country rock', 'modern uplift']",Country
+2021-02-27,41.0,Cry Baby,Megan Thee Stallion ,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
+2021-02-27,42.0,Beers And Sunshine,Darius Rucker,"['black americana', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2021-02-27,43.0,Without You,The Kid LAROI,['australian hip hop'],Hip Hop
+2021-02-27,44.0,Damage,H.E.R.,"['r&b', 'rap']",R&B
+2021-02-27,45.0,Dynamite,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
+2021-02-27,46.0,Down To One,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2021-02-27,47.0,Buss It,Erica Banks,['trap queen'],Hip Hop
+2021-02-27,48.0,Long Live,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2021-02-27,49.0,We're Good,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
+2021-02-27,50.0,Time Today,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+2021-02-27,51.0,What It Feels Like,Nipsey Hussle ,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2021-02-27,52.0,Hole In The Bottle,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2021-02-27,53.0,Wasted On You,Morgan Wallen,['contemporary country'],Country
+2021-02-27,54.0,Beat Box,SpotemGottem ,"['florida drill', 'florida rap']",Hip Hop
+2021-02-27,55.0,The Good Ones,Gabby Barrett,['contemporary country'],Country
+2021-02-27,56.0,What's Your Country Song,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2021-02-27,57.0,Sand In My Boots,Morgan Wallen,['contemporary country'],Country
+2021-02-27,58.0,Golden,Harry Styles,['pop'],Pop
+2021-02-27,59.0,Monsters,All Time Low ,"['modern rock', 'neon pop punk', 'pop emo', 'pop punk']",Rock
+2021-02-27,60.0,Goosebumps,Travis Scott ,"['hip hop', 'rap', 'slap house']",Hip Hop
+2021-02-27,61.0,My Head And My Heart,Ava Ma,['pop'],Pop
+2021-02-27,62.0,Tyler Herro,Jack Harlow,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
+2021-02-27,63.0,Lady,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2021-02-27,64.0,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",Pop
+2021-02-27,65.0,Afterglow,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
+2021-02-27,66.0,Forever After All,Luke Combs,"['contemporary country', 'country']",Country
+2021-02-27,67.0,Girl Like Me,Black Eyed Peas ,"['dance pop', 'pop', 'pop rap']",Pop
+2021-02-27,68.0,Astronaut In The Ocean,Masked Wolf,['australian hip hop'],Hip Hop
+2021-02-27,69.0,La Noche de Anoche,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2021-02-27,70.0,No More Parties,Coi Leray ,"['new jersey underground rap', 'trap queen']",Hip Hop
+2021-02-27,71.0,Somebody's Problem,Morgan Wallen,['contemporary country'],Country
+2021-02-27,72.0,Momma's House,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2021-02-27,73.0,Hell Of A View,Eric Church,"['contemporary country', 'country', 'country road']",Country
+2021-02-27,74.0,Heartbreak Anniversary,Giveon,['r&b'],R&B
+2021-02-27,75.0,Neighbors,Pooh Shiesty ,"['memphis hip hop', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+2021-02-27,76.0,Lifestyle,Jason Derulo ,"['dance pop', 'pop']",Pop
+2021-02-27,77.0,So Done,The Kid LAROI,['australian hip hop'],Hip Hop
+2021-02-27,78.0,Somebody Like That,Tenille Arts,"['canadian contemporary country', 'contemporary country', 'country pop']",Country
+2021-02-27,79.0,Finesse Out The Gang Way,Lil Durk ,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",Hip Hop
+2021-02-27,80.0,Masterpiece,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2021-02-27,81.0,Moonwalking In Calabasas,DDG,"['pop rap', 'trap']",Pop
+2021-02-27,82.0,Bandido,Myke Towers ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
+2021-02-27,83.0,Happy Does,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2021-02-27,84.0,Cover Me Up,Morgan Wallen,['contemporary country'],Country
+2021-02-27,85.0,You Got It,VEDO,['pop r&b'],Pop
+2021-02-27,87.0,Still Trappin',Lil Durk ,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",Hip Hop
+2021-02-27,88.0,Pick Up Your Feelings,Jazmine Sullivan,"['hip pop', 'neo soul', 'r&b', 'urban contemporary']",Pop
+2021-02-27,89.0,"Big, Big Plans",Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2021-02-27,90.0,Drankin N Smokin,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2021-02-27,91.0,Monster,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
+2021-02-27,92.0,Bichota,Karol G,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
+2021-02-27,93.0,Glad You Exist,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2021-02-27,94.0,Quicksand,Morray,['pop rap'],Pop
+2021-02-27,95.0,Like I Want You,Giveon,['r&b'],R&B
+2021-02-27,96.0,Almost Maybes,Jordan Davis,['contemporary country'],Country
+2021-02-27,97.0,Back To The Streets,Saweetie ,"['cali rap', 'trap queen']",Hip Hop
+2021-02-27,98.0,Bad Boy,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
+2021-02-27,99.0,Opp Stoppa,YBN Nahmir ,"['alabama rap', 'rap', 'trap']",Hip Hop
+2021-02-27,100.0,How They Remember You,Rascal Flatts,"['contemporary country', 'country', 'country road']",Country

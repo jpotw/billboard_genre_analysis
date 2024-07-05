@@ -1,0 +1,96 @@
+date,rank,song_title,artist,genres,simplified_genre
+2016-07-09,1.0,One Dance,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,2.0,Can't Stop The Feeling!,Justin Timberlake,"['dance pop', 'pop']",Pop
+2016-07-09,3.0,Panda,Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",Pop
+2016-07-09,4.0,Don't Let Me Down,The Chainsmokers ,['pop'],Pop
+2016-07-09,5.0,This Is What You Came For,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
+2016-07-09,6.0,Cheap Thrills,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
+2016-07-09,7.0,Work From Home,Fifth Harmony ,"['girl group', 'pop', 'talent show']",Pop
+2016-07-09,8.0,Needed Me,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
+2016-07-09,10.0,Ride,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2016-07-09,11.0,I Took A Pill In Ibiza,Mike Posner,"['dance pop', 'pop', 'pop dance', 'pop rap']",Pop
+2016-07-09,12.0,Just Like Fire,P!nk,"['dance pop', 'pop']",Pop
+2016-07-09,13.0,7 Years,Lukas Graham,"['danish pop', 'scandipop']",Pop
+2016-07-09,14.0,Heathens,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2016-07-09,15.0,Dangerous Woman,Ariana Grande,['pop'],Pop
+2016-07-09,16.0,Work,Rihanna ,"['barbadian pop', 'pop', 'urban contemporary']",Pop
+2016-07-09,17.0,H.O.L.Y.,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
+2016-07-09,18.0,Me Too,Meghan Trainor,"['hip pop', 'pop']",Pop
+2016-07-09,19.0,Send My Love (To Your New Lover),Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
+2016-07-09,20.0,Controlla,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,21.0,Close,Nick Jonas ,"['dance pop', 'pop']",Pop
+2016-07-09,22.0,Stressed Out,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
+2016-07-09,23.0,Let It Go,James Bay,"['neo mellow', 'pop', 'uk pop']",Pop
+2016-07-09,24.0,Lost Boy,Ruth B,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-07-09,25.0,Love Yourself,Justin Bieber,"['canadian pop', 'pop']",Pop
+2016-07-09,26.0,My House,Flo Rida,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",Pop
+2016-07-09,27.0,Too Good,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,28.0,Never Forget You,Zara Larsson ,"['pop', 'scandipop', 'swedish electropop', 'swedish pop']",Pop
+2016-07-09,29.0,Cake By The Ocean,DNCE,"['dance pop', 'pop']",Pop
+2016-07-09,30.0,Pillowtalk,Zayn,"['pop', 'uk pop']",Pop
+2016-07-09,31.0,Low Life,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-07-09,32.0,Sorry,Beyonce,"['pop', 'r&b']",Pop
+2016-07-09,33.0,For Free,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,34.0,All The Way Up,"Fat Joe, Remy Ma ","['bronx hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2016-07-09,35.0,Never Be Like You,Flume ,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica']",Electronic/Dance
+2016-07-09,36.0,"Me, Myself & I",G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
+2016-07-09,37.0,Sorry,Justin Bieber,"['canadian pop', 'pop']",Pop
+2016-07-09,38.0,Cut It,O.T. Genasis ,"['southern hip hop', 'trap']",Hip Hop
+2016-07-09,39.0,Kill Em With Kindness,Selena Gomez,"['pop', 'post-teen pop']",Pop
+2016-07-09,40.0,Oui,Jeremih,"['chicago rap', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",Hip Hop
+2016-07-09,41.0,Wicked,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-07-09,42.0,"Huntin', Fishin' & Lovin' Every Day",Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,43.0,Church Bells,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
+2016-07-09,44.0,Into You,Ariana Grande,['pop'],Pop
+2016-07-09,45.0,2 Phones,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-07-09,46.0,Really Really,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-07-09,47.0,Pop Style,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,48.0,No,Meghan Trainor,"['hip pop', 'pop']",Pop
+2016-07-09,49.0,Lights Come On,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,50.0,Treat You Better,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
+2016-07-09,51.0,Uber Everywhere,MadeinTYO,"['atl hip hop', 'melodic rap', 'trap']",Hip Hop
+2016-07-09,52.0,Humble And Kind,Tim McGraw,"['contemporary country', 'country', 'country road']",Country
+2016-07-09,53.0,Wake Up,Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-07-09,54.0,Head Over Boots,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,55.0,I Hate U I Love U,gnash ,"['alt z', 'pop']",Pop
+2016-07-09,56.0,T-Shirt,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,57.0,Wasted Time,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,58.0,Wild Things,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
+2016-07-09,59.0,Record Year,Eric Church,"['contemporary country', 'country', 'country road']",Country
+2016-07-09,60.0,Unsteady,,[],기타
+2016-07-09,61.0,We Don't Talk Anymore,Charlie Puth ,"['pop', 'viral pop']",Pop
+2016-07-09,63.0,From The Ground Up,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
+2016-07-09,64.0,Gold,Kiiara,"['alt z', 'electropop']",Pop
+2016-07-09,66.0,Wherever I Go,OneRepublic,"['piano rock', 'pop']",Rock
+2016-07-09,67.0,Dark Necessities,Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",Rock
+2016-07-09,68.0,Peter Pan,Kelsea Ballerini,"['contemporary country', 'country']",Country
+2016-07-09,69.0,THat Part,ScHoolboy Q ,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-07-09,70.0,Came Here To Forget,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,71.0,The Sound Of Silence,Disturbed,"['alternative metal', 'nu metal', 'rap metal', 'rock']",Hip Hop
+2016-07-09,72.0,American Country Love Song,Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,73.0,Make You Miss Me,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
+2016-07-09,74.0,Noise,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,75.0,"Sit Still, Look Pretty",Daya,"['alt z', 'pop']",Pop
+2016-07-09,76.0,Body,Dreezy ,"['chicago rap', 'drill', 'trap queen']",Hip Hop
+2016-07-09,77.0,Hype,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,78.0,All In My Head (Flex),Fifth Harmony ,"['girl group', 'pop', 'talent show']",Pop
+2016-07-09,79.0,Champions,"Kanye West, Gucci Mane, Big Sean, 2 Chainz, Travi$ Scott, Yo Gotti, Quavo, Desiigner","['chicago rap', 'hip hop', 'rap']",Hip Hop
+2016-07-09,80.0,My PYT,Wale,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Pop
+2016-07-09,81.0,Childs Play,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,82.0,Light It Up,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
+2016-07-09,83.0,Fix,Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,84.0,Think Of You,Chris Young Duet With Cassadee Pope,"['contemporary country', 'country', 'country road']",Country
+2016-07-09,85.0,Hymn For The Weekend,Coldplay,"['permanent wave', 'pop']",Pop
+2016-07-09,86.0,What The World Needs Now Is Love,Broadway For Orlando,[],기타
+2016-07-09,87.0,Try Everything,Shakira,"['colombian pop', 'dance pop', 'latin pop', 'pop']",Pop
+2016-07-09,89.0,Toothbrush,DNCE,"['dance pop', 'pop']",Pop
+2016-07-09,90.0,With You Tonight / Hasta El Amanecer,Nicky Jam,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
+2016-07-09,91.0,Still Here,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,92.0,Why You Always Hatin?,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
+2016-07-09,93.0,Grammys,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+2016-07-09,94.0,Different For Girls,Dierks Bentley ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+2016-07-09,95.0,Money Longer,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
+2016-07-09,96.0,Ophelia,The Lumineers,"['folk-pop', 'modern rock', 'neo mellow', 'stomp and holler']",Pop
+2016-07-09,97.0,No Problem,Chance The Rapper ,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
+2016-07-09,98.0,Father Stretch My Hands Pt. 1,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
+2016-07-09,99.0,Kiss It Better,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop

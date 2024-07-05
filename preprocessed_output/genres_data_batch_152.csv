@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2018-11-24,1.0,"Thank U, Next",Ariana Grande,['pop']
+2018-11-24,2.0,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']"
+2018-11-24,3.0,Happier,Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']"
+2018-11-24,4.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2018-11-24,5.0,Girls Like You,Maroon 5,['pop']
+2018-11-24,6.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2018-11-24,7.0,Mo Bamba,Sheck Wes,"['pop rap', 'rap', 'trap']"
+2018-11-24,8.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']"
+2018-11-24,9.0,ZEZE,Kodak Black,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']"
+2018-11-24,10.0,Drip Too Hard,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-11-24,11.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-11-24,12.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']"
+2018-11-24,13.0,Natural,Imagine Dragons,"['modern rock', 'pop', 'rock']"
+2018-11-24,14.0,Breathin,Ariana Grande,['pop']
+2018-11-24,15.0,Taki Taki,DJ Snake,"['edm', 'electronic trap', 'pop', 'pop dance']"
+2018-11-24,16.0,BAD!,,[]
+2018-11-24,17.0,Wake Up In The Sky,Gucci Mane,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-11-24,18.0,Trip,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']"
+2018-11-24,19.0,MIA,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2018-11-24,20.0,Love Lies,Khalid,"['pop', 'pop r&b']"
+2018-11-24,21.0,Eastside,"benny blanco, Halsey",['pop']
+2018-11-24,22.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-11-24,23.0,God Is A Woman,Ariana Grande,['pop']
+2018-11-24,24.0,Shallow,Lady Gaga,"['art pop', 'dance pop', 'pop']"
+2018-11-24,25.0,Money,Cardi B,"['pop', 'rap']"
+2018-11-24,26.0,I Like It,"Cardi B, Bad Bunny","['pop', 'rap']"
+2018-11-24,27.0,Taste,Tyga,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-11-24,28.0,Lose It,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']"
+2018-11-24,29.0,In My Feelings,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2018-11-24,30.0,Yes Indeed,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-11-24,31.0,Broken,lovelytheband,"['modern alternative rock', 'modern rock', 'pov: indie']"
+2018-11-24,32.0,Beautiful,Bazzi,['pop']
+2018-11-24,33.0,Nonstop,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+2018-11-24,34.0,Uproar,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']"
+2018-11-24,35.0,She Got The Best Of Me ,Luke Combs,"['contemporary country', 'country']"
+2018-11-24,36.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2018-11-24,37.0,Leave Me Alone,Flipp Dinero,"['melodic rap', 'trap']"
+2018-11-24,38.0,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']"
+2018-11-24,39.0,Ring,Cardi B,"['pop', 'rap']"
+2018-11-24,40.0,Bohemian Rhapsody,Queen,"['classic rock', 'glam rock', 'rock']"
+2018-11-24,41.0,I Like Me Better,Lauv,['pop']
+2018-11-24,42.0,FEFE,6i,['emo rap']
+2018-11-24,43.0,Boo'd Up,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']"
+2018-11-24,44.0,Armed And Dangerous,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2018-11-24,45.0,Sad!,,[]
+2018-11-24,46.0,Best Shot,Jimmie Allen,"['black americana', 'contemporary country', 'country road', 'modern country rock']"
+2018-11-24,47.0,I'm A Mess,Bebe Re,"['dance pop', 'pop']"
+2018-11-24,48.0,Psycho,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2018-11-24,49.0,Big Bank,YG,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-11-24,50.0,Lie,NF,"['hip hop', 'pop rap']"
+2018-11-24,51.0,Better,Khalid,"['pop', 'pop r&b']"
+2018-11-24,52.0,Topanga,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2018-11-24,53.0,Lost In Japan,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
+2018-11-24,54.0,Drunk Me,Mitchell Tenpenny,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']"
+2018-11-24,55.0,1400 / 999 Freestyle,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2018-11-24,56.0,10 Freaky Girls,Metro Boomin,['rap']
+2018-11-24,57.0,Dangerous,Meek Mill,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-11-24,58.0,Close Friends,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-11-24,59.0,When The Party's Over,Billie Eilish,"['art pop', 'pop']"
+2018-11-24,60.0,Arms Around You,,[]
+,,That's On Me,Yella Beezy,[]
+2018-11-24,62.0,Smile (Living My Best Life),Lil' Duval,"['florida rap', 'hip hop']"
+2018-11-24,63.0,Don't Come Out The House,Metro Boomin,['rap']
+2018-11-24,64.0,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']"
+2018-11-24,65.0,Fine China,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+2018-11-24,66.0,Space Cadet,Metro Boomin,['rap']
+2018-11-24,67.0,Hangin' On,Chris Young,"['contemporary country', 'country', 'country road']"
+2018-11-24,68.0,Rich,Maren Morris,"['classic texas country', 'contemporary country']"
+2018-11-24,69.0,No Stylist,French Montana,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-11-24,70.0,Never Recover,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2018-11-24,71.0,I Love It,Kanye West,"['chicago rap', 'hip hop', 'rap']"
+2018-11-24,72.0,Falling Down,Lil Peep,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']"
+2018-11-24,73.0,Love Scars 3,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2018-11-24,74.0,Backin' It Up,Pardison Fontaine,['upstate ny rap']
+2018-11-24,75.0,Burning Man,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-11-24,76.0,Blue Tacoma,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-11-24,77.0,This Feeling,The Chainsmokers,['pop']
+2018-11-24,78.0,Dip,Tyga,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2018-11-24,79.0,Bad Liar,Imagine Dragons,"['modern rock', 'pop', 'rock']"
+2018-11-24,80.0,Talk To Me,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']"
+2018-11-24,81.0,Be Alright,Dean Lewis,"['australian pop', 'pop']"
+2018-11-24,82.0,W O R K I N  M E,Quavo,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+2018-11-24,83.0,Consequences,Camila Cabello,"['dance pop', 'pop']"
+2018-11-24,84.0,Best Part,Daniel Caesar,['canadian contemporary r&b']
+2018-11-24,85.0,Always Remember Us This Way,Lady Gaga,"['art pop', 'dance pop', 'pop']"
+2018-11-24,86.0,Ella Quiere Beber,Anuel AA,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']"
+2018-11-24,87.0,Mona Lisa,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']"
+2018-11-24,88.0,STOOPID,6i,['emo rap']
+2018-11-24,89.0,Negative Energy,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2018-11-24,90.0,Noticed,Lil Mosey,"['melodic rap', 'rap conscient']"
+2018-11-24,91.0,Sixteen,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-11-24,92.0,Lucky You,Eminem,"['detroit hip hop', 'hip hop', 'rap']"
+2018-11-24,93.0,Good Girl,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-11-24,94.0,Desperate Man,Eric Church,"['contemporary country', 'country', 'country road']"
+2018-11-24,95.0,Last Shot,Kip Moore,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2018-11-24,96.0,Millionaire,Chris Stapleton,"['contemporary country', 'outlaw country']"
+2018-11-24,97.0,I'll Never Love Again,Lady Gaga,"['art pop', 'dance pop', 'pop']"
+2018-11-24,98.0,Toxic Waste,Trippie Redd,"['melodic rap', 'rap', 'trap']"
+2018-11-24,99.0,Drew Barrymore,Bryce Vine,['indie pop rap']
+2018-11-24,100.0,Jackie Chan,Tiesto,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']"

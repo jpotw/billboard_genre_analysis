@@ -1,0 +1,101 @@
+date,rank,song_title,artist,genres
+2020-01-04,1.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']"
+2020-01-04,2.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']"
+2020-01-04,3.0,Jingle Bell Rock,Bobby Helms,[]
+2020-01-04,4.0,A Holly Jolly Christmas,Burl Ives,['american folk revival']
+2020-01-04,5.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2020-01-04,6.0,Roxanne,Arizona Zervas,"['indie pop rap', 'pop rap', 'rhode island rap']"
+2020-01-04,7.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']"
+2020-01-04,8.0,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']"
+2020-01-04,9.0,Memories,Maroon 5,['pop']
+2020-01-04,10.0,Good As Hell,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2020-01-04,11.0,Last Christmas,Wham!,"['new romantic', 'new wave pop', 'soft rock']"
+2020-01-04,12.0,Feliz Navidad,Jose Feliciano,"['latin pop', 'puerto rican pop']"
+2020-01-04,13.0,The Box,Roddy Ricch,"['melodic rap', 'rap', 'trap']"
+2020-01-04,14.0,Dance Monkey,Tones And I,['australian pop']
+2020-01-04,15.0,"Let It Snow, Let It Snow, Let It Snow",Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+2020-01-04,16.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']"
+2020-01-04,17.0,"10,000 Hours",Dan + Shay ,"['contemporary country', 'country', 'country road']"
+2020-01-04,18.0,Lose You To Love Me,Selena Gomez,"['pop', 'post-teen pop']"
+2020-01-04,19.0,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+2020-01-04,20.0,BOP,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2020-01-04,21.0,Sleigh Ride,The Ronettes,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']"
+2020-01-04,22.0,Rudolph The Red-Nosed Reindeer,Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']"
+2020-01-04,23.0,Bad Guy,Billie Eilish,"['art pop', 'pop']"
+2020-01-04,24.0,Happy Holiday / The Holiday Season,Andy Williams,"['adult standards', 'easy listening']"
+2020-01-04,25.0,No Guidance,Chris Brown ,"['r&b', 'rap']"
+2020-01-04,26.0,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']"
+2020-01-04,27.0,Bandit,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']"
+,,It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,Need Manual Check
+2020-01-04,29.0,Christmas (Baby Please Come Home),Darlene Love,[]
+2020-01-04,30.0,Panini,Lil Nas ,['lgbtq+ hip hop']
+2020-01-04,31.0,Underneath The Tree,Kelly Clarkson,"['dance pop', 'pop', 'talent show']"
+2020-01-04,32.0,Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,"['classic oklahoma country', 'cowboy western', 'traditional country', 'western swing', 'yodeling']"
+2020-01-04,33.0,Hot,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']"
+2020-01-04,34.0,Old Town Road,Lil Nas ,['lgbtq+ hip hop']
+2020-01-04,35.0,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']"
+2020-01-04,36.0,Run Rudolph Run,Chuck Berry,"['blues', 'blues rock', 'classic rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']"
+,,(There's No Place Like) Home For The Holidays,Perry Como,Need Manual Check
+2020-01-04,38.0,HIGHEST IN THE ROOM,Travis Scott,"['hip hop', 'rap', 'slap house']"
+2020-01-04,39.0,Heartless,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2020-01-04,40.0,Blue Christmas,Elvis Presley,"['rock-and-roll', 'rockabilly']"
+2020-01-04,41.0,Everything I Wanted,Billie Eilish,"['art pop', 'pop']"
+2020-01-04,42.0,White Christmas,Bing Crosby,"['adult standards', 'easy listening', 'lounge']"
+2020-01-04,43.0,Jingle Bells,Frank Sinatra,"['adult standards', 'easy listening', 'lounge']"
+2020-01-04,44.0,Like It's Christmas,Jonas Brothers,"['boy band', 'pop']"
+2020-01-04,45.0,Baby It's Cold Outside,Dean Martin,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+2020-01-04,46.0,Trampoline,SHAED,['electropop']
+2020-01-04,47.0,Woah,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']"
+2020-01-04,48.0,Futsal Shuffle 2020,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']"
+2020-01-04,49.0,"You're A Mean One, Mr. Grinch",Thurl Ravenscroft,['movie tunes']
+2020-01-04,50.0,Ran$om,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']"
+2020-01-04,51.0,Falling,Trevor Daniel,['melodic rap']
+2020-01-04,52.0,Don't Start Now,Dua Lipa,"['dance pop', 'pop', 'uk pop']"
+2020-01-04,53.0,Adore You,Harry Styles,['pop']
+2020-01-04,54.0,One Man Band,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-01-04,55.0,Hot Girl Bummer,blackbear,['pop']
+2020-01-04,56.0,Suicidal,YNW Melly ,"['melodic rap', 'rap']"
+2020-01-04,57.0,Lover,Taylor Swift,['pop']
+2020-01-04,58.0,On Chill,Wale ,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']"
+2020-01-04,59.0,Even Though I'm Leaving,Luke Combs,"['contemporary country', 'country']"
+2020-01-04,60.0,No Idea,Don Toliver,"['pop rap', 'rap', 'trap']"
+2020-01-04,61.0,Graveyard,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']"
+2020-01-04,62.0,My Oh My,Camila Cabello ,"['dance pop', 'pop']"
+2020-01-04,63.0,Juicy,Doja Cat ,"['dance pop', 'pop']"
+2020-01-04,64.0,The Bones,Maren Morris,"['classic texas country', 'contemporary country']"
+2020-01-04,65.0,Playing Games,Summer Walker,"['r&b', 'rap']"
+2020-01-04,66.0,Heat,Chris Brown ,"['r&b', 'rap']"
+2020-01-04,67.0,Into The Unknown,Idina Menzel ,"['hollywood', 'movie tunes', 'show tunes']"
+2020-01-04,68.0,VIBEZ,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2020-01-04,69.0,Happy Xmas (War Is Over),John Legend,"['neo soul', 'pop', 'pop soul', 'urban contemporary']"
+2020-01-04,70.0,Heart On Ice,Rod Wave,['florida rap']
+2020-01-04,71.0,What If I Never Get Over You,Lady Antebellum,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']"
+2020-01-04,72.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+2020-01-04,73.0,Ridin' Roads,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-01-04,74.0,Camelot,NLE Choppa,"['memphis hip hop', 'rap']"
+2020-01-04,75.0,Heartache Medication,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-01-04,76.0,Start Wit Me,Roddy Ricch ,"['melodic rap', 'rap', 'trap']"
+2020-01-04,77.0,Take What You Want,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+,,Leave Em Alone,"Layton Greene, Lil Baby, City Girls ",Need Manual Check
+2020-01-04,79.0,Hate Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']"
+2020-01-04,80.0,Kinfolks,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']"
+2020-01-04,81.0,Let Me Know (I Wonder Why Freestyle),Juice WRLD,"['chicago rap', 'melodic rap', 'rap']"
+2020-01-04,82.0,Remember You Young,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']"
+2020-01-04,83.0,Death,Trippie Redd ,"['melodic rap', 'rap', 'trap']"
+2020-01-04,84.0,223's,YNW Melly ,"['melodic rap', 'rap']"
+2020-01-04,85.0,Slide,H.E.R. ,"['r&b', 'rap']"
+2020-01-04,86.0,RITMO (Bad Boys For Life),Black Eyed Peas ,"['dance pop', 'pop', 'pop rap']"
+2020-01-04,87.0,Watermelon Sugar,Harry Styles,['pop']
+2020-01-04,88.0,Homesick,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']"
+2020-01-04,89.0,Slow Dancing In The Dark,Joji,['viral pop']
+2020-01-04,90.0,Easy,DaniLeigh ,"['pop r&b', 'r&b', 'rap latina']"
+2020-01-04,91.0,Vete,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']"
+2020-01-04,92.0,Baby Sitter,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']"
+2020-01-04,93.0,Nice To Meet Ya,Niall Horan,['pop']
+2020-01-04,94.0,Yellow Hearts,Ant Saunders,['chill r&b']
+2020-01-04,95.0,Tip Toe,Roddy Ricch ,"['melodic rap', 'rap', 'trap']"
+2020-01-04,96.0,Candy,Doja Cat,"['dance pop', 'pop']"
+2020-01-04,97.0,BEST ON EARTH,Russ ,"['hawaiian hip hop', 'pop rap']"
+2020-01-04,98.0,Tusa,Karol G ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']"
+2020-01-04,99.0,Enemies,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+2020-01-04,100.0,South Of The Border,Ed Sheeran ,[]
