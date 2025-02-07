@@ -1,97 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2016-12-10,1.0,Black Beatles,Rae Sremmurd ,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2016-12-10,2.0,Closer,The Chainsmokers ,['pop'],Pop
-2016-12-10,3.0,Starboy,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-12-10,4.0,24K Magic,Bruno Mars,"['dance pop', 'pop']",Pop
-2016-12-10,5.0,Juju On That Beat (TZ Anthem),Zay Hilfigerrr ,['viral trap'],Hip Hop
-2016-12-10,6.0,Side To Side,Ariana Grande ,['pop'],Pop
-2016-12-10,7.0,Heathens,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2016-12-10,8.0,Let Me Love You,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
-2016-12-10,10.0,Don't Wanna Know,Maroon 5 ,['pop'],Pop
-2016-12-10,11.0,Fake Love,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-12-10,12.0,Caroline,Amine,"['pop rap', 'portland hip hop', 'rap', 'underground hip hop']",Pop
-2016-12-10,13.0,Starving,Hailee Steinfeld ,['pop'],Pop
-2016-12-10,14.0,I Hate U I Love U,gnash ,"['alt z', 'pop']",Pop
-2016-12-10,15.0,Scars To Your Beautiful,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-12-10,16.0,Cold Water,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
-2016-12-10,17.0,Treat You Better,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2016-12-10,18.0,The Greatest,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
-2016-12-10,19.0,Can't Stop The Feeling!,Justin Timberlake,"['dance pop', 'pop']",Pop
-2016-12-10,20.0,Unsteady,,[],기타
-2016-12-10,21.0,Cheap Thrills,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
-2016-12-10,22.0,OOOUUU,Young M.A,"['alternative r&b', 'lgbtq+ hip hop', 'nyc rap', 'rap', 'trap']",R&B
-2016-12-10,23.0,Don't Let Me Down,The Chainsmokers ,['pop'],Pop
-2016-12-10,24.0,In The Name Of Love,Martin Garri,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Electronic/Dance
-2016-12-10,25.0,Blue Ain't Your Color,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,26.0,This Is What You Came For,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2016-12-10,27.0,Do You Mind,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2016-12-10,29.0,This Town,Niall Horan,['pop'],Pop
-2016-12-10,30.0,Chill Bill,Rob $tone ,"['san diego rap', 'viral trap']",Hip Hop
-2016-12-10,31.0,Ride,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2016-12-10,32.0,All Time Low,Jon Bellion,['indie pop rap'],Pop
-2016-12-10,33.0,May We All,Florida Georgia Line ,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2016-12-10,34.0,Love On The Brain,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2016-12-10,35.0,Mercy,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2016-12-10,36.0,X,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2016-12-10,37.0,One Dance,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-12-10,38.0,Needed Me,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2016-12-10,39.0,Party Monster,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-12-10,40.0,Used To This,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-12-10,41.0,Gold,Kiiara,"['alt z', 'electropop']",Pop
-2016-12-10,42.0,Sucker For Pain,"Lil Wayne, Wiz Khalifa ","['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Hip Hop
-2016-12-10,43.0,Love Me Now,John Legend,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",Pop
-2016-12-10,44.0,Panda,Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",Pop
-2016-12-10,45.0,Tiimmy Turner,Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",Pop
-2016-12-10,46.0,Luv,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
-2016-12-10,47.0,Sleep Without You,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,48.0,I Feel It Coming,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-12-10,50.0,Sneakin',Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-12-10,51.0,Bounce Back,Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-12-10,52.0,You Was Right,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2016-12-10,53.0,Love On The Weekend,John Mayer,"['neo mellow', 'singer-songwriter']",기타
-2016-12-10,54.0,Bad And Boujee,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2016-12-10,56.0,Come And See Me,PARTYNE,"['r&b', 'rap', 'urban contemporary']",R&B
-2016-12-10,57.0,Wanna Be That Song,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,58.0,Middle Of A Memory,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,59.0,Fresh Eyes,Andy Grammer,"['neo mellow', 'post-teen pop', 'viral pop']",Pop
-2016-12-10,60.0,Song For Another Time,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,61.0,No Heart,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2016-12-10,62.0,Too Much Sauce,DJ ESCO ,"['atl hip hop', 'trap']",Hip Hop
-2016-12-10,63.0,HandClap,Fitz And The Tantrums,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'pov: indie']",Rock
-2016-12-10,64.0,A Little More Summertime,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,65.0,Hallelujah,Pentatoni,"['a cappella', 'viral pop']",Pop
-2016-12-10,66.0,All We Know,The Chainsmokers ,['pop'],Pop
-2016-12-10,67.0,Setting The World On Fire,Kenny Chesney ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,68.0,Say You Won't Let Go,James Arthur,"['pop', 'talent show', 'uk pop']",Pop
-2016-12-10,69.0,Better Man,Little Big Town,"['contemporary country', 'country', 'country dawn', 'country road']",Country
-2016-12-10,70.0,Dirty Laundry,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
-2016-12-10,71.0,Fade,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
-2016-12-10,72.0,Look Alive,Rae Sremmurd,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2016-12-10,73.0,That's My Girl,Fifth Harmony,"['girl group', 'pop', 'talent show']",Pop
-2016-12-10,74.0,My Way,Calvin Harris,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2016-12-10,75.0,Redbone,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2016-12-10,76.0,Ain't My Fault,Zara Larsson,"['pop', 'scandipop', 'swedish electropop', 'swedish pop']",Pop
-2016-12-10,77.0,Chantaje,Shakira ,"['colombian pop', 'dance pop', 'latin pop', 'pop']",Pop
-2016-12-10,78.0,Move,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,79.0,That's What I Like,Bruno Mars,"['dance pop', 'pop']",Pop
-2016-12-10,80.0,Water Under The Bridge,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
-2016-12-10,81.0,Selfish,PnB Rock,"['melodic rap', 'rap', 'trap']",Hip Hop
-2016-12-10,82.0,Star Of The Show,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,83.0,What They Want,Russ,"['hawaiian hip hop', 'pop rap']",Hip Hop
-2016-12-10,84.0,Capsize,Frenship ,"['electropop', 'indie poptimism', 'la pop']",Pop
-2016-12-10,85.0,Key To The Streets,YFN Lucci ,"['arkansas hip hop', 'atl hip hop', 'melodic rap', 'southern hip hop', 'trap']",Hip Hop
-2016-12-10,86.0,Slumber Party,Britney Spears ,"['dance pop', 'pop']",Pop
-2016-12-10,87.0,How I'll Always Be,Tim McGraw,"['contemporary country', 'country', 'country road']",Country
-2016-12-10,88.0,Vice,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']",Country
-2016-12-10,89.0,Litty,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-12-10,90.0,PPAP (Pen-Pineapple-Apple-Pen),PIKOTARO,[],기타
-2016-12-10,91.0,Play That Song,Train,"['dance pop', 'neo mellow', 'pop', 'pop rock']",Pop
-2016-12-10,92.0,A Guy With A Girl,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-12-10,93.0,My Sh*t,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
-2016-12-10,94.0,Kill A Word,Eric Church ,"['contemporary country', 'country', 'country road']",Country
-2016-12-10,95.0,Sex With Me,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2016-12-10,96.0,Greenlight,Pitbull ,"['dance pop', 'miami hip hop', 'pop']",Pop
-2016-12-10,97.0,Infinite,Eminem,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
-2016-12-10,98.0,Versace On The Floor,Bruno Mars,"['dance pop', 'pop']",Pop
-2016-12-10,99.0,Parachute,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
-2016-12-10,100.0,80s Mercedes,Maren Morris,"['classic texas country', 'contemporary country']",Country
+date,rank,song_title,artist,genres
+2016-12-10,1.0,Black Beatles,Rae Sremmurd ,['Hip Hop']
+2016-12-10,2.0,Closer,The Chainsmokers ,['Pop']
+2016-12-10,3.0,Starboy,The Weeknd ,['Pop']
+2016-12-10,4.0,24K Magic,Bruno Mars,['Pop']
+2016-12-10,5.0,Juju On That Beat (TZ Anthem),Zay Hilfigerrr ,
+2016-12-10,6.0,Side To Side,Ariana Grande ,['Pop']
+2016-12-10,7.0,Heathens,twenty one pilots,"['Rock', 'Pop']"
+2016-12-10,8.0,Let Me Love You,DJ Snake ,"['Electronic/Dance', 'Pop']"
+,,Broccoli,D.R.A.M. ,
+2016-12-10,10.0,Don't Wanna Know,Maroon 5 ,['Pop']
+2016-12-10,11.0,Fake Love,Drake,['Hip Hop']
+2016-12-10,12.0,Caroline,Amine,['Hip Hop']
+2016-12-10,13.0,Starving,Hailee Steinfeld ,['Pop']
+2016-12-10,14.0,I Hate U I Love U,gnash ,['Pop']
+2016-12-10,15.0,Scars To Your Beautiful,Alessia Cara,['Pop']
+2016-12-10,16.0,Cold Water,Major Lazer ,"['Electronic/Dance', 'Pop']"
+2016-12-10,17.0,Treat You Better,Shawn Mendes,['Pop']
+2016-12-10,18.0,The Greatest,Sia ,['Pop']
+2016-12-10,19.0,Can't Stop The Feeling!,Justin Timberlake,['Pop']
+2016-12-10,20.0,Unsteady,,
+2016-12-10,21.0,Cheap Thrills,Sia ,['Pop']
+2016-12-10,22.0,OOOUUU,Young M.A,['Hip Hop']
+2016-12-10,23.0,Don't Let Me Down,The Chainsmokers ,['Pop']
+2016-12-10,24.0,In The Name Of Love,Martin Garri,"['Electronic/Dance', 'Pop']"
+2016-12-10,25.0,Blue Ain't Your Color,Keith Urban,['Country']
+2016-12-10,26.0,This Is What You Came For,Calvin Harris ,"['Electronic/Dance', 'Pop']"
+2016-12-10,27.0,Do You Mind,DJ Khaled ,['Hip Hop']
+,,Bad Things,Machine Gun Kelly ,
+2016-12-10,29.0,This Town,Niall Horan,['Pop']
+2016-12-10,30.0,Chill Bill,Rob $tone ,
+2016-12-10,31.0,Ride,twenty one pilots,"['Rock', 'Pop']"
+2016-12-10,32.0,All Time Low,Jon Bellion,
+2016-12-10,33.0,May We All,Florida Georgia Line ,['Country']
+2016-12-10,34.0,Love On The Brain,Rihanna,['Pop']
+2016-12-10,35.0,Mercy,Shawn Mendes,['Pop']
+2016-12-10,36.0,X,21 Savage ,['Hip Hop']
+2016-12-10,37.0,One Dance,Drake ,['Hip Hop']
+2016-12-10,38.0,Needed Me,Rihanna,['Pop']
+2016-12-10,39.0,Party Monster,The Weeknd,['Pop']
+2016-12-10,40.0,Used To This,Future ,['Hip Hop']
+2016-12-10,41.0,Gold,Kiiara,
+2016-12-10,42.0,Sucker For Pain,"Lil Wayne, Wiz Khalifa ",['Hip Hop']
+2016-12-10,43.0,Love Me Now,John Legend,['Pop']
+2016-12-10,44.0,Panda,Desiigner,['Hip Hop']
+2016-12-10,45.0,Tiimmy Turner,Desiigner,['Hip Hop']
+2016-12-10,46.0,Luv,Tory Lanez,"['R&B', 'Hip Hop']"
+2016-12-10,47.0,Sleep Without You,Brett Young,['Country']
+2016-12-10,48.0,I Feel It Coming,The Weeknd ,['Pop']
+,,Pick Up The Phone,Young Thug And Travis Scott ,
+2016-12-10,50.0,Sneakin',Drake ,['Hip Hop']
+2016-12-10,51.0,Bounce Back,Big Sean,"['R&B', 'Hip Hop']"
+2016-12-10,52.0,You Was Right,Lil Uzi Vert,['Hip Hop']
+2016-12-10,53.0,Love On The Weekend,John Mayer,
+2016-12-10,54.0,Bad And Boujee,Migos ,['Hip Hop']
+,,1 Night,Lil Yachty,
+2016-12-10,56.0,Come And See Me,PARTYNE,"['R&B', 'Hip Hop']"
+2016-12-10,57.0,Wanna Be That Song,Brett Eldredge,['Country']
+2016-12-10,58.0,Middle Of A Memory,Cole Swindell,['Country']
+2016-12-10,59.0,Fresh Eyes,Andy Grammer,
+2016-12-10,60.0,Song For Another Time,Old Dominion,['Country']
+2016-12-10,61.0,No Heart,21 Savage ,['Hip Hop']
+2016-12-10,62.0,Too Much Sauce,DJ ESCO ,
+2016-12-10,63.0,HandClap,Fitz And The Tantrums,
+2016-12-10,64.0,A Little More Summertime,Jason Aldean,['Country']
+2016-12-10,65.0,Hallelujah,Pentatoni,
+2016-12-10,66.0,All We Know,The Chainsmokers ,['Pop']
+2016-12-10,67.0,Setting The World On Fire,Kenny Chesney ,['Country']
+2016-12-10,68.0,Say You Won't Let Go,James Arthur,['Pop']
+2016-12-10,69.0,Better Man,Little Big Town,['Country']
+2016-12-10,70.0,Dirty Laundry,Carrie Underwood,"['Pop', 'Country']"
+2016-12-10,71.0,Fade,Kanye West,['Hip Hop']
+2016-12-10,72.0,Look Alive,Rae Sremmurd,['Hip Hop']
+2016-12-10,73.0,That's My Girl,Fifth Harmony,['Pop']
+2016-12-10,74.0,My Way,Calvin Harris,"['Electronic/Dance', 'Pop']"
+2016-12-10,75.0,Redbone,Childish Gambino,['Hip Hop']
+2016-12-10,76.0,Ain't My Fault,Zara Larsson,['Pop']
+2016-12-10,77.0,Chantaje,Shakira ,['Pop']
+2016-12-10,78.0,Move,Luke Bryan,['Country']
+2016-12-10,79.0,That's What I Like,Bruno Mars,['Pop']
+2016-12-10,80.0,Water Under The Bridge,Adele,['Pop']
+2016-12-10,81.0,Selfish,PnB Rock,['Hip Hop']
+2016-12-10,82.0,Star Of The Show,Thomas Rhett,['Country']
+2016-12-10,83.0,What They Want,Russ,
+2016-12-10,84.0,Capsize,Frenship ,
+2016-12-10,85.0,Key To The Streets,YFN Lucci ,
+2016-12-10,86.0,Slumber Party,Britney Spears ,['Pop']
+2016-12-10,87.0,How I'll Always Be,Tim McGraw,['Country']
+2016-12-10,88.0,Vice,Miranda Lambert,['Country']
+2016-12-10,89.0,Litty,Meek Mill ,['Hip Hop']
+2016-12-10,90.0,PPAP (Pen-Pineapple-Apple-Pen),PIKOTARO,
+2016-12-10,91.0,Play That Song,Train,['Pop']
+2016-12-10,92.0,A Guy With A Girl,Blake Shelton,['Country']
+2016-12-10,93.0,My Sh*t,A Boogie Wit da Hoodie,['Hip Hop']
+2016-12-10,94.0,Kill A Word,Eric Church ,['Country']
+2016-12-10,95.0,Sex With Me,Rihanna,['Pop']
+2016-12-10,96.0,Greenlight,Pitbull ,['Pop']
+2016-12-10,97.0,Infinite,Eminem,['Hip Hop']
+2016-12-10,98.0,Versace On The Floor,Bruno Mars,['Pop']
+2016-12-10,99.0,Parachute,Chris Stapleton,
+2016-12-10,100.0,80s Mercedes,Maren Morris,

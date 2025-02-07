@@ -1,99 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2018-01-06,1.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2018-01-06,2.0,Rockstar,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-01-06,3.0,Havana,Camila Cabello ,"['dance pop', 'pop']",Pop
-2018-01-06,4.0,No Limit,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
-2018-01-06,5.0,Thunder,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
-2018-01-06,6.0,Gucci Gang,Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-01-06,7.0,MotorSport,"Migos, Nicki Minaj ","['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-01-06,8.0,Too Good At Goodbyes,Sam Smith,"['pop', 'uk pop']",Pop
-2018-01-06,9.0,Bad At Love,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2018-01-06,11.0,Love.,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
-2018-01-06,12.0,New Rules,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
-2018-01-06,13.0,All I Want For Christmas Is You,Mariah Carey,"['dance pop', 'pop', 'urban contemporary']",Pop
-2018-01-06,14.0,Bartier Cardi,Cardi B ,"['pop', 'rap']",Pop
-2018-01-06,15.0,Gummo,6i,['emo rap'],Hip Hop
-2018-01-06,16.0,I Fall Apart,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-01-06,17.0,Let You Down,NF,"['hip hop', 'pop rap']",Hip Hop
-2018-01-06,18.0,Young Dumb & Broke,Khalid,"['pop', 'pop r&b']",Pop
-2018-01-06,19.0,Shape Of You,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2018-01-06,20.0,Sorry Not Sorry,Demi Lovato,"['pop', 'post-teen pop']",Pop
-2018-01-06,21.0,What Lovers Do,Maroon 5 ,['pop'],Pop
-2018-01-06,22.0,I Get The Bag,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-01-06,23.0,Feel It Still,Portugal. The Man,"['indie rock', 'indietronica', 'modern alternative rock', 'modern rock']",Rock
-2018-01-06,24.0,Him & I,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
-2018-01-06,25.0,Believer,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
-2018-01-06,26.0,Meant To Be,Bebe Re,"['dance pop', 'pop']",Pop
-2018-01-06,27.0,How Long,Charlie Puth,"['pop', 'viral pop']",Pop
-2018-01-06,28.0,Bank Account,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2018-01-06,29.0,Wolves,Selena Gomez ,"['pop', 'post-teen pop']",Pop
-2018-01-06,30.0,Despacito,Luis Fonsi ,"['latin pop', 'puerto rican pop']",Pop
-2018-01-06,31.0,Plain Jane,A$AP Ferg ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-01-06,32.0,Mi Gente,J Balvin ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
-2018-01-06,33.0,The Weekend,SZA,"['pop', 'r&b', 'rap']",Pop
-2018-01-06,34.0,1-800-273-8255,Logic ,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-01-06,35.0,The Way Life Goes,Lil Uzi Vert ,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2018-01-06,36.0,Rockin' Around The Christmas Tree,Brenda Lee,"['adult standards', 'lounge', 'rockabilly']",Rock
-2018-01-06,37.0,That's What I Like,Bruno Mars,"['dance pop', 'pop']",Pop
-2018-01-06,38.0,It's The Most Wonderful Time Of The Year,Andy Williams,"['adult standards', 'easy listening']",기타
-2018-01-06,39.0,Attention,Charlie Puth,"['pop', 'viral pop']",Pop
-2018-01-06,40.0,End Game,Taylor Swift ,['pop'],Pop
-2018-01-06,41.0,Sky Walker,Miguel ,"['r&b', 'urban contemporary']",R&B
-2018-01-06,42.0,The Christmas Song (Merry Christmas To You),Nat King Cole,"['adult standards', 'lounge', 'soul', 'swing', 'vocal jazz']",Jazz
-2018-01-06,43.0,River,Eminem ,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
-2018-01-06,44.0,Silence,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2018-01-06,45.0,Marry Me,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,46.0,A Holly Jolly Christmas,Burl Ives,['american folk revival'],기타
-2018-01-06,47.0,Unforgettable,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-01-06,48.0,What About Us,P!nk,"['dance pop', 'pop']",Pop
-2018-01-06,49.0,Lemon,N*E*R*D ,"['hip hop', 'virginia hip hop']",Hip Hop
-2018-01-06,50.0,Candy Paint,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-01-06,51.0,Roll In Peace,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
-2018-01-06,52.0,La Modelo,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2018-01-06,53.0,Ric Flair Drip,Offset ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-01-06,54.0,Lights Down Low,MA,"['singer-songwriter pop', 'teen pop', 'viral pop']",Pop
-2018-01-06,55.0,Let Me Go,Hailee Steinfeld ,['pop'],Pop
-2018-01-06,56.0,Like I Loved You,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,57.0,Pills And Automobiles,Chris Brown ,"['r&b', 'rap']",R&B
-2018-01-06,58.0,Greatest Love Story,LANCO,"['contemporary country', 'country road', 'modern country rock']",Country
-2018-01-06,59.0,Rubbin Off The Paint,YBN Nahmir,"['alabama rap', 'rap', 'trap']",Hip Hop
-2018-01-06,60.0,Good Old Days,Macklemore ,"['pop rap', 'seattle hip hop']",Pop
-2018-01-06,61.0,...Ready For It?,Taylor Swift,['pop'],Pop
-2018-01-06,62.0,Yours,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,63.0,I'll Name The Dogs,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,64.0,The Race,Tay-K,"['cali rap', 'dfw rap', 'rap', 'trap']",Hip Hop
-2018-01-06,65.0,Eye 2 Eye,Huncho Jack ,"['melodic rap', 'trap']",Hip Hop
-2018-01-06,66.0,Look What You Made Me Do,Taylor Swift,['pop'],Pop
-2018-01-06,67.0,Kooda,6i,['emo rap'],Hip Hop
-2018-01-06,68.0,Modern Slavery,Huncho Jack,"['melodic rap', 'trap']",Hip Hop
-2018-01-06,69.0,Thunder/Young Dumb & Broke (Medley),Imagine Dragons + Khalid,"['modern rock', 'pop', 'rock']",Rock
-2018-01-06,70.0,Codeine Dreaming,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
-2018-01-06,71.0,Black & Chinese,Huncho Jack,"['melodic rap', 'trap']",Hip Hop
-2018-01-06,72.0,Round Here Buzz,Eric Church,"['contemporary country', 'country', 'country road']",Country
-2018-01-06,73.0,Light It Up,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,74.0,Echame La Culpa,Luis Fonsi ,"['latin pop', 'puerto rican pop']",Pop
-2018-01-06,75.0,Betrayed,Lil ,['cloud rap'],Hip Hop
-2018-01-06,76.0,Losing Sleep,Chris Young,"['contemporary country', 'country', 'country road']",Country
-2018-01-06,77.0,No Smoke,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
-2018-01-06,78.0,Tell Me You Love Me,Demi Lovato,"['pop', 'post-teen pop']",Pop
-2018-01-06,79.0,You Broke Up With Me,Walker Hayes,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,80.0,Ice Tray,Quavo ,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
-2018-01-06,81.0,I Could Use A Love Song,Maren Morris,"['classic texas country', 'contemporary country']",Country
-2018-01-06,82.0,MIC Drop,BTS ,"['k-pop', 'k-pop boy group', 'pop']",Pop
-2018-01-06,83.0,Dubai Shit,Huncho Jack ,"['melodic rap', 'trap']",Hip Hop
-2018-01-06,84.0,My Dawg,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-01-06,85.0,Pick It Up,Famous De,"['chicago rap', 'drill', 'rap', 'trap']",Hip Hop
-2018-01-06,86.0,Written In The Sand,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,87.0,Huncho Jack,Huncho Jack,"['melodic rap', 'trap']",Hip Hop
-2018-01-06,88.0,Krippy Kush,"Farruko, Nicki Minaj, Bad Bunny, 21 Savage ","['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2018-01-06,89.0,Five More Minutes,Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-01-06,90.0,Motorcycle Patches,Huncho Jack,"['melodic rap', 'trap']",Hip Hop
-2018-01-06,91.0,Mayores,Becky G ,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2018-01-06,92.0,Saint,Huncho Jack,"['melodic rap', 'trap']",Hip Hop
-2018-01-06,93.0,Walk On Water,Eminem ,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
-2018-01-06,94.0,Stir Fry,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-01-06,96.0,F**k Love,,[],기타
-2018-01-06,97.0,Legends,Kelsea Ballerini,"['contemporary country', 'country']",Country
-2018-01-06,98.0,Too Much To Ask,Niall Horan,['pop'],Pop
-2018-01-06,99.0,Dusk Till Dawn,Zayn ,"['pop', 'uk pop']",Pop
-2018-01-06,100.0,Juice,Yo Gotti,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
+date,rank,song_title,artist,genres
+2018-01-06,1.0,Perfect,Ed Sheeran,['Pop']
+2018-01-06,2.0,Rockstar,Post Malone ,"['Pop', 'Hip Hop']"
+2018-01-06,3.0,Havana,Camila Cabello ,['Pop']
+2018-01-06,4.0,No Limit,G-Eazy ,['Hip Hop']
+2018-01-06,5.0,Thunder,Imagine Dragons,"['Rock', 'Pop']"
+2018-01-06,6.0,Gucci Gang,Lil Pump,['Hip Hop']
+2018-01-06,7.0,MotorSport,"Migos, Nicki Minaj ",['Hip Hop']
+2018-01-06,8.0,Too Good At Goodbyes,Sam Smith,['Pop']
+2018-01-06,9.0,Bad At Love,Halsey,['Pop']
+,,Bodak Yellow (Money Moves),Cardi B,
+2018-01-06,11.0,Love.,Kendrick Lamar ,['Hip Hop']
+2018-01-06,12.0,New Rules,Dua Lipa,['Pop']
+2018-01-06,13.0,All I Want For Christmas Is You,Mariah Carey,['Pop']
+2018-01-06,14.0,Bartier Cardi,Cardi B ,"['Pop', 'Hip Hop']"
+2018-01-06,15.0,Gummo,6i,
+2018-01-06,16.0,I Fall Apart,Post Malone,"['Pop', 'Hip Hop']"
+2018-01-06,17.0,Let You Down,NF,['Hip Hop']
+2018-01-06,18.0,Young Dumb & Broke,Khalid,['Pop']
+2018-01-06,19.0,Shape Of You,Ed Sheeran,['Pop']
+2018-01-06,20.0,Sorry Not Sorry,Demi Lovato,['Pop']
+2018-01-06,21.0,What Lovers Do,Maroon 5 ,['Pop']
+2018-01-06,22.0,I Get The Bag,Gucci Mane ,['Hip Hop']
+2018-01-06,23.0,Feel It Still,Portugal. The Man,
+2018-01-06,24.0,Him & I,G-Eazy ,['Hip Hop']
+2018-01-06,25.0,Believer,Imagine Dragons,"['Rock', 'Pop']"
+2018-01-06,26.0,Meant To Be,Bebe Re,['Pop']
+2018-01-06,27.0,How Long,Charlie Puth,['Pop']
+2018-01-06,28.0,Bank Account,21 Savage,['Hip Hop']
+2018-01-06,29.0,Wolves,Selena Gomez ,['Pop']
+2018-01-06,30.0,Despacito,Luis Fonsi ,
+2018-01-06,31.0,Plain Jane,A$AP Ferg ,['Hip Hop']
+2018-01-06,32.0,Mi Gente,J Balvin ,
+2018-01-06,33.0,The Weekend,SZA,"['Pop', 'R&B', 'Hip Hop']"
+2018-01-06,34.0,1-800-273-8255,Logic ,['Hip Hop']
+2018-01-06,35.0,The Way Life Goes,Lil Uzi Vert ,['Hip Hop']
+2018-01-06,36.0,Rockin' Around The Christmas Tree,Brenda Lee,
+2018-01-06,37.0,That's What I Like,Bruno Mars,['Pop']
+2018-01-06,38.0,It's The Most Wonderful Time Of The Year,Andy Williams,
+2018-01-06,39.0,Attention,Charlie Puth,['Pop']
+2018-01-06,40.0,End Game,Taylor Swift ,['Pop']
+2018-01-06,41.0,Sky Walker,Miguel ,['R&B']
+2018-01-06,42.0,The Christmas Song (Merry Christmas To You),Nat King Cole,
+2018-01-06,43.0,River,Eminem ,['Hip Hop']
+2018-01-06,44.0,Silence,Marshmello ,"['Electronic/Dance', 'Pop']"
+2018-01-06,45.0,Marry Me,Thomas Rhett,['Country']
+2018-01-06,46.0,A Holly Jolly Christmas,Burl Ives,
+2018-01-06,47.0,Unforgettable,French Montana ,['Hip Hop']
+2018-01-06,48.0,What About Us,P!nk,['Pop']
+2018-01-06,49.0,Lemon,N*E*R*D ,['Hip Hop']
+2018-01-06,50.0,Candy Paint,Post Malone,"['Pop', 'Hip Hop']"
+2018-01-06,51.0,Roll In Peace,Kodak Black ,['Hip Hop']
+2018-01-06,52.0,La Modelo,Ozuna ,
+2018-01-06,53.0,Ric Flair Drip,Offset ,['Hip Hop']
+2018-01-06,54.0,Lights Down Low,MA,
+2018-01-06,55.0,Let Me Go,Hailee Steinfeld ,['Pop']
+2018-01-06,56.0,Like I Loved You,Brett Young,['Country']
+2018-01-06,57.0,Pills And Automobiles,Chris Brown ,"['R&B', 'Hip Hop']"
+2018-01-06,58.0,Greatest Love Story,LANCO,
+2018-01-06,59.0,Rubbin Off The Paint,YBN Nahmir,['Hip Hop']
+2018-01-06,60.0,Good Old Days,Macklemore ,
+2018-01-06,61.0,...Ready For It?,Taylor Swift,['Pop']
+2018-01-06,62.0,Yours,Russell Dickerson,['Country']
+2018-01-06,63.0,I'll Name The Dogs,Blake Shelton,['Country']
+2018-01-06,64.0,The Race,Tay-K,['Hip Hop']
+2018-01-06,65.0,Eye 2 Eye,Huncho Jack ,
+2018-01-06,66.0,Look What You Made Me Do,Taylor Swift,['Pop']
+2018-01-06,67.0,Kooda,6i,
+2018-01-06,68.0,Modern Slavery,Huncho Jack,
+2018-01-06,69.0,Thunder/Young Dumb & Broke (Medley),Imagine Dragons + Khalid,"['Rock', 'Pop']"
+2018-01-06,70.0,Codeine Dreaming,Kodak Black ,['Hip Hop']
+2018-01-06,71.0,Black & Chinese,Huncho Jack,
+2018-01-06,72.0,Round Here Buzz,Eric Church,['Country']
+2018-01-06,73.0,Light It Up,Luke Bryan,['Country']
+2018-01-06,74.0,Echame La Culpa,Luis Fonsi ,
+2018-01-06,75.0,Betrayed,Lil ,
+2018-01-06,76.0,Losing Sleep,Chris Young,['Country']
+2018-01-06,77.0,No Smoke,YoungBoy Never Broke Again,['Hip Hop']
+2018-01-06,78.0,Tell Me You Love Me,Demi Lovato,['Pop']
+2018-01-06,79.0,You Broke Up With Me,Walker Hayes,['Country']
+2018-01-06,80.0,Ice Tray,Quavo ,['Hip Hop']
+2018-01-06,81.0,I Could Use A Love Song,Maren Morris,
+2018-01-06,82.0,MIC Drop,BTS ,['Pop']
+2018-01-06,83.0,Dubai Shit,Huncho Jack ,
+2018-01-06,84.0,My Dawg,Lil Baby,['Hip Hop']
+2018-01-06,85.0,Pick It Up,Famous De,['Hip Hop']
+2018-01-06,86.0,Written In The Sand,Old Dominion,['Country']
+2018-01-06,87.0,Huncho Jack,Huncho Jack,
+2018-01-06,88.0,Krippy Kush,"Farruko, Nicki Minaj, Bad Bunny, 21 Savage ",
+2018-01-06,89.0,Five More Minutes,Scotty McCreery,['Country']
+2018-01-06,90.0,Motorcycle Patches,Huncho Jack,
+2018-01-06,91.0,Mayores,Becky G ,
+2018-01-06,92.0,Saint,Huncho Jack,
+2018-01-06,93.0,Walk On Water,Eminem ,['Hip Hop']
+2018-01-06,94.0,Stir Fry,Migos,['Hip Hop']
+,,Home,"Machine Gun Kelly, ",
+2018-01-06,96.0,F**k Love,,
+2018-01-06,97.0,Legends,Kelsea Ballerini,['Country']
+2018-01-06,98.0,Too Much To Ask,Niall Horan,['Pop']
+2018-01-06,99.0,Dusk Till Dawn,Zayn ,['Pop']
+2018-01-06,100.0,Juice,Yo Gotti,['Hip Hop']

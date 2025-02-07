@@ -1,100 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2019-09-14,1.0,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
-2019-09-14,2.0,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
-2019-09-14,3.0,Bad Guy,Billie Eilish,"['art pop', 'pop']",Pop
-2019-09-14,4.0,Ran$om,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2019-09-14,5.0,Old Town Road,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
-2019-09-14,6.0,No Guidance,Chris Brown ,"['r&b', 'rap']",R&B
-2019-09-14,7.0,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-14,8.0,I Don't Care,Ed Sheeran ,[],기타
-2019-09-14,9.0,Talk,Khalid,"['pop', 'pop r&b']",Pop
-2019-09-14,10.0,Goodbyes,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-14,11.0,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']",Pop
-2019-09-14,12.0,You Need To Calm Down,Taylor Swift,['pop'],Pop
-2019-09-14,13.0,Sucker,Jonas Brothers,"['boy band', 'pop']",Pop
-2019-09-14,14.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-14,15.0,Money In The Grave,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2019-09-14,16.0,If I Can't Have You,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2019-09-14,17.0,Beautiful People,Ed Sheeran ,[],기타
-2019-09-14,18.0,Suge,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2019-09-14,19.0,Boyfriend,Ariana Grande ,['pop'],Pop
-2019-09-14,20.0,The Git Up,Blanco Brown,"['black americana', 'country rap']",Hip Hop
-2019-09-14,21.0,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj ","['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
-2019-09-14,22.0,My Type,Saweetie,"['cali rap', 'trap queen']",Hip Hop
-2019-09-14,23.0,Lover,Taylor Swift,['pop'],Pop
-2019-09-14,24.0,The London,"Young Thug, J. Cole ","['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2019-09-14,25.0,Dancing With A Stranger,Sam Smith ,"['pop', 'uk pop']",Pop
-2019-09-14,26.0,Baby,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2019-09-14,27.0,Wow.,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-14,28.0,Pop Out,Polo G ,"['chicago rap', 'rap']",Hip Hop
-2019-09-14,29.0,Panini,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
-2019-09-14,30.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2019-09-14,31.0,Knockin' Boots,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,32.0,How Do You Sleep?,Sam Smith,"['pop', 'uk pop']",Pop
-2019-09-14,33.0,Beer Never Broke My Heart,Luke Combs,"['contemporary country', 'country']",Country
-2019-09-14,34.0,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2019-09-14,35.0,Only Human,Jonas Brothers,"['boy band', 'pop']",Pop
-2019-09-14,36.0,Cash Shit,Megan Thee Stallion ,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
-2019-09-14,37.0,Trampoline,SHAED,['electropop'],Pop
-2019-09-14,38.0,Hot,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2019-09-14,39.0,"Hey Look Ma, I Made It",Panic! At The Disco,"['modern rock', 'pop']",Rock
-2019-09-14,40.0,7 Rings,Ariana Grande,['pop'],Pop
-2019-09-14,41.0,Good As Hell,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
-2019-09-14,42.0,One Thing Right,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2019-09-14,43.0,Whiskey Glasses,Morgan Wallen,['contemporary country'],Country
-2019-09-14,44.0,God's Country,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,45.0,On Chill,Wale ,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Pop
-2019-09-14,46.0,Shotta Flow,NLE Choppa,"['memphis hip hop', 'rap']",Hip Hop
-2019-09-14,47.0,All To Myself,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2019-09-14,48.0,The Ones That Didn't Make It Back Home,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']",Country
-2019-09-14,49.0,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna ","['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",Reggae
-2019-09-14,50.0,I Don't Know About You,Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,51.0,Motivation,Normani,"['pop', 'r&b']",Pop
-2019-09-14,52.0,Bad Bad Bad,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2019-09-14,53.0,Otro Trago,"Sech, Darell, Nicky Jam, Ozuna ","['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2019-09-14,54.0,ME!,Taylor Swift ,['pop'],Pop
-2019-09-14,55.0,Lalala,Y2K ,"['pop rap', 'viral rap']",Pop
-2019-09-14,56.0,Rearview Town,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,57.0,Living,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,58.0,Queen Of Mean,Sarah Jeffery,['movie tunes'],기타
-2019-09-14,59.0,Doin' Time,Lana Del Rey,"['art pop', 'pop']",Pop
-2019-09-14,60.0,Time,NF,"['hip hop', 'pop rap']",Hip Hop
-2019-09-14,61.0,The Man,Taylor Swift,['pop'],Pop
-2019-09-14,62.0,Easier,5 Seconds Of Summer,"['boy band', 'pop']",Pop
-2019-09-14,63.0,Callaita,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2019-09-14,64.0,Did It Again,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2019-09-14,65.0,Prayed For You,Matt Stell,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']",Country
-2019-09-14,66.0,Southbound,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
-2019-09-14,67.0,Slide Away,Miley Cyrus,['pop'],Pop
-2019-09-14,68.0,F.N,Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",Hip Hop
-2019-09-14,69.0,Babushka Boi,A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap', 'trap']",Hip Hop
-2019-09-14,70.0,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-09-14,71.0,Cruel Summer,Taylor Swift,['pop'],Pop
-2019-09-14,72.0,Hate Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
-2019-09-14,73.0,Right Back,Khalid ,"['pop', 'pop r&b']",Pop
-2019-09-14,74.0,I Forgot That You Existed,Taylor Swift,['pop'],Pop
-2019-09-14,75.0,Love You Too Late,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,76.0,Call You Mine,The Chainsmokers ,['pop'],Pop
-2019-09-14,77.0,Heat,Chris Brown ,"['r&b', 'rap']",R&B
-2019-09-14,78.0,Press,Cardi B,"['pop', 'rap']",Pop
-2019-09-14,79.0,No Me Conoce,"Jhay Cortez, J Balvin ","['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2019-09-14,80.0,Out Of Luck,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2019-09-14,82.0,One Man Band,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,83.0,It's You,Ali Gatie,['canadian hip hop'],Hip Hop
-2019-09-14,84.0,Shots,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2019-09-14,85.0,Tip Of My Tongue,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,86.0,Juice,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
-2019-09-14,87.0,Go Loko,"YG, Tyga ","['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-09-14,88.0,Baby Sitter,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2019-09-14,89.0,Bezerk,Big Sean ,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-09-14,90.0,Good Vibes,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,91.0,What Happens In A Small Town,Brantley Gilbert + Lindsay Ell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,92.0,Buy My Own Drinks,Runaway June,"['contemporary country', 'country pop', 'country road']",Country
-2019-09-14,93.0,Higher Love,Kygo ,"['edm', 'pop', 'pop dance', 'tropical house']",Electronic/Dance
-2019-09-14,94.0,God Only Knows,for KING ,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'world worship']",Rock
-2019-09-14,95.0,Wish Wish,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2019-09-14,96.0,The Bones,Maren Morris,"['classic texas country', 'contemporary country']",Country
-2019-09-14,97.0,Love Me,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2019-09-14,98.0,La Cancion,J Balvin ,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",Reggae
-2019-09-14,99.0,We Were,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-14,100.0,Soltera,"Lunay, Daddy Yankee ","['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",Reggae
+date,rank,song_title,artist,genres
+2019-09-14,1.0,Truth Hurts,Lizzo,['Pop']
+2019-09-14,2.0,Senorita,Shawn Mendes ,['Pop']
+2019-09-14,3.0,Bad Guy,Billie Eilish,['Pop']
+2019-09-14,4.0,Ran$om,Lil Tecca,['Hip Hop']
+2019-09-14,5.0,Old Town Road,Lil Nas ,
+2019-09-14,6.0,No Guidance,Chris Brown ,"['R&B', 'Hip Hop']"
+2019-09-14,7.0,Circles,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-14,8.0,I Don't Care,Ed Sheeran ,
+2019-09-14,9.0,Talk,Khalid,['Pop']
+2019-09-14,10.0,Goodbyes,Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-14,11.0,Someone You Loved,Lewis Capaldi,['Pop']
+2019-09-14,12.0,You Need To Calm Down,Taylor Swift,['Pop']
+2019-09-14,13.0,Sucker,Jonas Brothers,['Pop']
+2019-09-14,14.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-14,15.0,Money In The Grave,Drake ,['Hip Hop']
+2019-09-14,16.0,If I Can't Have You,Shawn Mendes,['Pop']
+2019-09-14,17.0,Beautiful People,Ed Sheeran ,
+2019-09-14,18.0,Suge,DaBaby,['Hip Hop']
+2019-09-14,19.0,Boyfriend,Ariana Grande ,['Pop']
+2019-09-14,20.0,The Git Up,Blanco Brown,
+2019-09-14,21.0,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj ","['Pop', 'R&B', 'Hip Hop']"
+2019-09-14,22.0,My Type,Saweetie,
+2019-09-14,23.0,Lover,Taylor Swift,['Pop']
+2019-09-14,24.0,The London,"Young Thug, J. Cole ",['Hip Hop']
+2019-09-14,25.0,Dancing With A Stranger,Sam Smith ,['Pop']
+2019-09-14,26.0,Baby,Lil Baby ,['Hip Hop']
+2019-09-14,27.0,Wow.,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-14,28.0,Pop Out,Polo G ,['Hip Hop']
+2019-09-14,29.0,Panini,Lil Nas ,
+2019-09-14,30.0,Without Me,Halsey,['Pop']
+2019-09-14,31.0,Knockin' Boots,Luke Bryan,['Country']
+2019-09-14,32.0,How Do You Sleep?,Sam Smith,['Pop']
+2019-09-14,33.0,Beer Never Broke My Heart,Luke Combs,['Country']
+2019-09-14,34.0,Speechless,Dan + Shay,['Country']
+2019-09-14,35.0,Only Human,Jonas Brothers,['Pop']
+2019-09-14,36.0,Cash Shit,Megan Thee Stallion ,"['Pop', 'R&B', 'Hip Hop']"
+2019-09-14,37.0,Trampoline,SHAED,
+2019-09-14,38.0,Hot,Young Thug ,['Hip Hop']
+2019-09-14,39.0,"Hey Look Ma, I Made It",Panic! At The Disco,['Pop']
+2019-09-14,40.0,7 Rings,Ariana Grande,['Pop']
+2019-09-14,41.0,Good As Hell,Lizzo,['Pop']
+2019-09-14,42.0,One Thing Right,Marshmello ,"['Electronic/Dance', 'Pop']"
+2019-09-14,43.0,Whiskey Glasses,Morgan Wallen,
+2019-09-14,44.0,God's Country,Blake Shelton,['Country']
+2019-09-14,45.0,On Chill,Wale ,"['R&B', 'Hip Hop']"
+2019-09-14,46.0,Shotta Flow,NLE Choppa,['Hip Hop']
+2019-09-14,47.0,All To Myself,Dan + Shay,['Country']
+2019-09-14,48.0,The Ones That Didn't Make It Back Home,Justin Moore,['Country']
+2019-09-14,49.0,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna ",
+2019-09-14,50.0,I Don't Know About You,Chris Lane,['Country']
+2019-09-14,51.0,Motivation,Normani,"['Pop', 'R&B']"
+2019-09-14,52.0,Bad Bad Bad,Young Thug ,['Hip Hop']
+2019-09-14,53.0,Otro Trago,"Sech, Darell, Nicky Jam, Ozuna ",
+2019-09-14,54.0,ME!,Taylor Swift ,['Pop']
+2019-09-14,55.0,Lalala,Y2K ,
+2019-09-14,56.0,Rearview Town,Jason Aldean,['Country']
+2019-09-14,57.0,Living,Dierks Bentley,['Country']
+2019-09-14,58.0,Queen Of Mean,Sarah Jeffery,
+2019-09-14,59.0,Doin' Time,Lana Del Rey,['Pop']
+2019-09-14,60.0,Time,NF,['Hip Hop']
+2019-09-14,61.0,The Man,Taylor Swift,['Pop']
+2019-09-14,62.0,Easier,5 Seconds Of Summer,['Pop']
+2019-09-14,63.0,Callaita,Bad Bunny ,
+2019-09-14,64.0,Did It Again,Lil Tecca,['Hip Hop']
+2019-09-14,65.0,Prayed For You,Matt Stell,
+2019-09-14,66.0,Southbound,Carrie Underwood,"['Pop', 'Country']"
+2019-09-14,67.0,Slide Away,Miley Cyrus,['Pop']
+2019-09-14,68.0,F.N,Lil Tjay,['Hip Hop']
+2019-09-14,69.0,Babushka Boi,A$AP Rocky,['Hip Hop']
+2019-09-14,70.0,Ballin',Mustard ,['Hip Hop']
+2019-09-14,71.0,Cruel Summer,Taylor Swift,['Pop']
+2019-09-14,72.0,Hate Me,Ellie Goulding ,['Pop']
+2019-09-14,73.0,Right Back,Khalid ,['Pop']
+2019-09-14,74.0,I Forgot That You Existed,Taylor Swift,['Pop']
+2019-09-14,75.0,Love You Too Late,Cole Swindell,['Country']
+2019-09-14,76.0,Call You Mine,The Chainsmokers ,['Pop']
+2019-09-14,77.0,Heat,Chris Brown ,"['R&B', 'Hip Hop']"
+2019-09-14,78.0,Press,Cardi B,"['Pop', 'Hip Hop']"
+2019-09-14,79.0,No Me Conoce,"Jhay Cortez, J Balvin ",
+2019-09-14,80.0,Out Of Luck,Lil Tecca,['Hip Hop']
+,,Baguettes In The Face,"Mustard featuring NAV, Playboi Carti ",
+2019-09-14,82.0,One Man Band,Old Dominion,['Country']
+2019-09-14,83.0,It's You,Ali Gatie,
+2019-09-14,84.0,Shots,Lil Tecca,['Hip Hop']
+2019-09-14,85.0,Tip Of My Tongue,Kenny Chesney,['Country']
+2019-09-14,86.0,Juice,Lizzo,['Pop']
+2019-09-14,87.0,Go Loko,"YG, Tyga ",['Hip Hop']
+2019-09-14,88.0,Baby Sitter,DaBaby ,['Hip Hop']
+2019-09-14,89.0,Bezerk,Big Sean ,"['R&B', 'Hip Hop']"
+2019-09-14,90.0,Good Vibes,Chris Janson,['Country']
+2019-09-14,91.0,What Happens In A Small Town,Brantley Gilbert + Lindsay Ell,['Country']
+2019-09-14,92.0,Buy My Own Drinks,Runaway June,
+2019-09-14,93.0,Higher Love,Kygo ,"['Electronic/Dance', 'Pop']"
+2019-09-14,94.0,God Only Knows,for KING ,
+2019-09-14,95.0,Wish Wish,DJ Khaled ,['Hip Hop']
+2019-09-14,96.0,The Bones,Maren Morris,
+2019-09-14,97.0,Love Me,Lil Tecca,['Hip Hop']
+2019-09-14,98.0,La Cancion,J Balvin ,
+2019-09-14,99.0,We Were,Keith Urban,['Country']
+2019-09-14,100.0,Soltera,"Lunay, Daddy Yankee ",

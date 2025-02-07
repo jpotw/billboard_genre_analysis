@@ -1,101 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2019-09-28,1,Truth Hurts,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
-2019-09-28,2,Senorita,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
-2019-09-28,3,Bad Guy,Billie Eilish,"['art pop', 'pop']",Pop
-2019-09-28,4,Someone You Loved,Lewis Capaldi,"['pop', 'uk pop']",Pop
-2019-09-28,5,Panini,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
-2019-09-28,6,Ran$om,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2019-09-28,7,No Guidance,Chris Brown ,"['r&b', 'rap']",R&B
-2019-09-28,8,Goodbyes,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,9,Circles,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,10,Old Town Road,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
-2019-09-28,11,I Don't Care,Ed Sheeran ,[],기타
-2019-09-28,12,Talk,Khalid,"['pop', 'pop r&b']",Pop
-2019-09-28,13,Don't Call Me Angel (Charlie's Angels),"Ariana Grande, Miley Cyrus ",['pop'],Pop
-2019-09-28,14,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,15,Sucker,Jonas Brothers,"['boy band', 'pop']",Pop
-2019-09-28,16,Beautiful People,Ed Sheeran ,[],기타
-2019-09-28,17,Take What You Want,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,18,Money In The Grave,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2019-09-28,19,Boyfriend,Ariana Grande ,['pop'],Pop
-2019-09-28,20,Suge,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2019-09-28,21,You Need To Calm Down,Taylor Swift,['pop'],Pop
-2019-09-28,22,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj ","['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
-2019-09-28,23,If I Can't Have You,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2019-09-28,24,Wow.,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,25,The Git Up,Blanco Brown,"['black americana', 'country rap']",Hip Hop
-2019-09-28,26,Enemies,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,27,Baby,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2019-09-28,28,My Type,Saweetie,"['cali rap', 'trap queen']",Hip Hop
-2019-09-28,29,How Do You Sleep?,Sam Smith,"['pop', 'uk pop']",Pop
-2019-09-28,30,Dancing With A Stranger,Sam Smith ,"['pop', 'uk pop']",Pop
-2019-09-28,31,Hollywood's Bleeding,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,32,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2019-09-28,33,Saint-Tropez,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,34,Trampoline,SHAED,['electropop'],Pop
-2019-09-28,35,On Chill,Wale ,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Pop
-2019-09-28,36,The London,"Young Thug, J. Cole ","['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2019-09-28,37,Pop Out,Polo G ,"['chicago rap', 'rap']",Hip Hop
-2019-09-28,38,Only Human,Jonas Brothers,"['boy band', 'pop']",Pop
-2019-09-28,39,Hot,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2019-09-28,40,Camelot,NLE Choppa,"['memphis hip hop', 'rap']",Hip Hop
-2019-09-28,41,Knockin' Boots,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,42,Die For Me,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,43,Cash Shit,Megan Thee Stallion ,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
-2019-09-28,44,Beer Never Broke My Heart,Luke Combs,"['contemporary country', 'country']",Country
-2019-09-28,45,Graveyard,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2019-09-28,46,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2019-09-28,47,I Don't Know About You,Chris Lane,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,48,On The Road,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,49,Lover,Taylor Swift,['pop'],Pop
-2019-09-28,50,Good As Hell,Lizzo,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
-2019-09-28,51,Living,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,52,One Thing Right,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2019-09-28,53,Time,NF,"['hip hop', 'pop rap']",Hip Hop
-2019-09-28,54,Liar,Camila Cabello,"['dance pop', 'pop']",Pop
-2019-09-28,55,Ballin',Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-09-28,56,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna ","['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",Reggae
-2019-09-28,57,Prayed For You,Matt Stell,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']",Country
-2019-09-28,58,Motivation,Normani,"['pop', 'r&b']",Pop
-2019-09-28,59,223's,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
-2019-09-28,60,A Thousand Bad Times,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,61,Heat,Chris Brown ,"['r&b', 'rap']",R&B
-2019-09-28,62,Even Though I'm Leaving,Luke Combs,"['contemporary country', 'country']",Country
-2019-09-28,63,Lalala,Y2K ,"['pop rap', 'viral rap']",Pop
-2019-09-28,64,Otro Trago,"Sech, Darell, Nicky Jam, Ozuna ","['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2019-09-28,65,Southbound,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
-2019-09-28,66,The Ones That Didn't Make It Back Home,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']",Country
-2019-09-28,67,Callaita,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2019-09-28,68,Love You Too Late,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,69,Bad Bad Bad,Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2019-09-28,70,Staring At The Sun,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,71,I'm Gonna Be,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,72,One Man Band,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,73,No Me Conoce,"Jhay Cortez, J Balvin ","['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2019-09-28,74,Good Vibes,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,75,Behind Barz,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2019-09-28,76,Mood Swings,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
-2019-09-28,77,All To Myself,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2019-09-28,78,Allergic,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-09-28,79,Queen Of Mean,Sarah Jeffery,['movie tunes'],기타
-2019-09-28,80,F.N,Lil Tjay,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",Hip Hop
-2019-09-28,81,Baby Sitter,DaBaby ,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2019-09-28,82,Right Back,Khalid ,"['pop', 'pop r&b']",Pop
-2019-09-28,83,Self Control,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
-2019-09-28,84,Every Little Thing,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,85,Did It Again,Lil Tecca,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2019-09-28,86,Hate Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
-2019-09-28,87,What Happens In A Small Town,Brantley Gilbert + Lindsay Ell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,88,Tip Of My Tongue,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,89,Slide Away,Miley Cyrus,['pop'],Pop
-2019-09-28,90,Press,Cardi B,"['pop', 'rap']",Pop
-2019-09-28,91,Hot Girl Bummer,blackbear,['pop'],Pop
-2019-09-28,92,Rearview Town,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,93,It's You,Ali Gatie,['canadian hip hop'],Hip Hop
-2019-09-28,94,Playing Games,Summer Walker,"['r&b', 'rap']",R&B
-2019-09-28,95,Shameless,Camila Cabello,"['dance pop', 'pop']",Pop
-2019-09-28,96,What If I Never Get Over You,Lady Antebellum,"['contemporary country', 'country', 'country dawn', 'country pop', 'country road']",Country
-2019-09-28,97,"1, 2 Many",Luke Combs ,"['contemporary country', 'country']",Country
-2019-09-28,98,Wish Wish,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2019-09-28,99,We Were,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-09-28,100,Remember You Young,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+date,rank,song_title,artist,genres
+2019-09-28,1,Truth Hurts,Lizzo,['Pop']
+2019-09-28,2,Senorita,Shawn Mendes ,['Pop']
+2019-09-28,3,Bad Guy,Billie Eilish,['Pop']
+2019-09-28,4,Someone You Loved,Lewis Capaldi,['Pop']
+2019-09-28,5,Panini,Lil Nas ,
+2019-09-28,6,Ran$om,Lil Tecca,['Hip Hop']
+2019-09-28,7,No Guidance,Chris Brown ,"['R&B', 'Hip Hop']"
+2019-09-28,8,Goodbyes,Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-28,9,Circles,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-28,10,Old Town Road,Lil Nas ,
+2019-09-28,11,I Don't Care,Ed Sheeran ,
+2019-09-28,12,Talk,Khalid,['Pop']
+2019-09-28,13,Don't Call Me Angel (Charlie's Angels),"Ariana Grande, Miley Cyrus ",['Pop']
+2019-09-28,14,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-28,15,Sucker,Jonas Brothers,['Pop']
+2019-09-28,16,Beautiful People,Ed Sheeran ,
+2019-09-28,17,Take What You Want,Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-28,18,Money In The Grave,Drake ,['Hip Hop']
+2019-09-28,19,Boyfriend,Ariana Grande ,['Pop']
+2019-09-28,20,Suge,DaBaby,['Hip Hop']
+2019-09-28,21,You Need To Calm Down,Taylor Swift,['Pop']
+2019-09-28,22,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj ","['Pop', 'R&B', 'Hip Hop']"
+2019-09-28,23,If I Can't Have You,Shawn Mendes,['Pop']
+2019-09-28,24,Wow.,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-28,25,The Git Up,Blanco Brown,
+2019-09-28,26,Enemies,Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-28,27,Baby,Lil Baby ,['Hip Hop']
+2019-09-28,28,My Type,Saweetie,
+2019-09-28,29,How Do You Sleep?,Sam Smith,['Pop']
+2019-09-28,30,Dancing With A Stranger,Sam Smith ,['Pop']
+2019-09-28,31,Hollywood's Bleeding,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-28,32,Without Me,Halsey,['Pop']
+2019-09-28,33,Saint-Tropez,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-28,34,Trampoline,SHAED,
+2019-09-28,35,On Chill,Wale ,"['R&B', 'Hip Hop']"
+2019-09-28,36,The London,"Young Thug, J. Cole ",['Hip Hop']
+2019-09-28,37,Pop Out,Polo G ,['Hip Hop']
+2019-09-28,38,Only Human,Jonas Brothers,['Pop']
+2019-09-28,39,Hot,Young Thug ,['Hip Hop']
+2019-09-28,40,Camelot,NLE Choppa,['Hip Hop']
+2019-09-28,41,Knockin' Boots,Luke Bryan,['Country']
+2019-09-28,42,Die For Me,Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-28,43,Cash Shit,Megan Thee Stallion ,"['Pop', 'R&B', 'Hip Hop']"
+2019-09-28,44,Beer Never Broke My Heart,Luke Combs,['Country']
+2019-09-28,45,Graveyard,Halsey,['Pop']
+2019-09-28,46,Speechless,Dan + Shay,['Country']
+2019-09-28,47,I Don't Know About You,Chris Lane,['Country']
+2019-09-28,48,On The Road,Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-28,49,Lover,Taylor Swift,['Pop']
+2019-09-28,50,Good As Hell,Lizzo,['Pop']
+2019-09-28,51,Living,Dierks Bentley,['Country']
+2019-09-28,52,One Thing Right,Marshmello ,"['Electronic/Dance', 'Pop']"
+2019-09-28,53,Time,NF,['Hip Hop']
+2019-09-28,54,Liar,Camila Cabello,['Pop']
+2019-09-28,55,Ballin',Mustard ,['Hip Hop']
+2019-09-28,56,China,"Anuel AA, Daddy Yankee, Karol G, Ozuna ",
+2019-09-28,57,Prayed For You,Matt Stell,
+2019-09-28,58,Motivation,Normani,"['Pop', 'R&B']"
+2019-09-28,59,223's,YNW Melly ,['Hip Hop']
+2019-09-28,60,A Thousand Bad Times,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-28,61,Heat,Chris Brown ,"['R&B', 'Hip Hop']"
+2019-09-28,62,Even Though I'm Leaving,Luke Combs,['Country']
+2019-09-28,63,Lalala,Y2K ,
+2019-09-28,64,Otro Trago,"Sech, Darell, Nicky Jam, Ozuna ",
+2019-09-28,65,Southbound,Carrie Underwood,"['Pop', 'Country']"
+2019-09-28,66,The Ones That Didn't Make It Back Home,Justin Moore,['Country']
+2019-09-28,67,Callaita,Bad Bunny ,
+2019-09-28,68,Love You Too Late,Cole Swindell,['Country']
+2019-09-28,69,Bad Bad Bad,Young Thug ,['Hip Hop']
+2019-09-28,70,Staring At The Sun,Post Malone ,"['Pop', 'Hip Hop']"
+2019-09-28,71,I'm Gonna Be,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-28,72,One Man Band,Old Dominion,['Country']
+2019-09-28,73,No Me Conoce,"Jhay Cortez, J Balvin ",
+2019-09-28,74,Good Vibes,Chris Janson,['Country']
+2019-09-28,75,Behind Barz,Drake,['Hip Hop']
+2019-09-28,76,Mood Swings,A Boogie Wit da Hoodie,['Hip Hop']
+2019-09-28,77,All To Myself,Dan + Shay,['Country']
+2019-09-28,78,Allergic,Post Malone,"['Pop', 'Hip Hop']"
+2019-09-28,79,Queen Of Mean,Sarah Jeffery,
+2019-09-28,80,F.N,Lil Tjay,['Hip Hop']
+2019-09-28,81,Baby Sitter,DaBaby ,['Hip Hop']
+2019-09-28,82,Right Back,Khalid ,['Pop']
+2019-09-28,83,Self Control,YoungBoy Never Broke Again,['Hip Hop']
+2019-09-28,84,Every Little Thing,Russell Dickerson,['Country']
+2019-09-28,85,Did It Again,Lil Tecca,['Hip Hop']
+2019-09-28,86,Hate Me,Ellie Goulding ,['Pop']
+2019-09-28,87,What Happens In A Small Town,Brantley Gilbert + Lindsay Ell,['Country']
+2019-09-28,88,Tip Of My Tongue,Kenny Chesney,['Country']
+2019-09-28,89,Slide Away,Miley Cyrus,['Pop']
+2019-09-28,90,Press,Cardi B,"['Pop', 'Hip Hop']"
+2019-09-28,91,Hot Girl Bummer,blackbear,['Pop']
+2019-09-28,92,Rearview Town,Jason Aldean,['Country']
+2019-09-28,93,It's You,Ali Gatie,
+2019-09-28,94,Playing Games,Summer Walker,"['R&B', 'Hip Hop']"
+2019-09-28,95,Shameless,Camila Cabello,['Pop']
+2019-09-28,96,What If I Never Get Over You,Lady Antebellum,['Country']
+2019-09-28,97,"1, 2 Many",Luke Combs ,['Country']
+2019-09-28,98,Wish Wish,DJ Khaled ,['Hip Hop']
+2019-09-28,99,We Were,Keith Urban,['Country']
+2019-09-28,100,Remember You Young,Thomas Rhett,['Country']

@@ -1,97 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2021-08-28,1.0,Stay,The Kid LAROI ,['australian hip hop'],Hip Hop
-2021-08-28,2.0,Bad Habits,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2021-08-28,3.0,Good 4 U,Olivia Rodrigo,['pop'],Pop
-2021-08-28,4.0,Rumors,Lizzo ,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",Hip Hop
-2021-08-28,5.0,Kiss Me More,Doja Cat ,"['dance pop', 'pop']",Pop
-2021-08-28,6.0,Levitating,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
-2021-08-28,7.0,Industry Baby,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
-2021-08-28,8.0,Butter,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
-2021-08-28,9.0,Deja Vu,Olivia Rodrigo,['pop'],Pop
-2021-08-28,10.0,Montero (Call Me By Your Name),Lil Nas ,['lgbtq+ hip hop'],Hip Hop
-2021-08-28,11.0,Save Your Tears,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2021-08-28,12.0,Fancy Like,Walker Hayes,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,13.0,Take My Breath,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2021-08-28,14.0,Peaches,Justin Bieber ,"['canadian pop', 'pop']",Pop
-2021-08-28,16.0,Essence,Wizkid ,"['afrobeats', 'afropop', 'azonto', 'nigerian hip hop', 'nigerian pop']",Pop
-2021-08-28,17.0,You Right,Doja Cat ,"['dance pop', 'pop']",Pop
-2021-08-28,18.0,Happier Than Ever,Billie Eilish,"['art pop', 'pop']",Pop
-2021-08-28,19.0,Heartbreak Anniversary,Giveon,['r&b'],R&B
-2021-08-28,20.0,Need To Know,Doja Cat,"['dance pop', 'pop']",Pop
-2021-08-28,21.0,Blinding Lights,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2021-08-28,22.0,Glad You Exist,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2021-08-28,23.0,Leave Before You Love Me,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2021-08-28,24.0,Every Chance I Get,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2021-08-28,25.0,Forever After All,Luke Combs,"['contemporary country', 'country']",Country
-2021-08-28,26.0,Late At Night,Roddy Ricch,"['melodic rap', 'rap', 'trap']",Hip Hop
-2021-08-28,27.0,Thot Shit,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
-2021-08-28,28.0,Rapstar,Polo G,"['chicago rap', 'rap']",Hip Hop
-2021-08-28,29.0,Traitor,Olivia Rodrigo,['pop'],Pop
-2021-08-28,30.0,Waves,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,32.0,Without You,The Kid LAROI,['australian hip hop'],Hip Hop
-2021-08-28,33.0,Pepas,Farruko,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2021-08-28,34.0,Heat Waves,Glass Animals,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",Pop
-2021-08-28,35.0,Wockesha,Moneybagg Yo,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
-2021-08-28,36.0,Astronaut In The Ocean,Masked Wolf,['australian hip hop'],Hip Hop
-2021-08-28,37.0,Things A Man Oughta Know,Lainey Wilson,"['contemporary country', 'modern country pop']",Country
-2021-08-28,38.0,Arcade,Duncan Laurence,['dutch pop'],Pop
-2021-08-28,39.0,Lil Bit,Nelly ,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'st louis rap', 'urban contemporary']",Pop
-2021-08-28,40.0,Famous Friends,Chris Young + Kane Brown,"['contemporary country', 'country', 'country road']",Country
-2021-08-28,41.0,Beautiful Mistakes,Maroon 5 ,['pop'],Pop
-2021-08-28,42.0,Beggin',Maneskin,"['indie rock italiano', 'italian pop']",Rock
-2021-08-28,43.0,Country Again,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,44.0,Chasing After You,Ryan Hurd With Maren Morris,"['contemporary country', 'country pop', 'country road', 'modern country rock']",Country
-2021-08-28,45.0,Volvi,Aventura ,"['bachata', 'bachata dominicana', 'latin hip hop', 'latin pop', 'tropical', 'urbano latino']",Hip Hop
-2021-08-28,46.0,Drinkin' Beer. Talkin' God. Amen.,Chase Rice ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,47.0,We Didn't Have Much,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']",Country
-2021-08-28,48.0,If I Didn't Love You,Jason Aldean ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,49.0,Whole Lotta Money,BIA ,"['rap latina', 'trap queen']",Hip Hop
-2021-08-28,50.0,Cold Beer Calling My Name,Jameson Rodgers ,"['contemporary country', 'country pop', 'modern country pop', 'modern country rock']",Country
-2021-08-28,51.0,2055,Sleepy Hallow,"['brooklyn drill', 'nyc rap']",Hip Hop
-2021-08-28,52.0,Single Saturday Night,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,53.0,Motley Crew,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2021-08-28,54.0,Todo de Ti,Rauw Alejandro,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2021-08-28,55.0,A-O-K,Tai Verdes,"['modern indie pop', 'singer-songwriter pop']",Pop
-2021-08-28,56.0,Yonaguni,Bad Bunny,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2021-08-28,57.0,Wild Side,Normani ,"['pop', 'r&b']",Pop
-2021-08-28,58.0,Love Again,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
-2021-08-28,59.0,Ain't Shit,Doja Cat,"['dance pop', 'pop']",Pop
-2021-08-28,60.0,Drunk (And I Don't Wanna Go Home),Elle King ,['modern blues rock'],Rock
-2021-08-28,61.0,You,Regard ,"['pop dance', 'pop edm', 'slap house', 'uk dance']",Pop
-2021-08-28,62.0,Memory,Kane Brown ,"['black americana', 'contemporary country', 'country', 'country road']",Country
-2021-08-28,63.0,You Should Probably Leave,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
-2021-08-28,64.0,Don't Go Yet,Camila Cabello,"['dance pop', 'pop']",Pop
-2021-08-28,65.0,Paralyzed,Sueco,['cali rap'],Hip Hop
-2021-08-28,66.0,Permission To Dance,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
-2021-08-28,67.0,I Was On A Boat That Day,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,68.0,Woman,Doja Cat,"['dance pop', 'pop']",Pop
-2021-08-28,69.0,Tombstone,Rod Wave,['florida rap'],Hip Hop
-2021-08-28,70.0,My Boy,Elvie Shane,['modern country pop'],Pop
-2021-08-28,71.0,Gyalis,Capella Grey,['pop rap'],Pop
-2021-08-28,72.0,Memory I Don't Mess With,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,73.0,Come Through,H.E.R. ,"['r&b', 'rap']",R&B
-2021-08-28,74.0,You Time,Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,75.0,Get Into It (Yuh),Doja Cat,"['dance pop', 'pop']",Pop
-2021-08-28,76.0,Buy Dirt,Jordan Davis ,['contemporary country'],Country
-2021-08-28,77.0,Cold As You,Luke Combs,"['contemporary country', 'country']",Country
-2021-08-28,78.0,Mind Of Melvin,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
-2021-08-28,80.0,Baddest,"Yung Bleu, Chris Brown ","['alabama rap', 'trap']",Hip Hop
-2021-08-28,81.0,Cold Heart (PNAU Remix),Elton John ,"['glam rock', 'mellow gold', 'piano rock', 'rock']",Rock
-2021-08-28,82.0,SUVs (Black On Black),Jack Harlow ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",Hip Hop
-2021-08-28,83.0,Straightenin,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2021-08-28,84.0,Blame It On You,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,85.0,AM,Nio Garcia ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2021-08-28,86.0,Hats Off,"Lil Baby, Lil Durk ","['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2021-08-28,87.0,Knowing You,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,88.0,Over The Top,Smiley ,['canadian hip hop'],Hip Hop
-2021-08-28,89.0,Brainwashed,Tom MacDonald,"['bc underground hip hop', 'country rap', 'maga rap']",Hip Hop
-2021-08-28,91.0,Thinking 'Bout You,Dustin Lynch ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2021-08-28,92.0,WUSYANAME,"Tyler, The Creator ","['hip hop', 'rap']",Hip Hop
-2021-08-28,93.0,Favorite Crime,Olivia Rodrigo,['pop'],Pop
-2021-08-28,94.0,Outside,MO3 ,"['dfw rap', 'memphis hip hop', 'southern hip hop', 'trap']",Hip Hop
-2021-08-28,95.0,Ball If I Want To,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2021-08-28,96.0,Next Girl,Carly Pearce,"['contemporary country', 'country', 'country road']",Country
-2021-08-28,97.0,I Like Dat,T-Pain ,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",Pop
-2021-08-28,98.0,Steal My Love,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2021-08-28,99.0,Repeat It,Lil Tecca ,"['melodic rap', 'pluggnb', 'rap']",Hip Hop
-2021-08-28,100.0,5500 Degrees,EST Gee ,"['kentucky hip hop', 'memphis hip hop', 'southern hip hop']",Hip Hop
+date,rank,song_title,artist,genres
+2021-08-28,1.0,Stay,The Kid LAROI ,
+2021-08-28,2.0,Bad Habits,Ed Sheeran,['Pop']
+2021-08-28,3.0,Good 4 U,Olivia Rodrigo,['Pop']
+2021-08-28,4.0,Rumors,Lizzo ,['Pop']
+2021-08-28,5.0,Kiss Me More,Doja Cat ,['Pop']
+2021-08-28,6.0,Levitating,Dua Lipa,['Pop']
+2021-08-28,7.0,Industry Baby,Lil Nas ,
+2021-08-28,8.0,Butter,BTS,['Pop']
+2021-08-28,9.0,Deja Vu,Olivia Rodrigo,['Pop']
+2021-08-28,10.0,Montero (Call Me By Your Name),Lil Nas ,
+2021-08-28,11.0,Save Your Tears,The Weeknd ,['Pop']
+2021-08-28,12.0,Fancy Like,Walker Hayes,['Country']
+2021-08-28,13.0,Take My Breath,The Weeknd,['Pop']
+2021-08-28,14.0,Peaches,Justin Bieber ,['Pop']
+,,Leave The Door Open,Silk Sonic (Bruno Mars ,
+2021-08-28,16.0,Essence,Wizkid ,
+2021-08-28,17.0,You Right,Doja Cat ,['Pop']
+2021-08-28,18.0,Happier Than Ever,Billie Eilish,['Pop']
+2021-08-28,19.0,Heartbreak Anniversary,Giveon,['R&B']
+2021-08-28,20.0,Need To Know,Doja Cat,['Pop']
+2021-08-28,21.0,Blinding Lights,The Weeknd,['Pop']
+2021-08-28,22.0,Glad You Exist,Dan + Shay,['Country']
+2021-08-28,23.0,Leave Before You Love Me,Marshmello ,"['Electronic/Dance', 'Pop']"
+2021-08-28,24.0,Every Chance I Get,DJ Khaled ,['Hip Hop']
+2021-08-28,25.0,Forever After All,Luke Combs,['Country']
+2021-08-28,26.0,Late At Night,Roddy Ricch,['Hip Hop']
+2021-08-28,27.0,Thot Shit,Megan Thee Stallion,"['Pop', 'R&B', 'Hip Hop']"
+2021-08-28,28.0,Rapstar,Polo G,['Hip Hop']
+2021-08-28,29.0,Traitor,Olivia Rodrigo,['Pop']
+2021-08-28,30.0,Waves,Luke Bryan,['Country']
+,,Skate,Silk Sonic (Bruno Mars ,
+2021-08-28,32.0,Without You,The Kid LAROI,
+2021-08-28,33.0,Pepas,Farruko,
+2021-08-28,34.0,Heat Waves,Glass Animals,
+2021-08-28,35.0,Wockesha,Moneybagg Yo,['Hip Hop']
+2021-08-28,36.0,Astronaut In The Ocean,Masked Wolf,
+2021-08-28,37.0,Things A Man Oughta Know,Lainey Wilson,
+2021-08-28,38.0,Arcade,Duncan Laurence,
+2021-08-28,39.0,Lil Bit,Nelly ,['Hip Hop']
+2021-08-28,40.0,Famous Friends,Chris Young + Kane Brown,['Country']
+2021-08-28,41.0,Beautiful Mistakes,Maroon 5 ,['Pop']
+2021-08-28,42.0,Beggin',Maneskin,
+2021-08-28,43.0,Country Again,Thomas Rhett,['Country']
+2021-08-28,44.0,Chasing After You,Ryan Hurd With Maren Morris,
+2021-08-28,45.0,Volvi,Aventura ,
+2021-08-28,46.0,Drinkin' Beer. Talkin' God. Amen.,Chase Rice ,['Country']
+2021-08-28,47.0,We Didn't Have Much,Justin Moore,['Country']
+2021-08-28,48.0,If I Didn't Love You,Jason Aldean ,['Country']
+2021-08-28,49.0,Whole Lotta Money,BIA ,
+2021-08-28,50.0,Cold Beer Calling My Name,Jameson Rodgers ,
+2021-08-28,51.0,2055,Sleepy Hallow,
+2021-08-28,52.0,Single Saturday Night,Cole Swindell,['Country']
+2021-08-28,53.0,Motley Crew,Post Malone,"['Pop', 'Hip Hop']"
+2021-08-28,54.0,Todo de Ti,Rauw Alejandro,
+2021-08-28,55.0,A-O-K,Tai Verdes,
+2021-08-28,56.0,Yonaguni,Bad Bunny,
+2021-08-28,57.0,Wild Side,Normani ,"['Pop', 'R&B']"
+2021-08-28,58.0,Love Again,Dua Lipa,['Pop']
+2021-08-28,59.0,Ain't Shit,Doja Cat,['Pop']
+2021-08-28,60.0,Drunk (And I Don't Wanna Go Home),Elle King ,
+2021-08-28,61.0,You,Regard ,
+2021-08-28,62.0,Memory,Kane Brown ,['Country']
+2021-08-28,63.0,You Should Probably Leave,Chris Stapleton,
+2021-08-28,64.0,Don't Go Yet,Camila Cabello,['Pop']
+2021-08-28,65.0,Paralyzed,Sueco,
+2021-08-28,66.0,Permission To Dance,BTS,['Pop']
+2021-08-28,67.0,I Was On A Boat That Day,Old Dominion,['Country']
+2021-08-28,68.0,Woman,Doja Cat,['Pop']
+2021-08-28,69.0,Tombstone,Rod Wave,
+2021-08-28,70.0,My Boy,Elvie Shane,
+2021-08-28,71.0,Gyalis,Capella Grey,
+2021-08-28,72.0,Memory I Don't Mess With,Lee Brice,['Country']
+2021-08-28,73.0,Come Through,H.E.R. ,"['R&B', 'Hip Hop']"
+2021-08-28,74.0,You Time,Scotty McCreery,['Country']
+2021-08-28,75.0,Get Into It (Yuh),Doja Cat,['Pop']
+2021-08-28,76.0,Buy Dirt,Jordan Davis ,
+2021-08-28,77.0,Cold As You,Luke Combs,['Country']
+2021-08-28,78.0,Mind Of Melvin,YNW Melly ,['Hip Hop']
+,,Papercuts,Machine Gun Kelly,
+2021-08-28,80.0,Baddest,"Yung Bleu, Chris Brown ",
+2021-08-28,81.0,Cold Heart (PNAU Remix),Elton John ,['Rock']
+2021-08-28,82.0,SUVs (Black On Black),Jack Harlow ,['Hip Hop']
+2021-08-28,83.0,Straightenin,Migos,['Hip Hop']
+2021-08-28,84.0,Blame It On You,Jason Aldean,['Country']
+2021-08-28,85.0,AM,Nio Garcia ,
+2021-08-28,86.0,Hats Off,"Lil Baby, Lil Durk ",['Hip Hop']
+2021-08-28,87.0,Knowing You,Kenny Chesney,['Country']
+2021-08-28,88.0,Over The Top,Smiley ,
+2021-08-28,89.0,Brainwashed,Tom MacDonald,
+,,my.life,"J. Cole, 21 Savage ",
+2021-08-28,91.0,Thinking 'Bout You,Dustin Lynch ,['Country']
+2021-08-28,92.0,WUSYANAME,"Tyler, The Creator ",['Hip Hop']
+2021-08-28,93.0,Favorite Crime,Olivia Rodrigo,['Pop']
+2021-08-28,94.0,Outside,MO3 ,
+2021-08-28,95.0,Ball If I Want To,DaBaby,['Hip Hop']
+2021-08-28,96.0,Next Girl,Carly Pearce,['Country']
+2021-08-28,97.0,I Like Dat,T-Pain ,"['R&B', 'Hip Hop']"
+2021-08-28,98.0,Steal My Love,Dan + Shay,['Country']
+2021-08-28,99.0,Repeat It,Lil Tecca ,['Hip Hop']
+2021-08-28,100.0,5500 Degrees,EST Gee ,

@@ -1,99 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2019-05-11,1.0,Old Town Road,Lil Nas ,['lgbtq+ hip hop'],Hip Hop
-2019-05-11,2.0,ME!,Taylor Swift ,['pop'],Pop
-2019-05-11,3.0,Wow.,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-05-11,4.0,Sucker,Jonas Brothers,"['boy band', 'pop']",Pop
-2019-05-11,5.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-05-11,6.0,7 Rings,Ariana Grande,['pop'],Pop
-2019-05-11,7.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2019-05-11,8.0,Dancing With A Stranger,Sam Smith ,"['pop', 'uk pop']",Pop
-2019-05-11,9.0,Bad Guy,Billie Eilish,"['art pop', 'pop']",Pop
-2019-05-11,10.0,Talk,Khalid,"['pop', 'pop r&b']",Pop
-2019-05-11,11.0,Sweet But Psycho,Ava Ma,['pop'],Pop
-2019-05-11,12.0,Middle Child,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2019-05-11,13.0,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,['pop'],Pop
-2019-05-11,14.0,Happier,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2019-05-11,15.0,Shallow,Lady Gaga ,"['art pop', 'dance pop', 'pop']",Pop
-2019-05-11,16.0,Going Bad,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-05-11,17.0,Eastside,"benny blanco, Halsey ",['pop'],Pop
-2019-05-11,18.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']",Rock
-2019-05-11,19.0,Please Me,Cardi B ,"['pop', 'rap']",Pop
-2019-05-11,20.0,Better,Khalid,"['pop', 'pop r&b']",Pop
-2019-05-11,21.0,Girls Like You,Maroon 5 ,['pop'],Pop
-2019-05-11,22.0,A Lot,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2019-05-11,23.0,Pure Water,Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-05-11,24.0,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2019-05-11,25.0,Thotiana,Blueface,"['cali rap', 'rap', 'trap']",Hip Hop
-2019-05-11,26.0,Be Alright,Dean Lewis,"['australian pop', 'pop']",Pop
-2019-05-11,27.0,Suge,DaBaby,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2019-05-11,28.0,Beautiful Crazy,Luke Combs,"['contemporary country', 'country']",Country
-2019-05-11,29.0,Look Back At It,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
-2019-05-11,30.0,Act Up,City Girls,"['scam rap', 'trap queen']",Hip Hop
-2019-05-11,31.0,Here With Me,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2019-05-11,32.0,Envy Me,Calboy,"['chicago rap', 'melodic rap']",Hip Hop
-2019-05-11,33.0,Whiskey Glasses,Morgan Wallen,['contemporary country'],Country
-2019-05-11,34.0,God's Country,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,35.0,Con Calma,Daddy Yankee ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
-2019-05-11,36.0,Close To Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
-2019-05-11,37.0,Drip Too Hard,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2019-05-11,38.0,Eyes On You,Chase Rice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,39.0,When The Party's Over,Billie Eilish,"['art pop', 'pop']",Pop
-2019-05-11,40.0,Boy With Luv,BTS ,"['k-pop', 'k-pop boy group', 'pop']",Pop
-2019-05-11,41.0,Earth,Lil Dicky,"['comedy rap', 'indie pop rap', 'pop rap']",Hip Hop
-2019-05-11,42.0,Sanguine Paradise,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2019-05-11,43.0,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",Rock
-2019-05-11,44.0,Murder On My Mind,YNW Melly,"['melodic rap', 'rap']",Hip Hop
-2019-05-11,45.0,Bury A Friend,Billie Eilish,"['art pop', 'pop']",Pop
-2019-05-11,46.0,Good As You,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
-2019-05-11,47.0,Clout,Offset ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2019-05-11,48.0,"Thank U, Next",Ariana Grande,['pop'],Pop
-2019-05-11,49.0,Walk Me Home,P!nk,"['dance pop', 'pop']",Pop
-2019-05-11,50.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']",Pop
-2019-05-11,51.0,Pop Out,Polo G ,"['chicago rap', 'rap']",Hip Hop
-2019-05-11,52.0,Who Do You Love,The Chainsmokers ,['pop'],Pop
-2019-05-11,53.0,Look What God Gave Her,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,54.0,Here Tonight,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,55.0,Baby Shark,Pinkfong,"['cartoon', ""children's music"", 'dong-yo']",기타
-2019-05-11,56.0,Close Friends,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2019-05-11,57.0,Worth It,YK Osiris,"['melodic rap', 'trap']",Hip Hop
-2019-05-11,58.0,Swervin,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
-2019-05-11,59.0,Night Shift,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,60.0,Love Ain't,Eli Young Band,"['classic texas country', 'contemporary country', 'country', 'country road', 'heartland rock', 'modern country rock']",Country
-2019-05-11,61.0,Rumor,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,62.0,Miss Me More,Kelsea Ballerini,"['contemporary country', 'country']",Country
-2019-05-11,63.0,Racks In The Middle,Nipsey Hussle ,"['conscious hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-05-11,64.0,Make It Sweet,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,65.0,Before I Let Go,Beyonce,"['pop', 'r&b']",Pop
-2019-05-11,66.0,"Hey Look Ma, I Made It",Panic! At The Disco,"['modern rock', 'pop']",Rock
-2019-05-11,67.0,Floating,ScHoolboy Q ,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-05-11,68.0,Robbery,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2019-05-11,69.0,Baila Baila Baila,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2019-05-11,70.0,Big Ole Freak,Megan Thee Stallion,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",Hip Hop
-2019-05-11,72.0,Cool,Jonas Brothers,"['boy band', 'pop']",Pop
-2019-05-11,73.0,Calma,Pedro Capo ,"['latin pop', 'puerto rican pop']",Pop
-2019-05-11,74.0,Girls Need Love,Summer Walker ,"['r&b', 'rap']",R&B
-2019-05-11,75.0,GIRL,Maren Morris,"['classic texas country', 'contemporary country']",Country
-2019-05-11,76.0,Mixed Personalities,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
-2019-05-11,77.0,That's A Rack,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2019-05-11,78.0,I've Been Waiting,Lil Peep ,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",Hip Hop
-2019-05-11,79.0,Wish You Were Gay,Billie Eilish,"['art pop', 'pop']",Pop
-2019-05-11,80.0,You Should See Me In A Crown,Billie Eilish,"['art pop', 'pop']",Pop
-2019-05-11,81.0,Put A Date On It,Yo Gotti ,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
-2019-05-11,82.0,Talk You Out Of It,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2019-05-11,83.0,I'm So Tired...,Lauv ,['pop'],Pop
-2019-05-11,84.0,On My Way To You,Cody Johnson,"['classic texas country', 'contemporary country', 'modern country pop']",Country
-2019-05-11,85.0,CHopstix,ScHoolboy Q + Travis Scott,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-05-11,86.0,Shotta Flow,NLE Choppa,"['memphis hip hop', 'rap']",Hip Hop
-2019-05-11,87.0,Shot Clock,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']",R&B
-2019-05-11,88.0,Ocean Eyes,Billie Eilish,"['art pop', 'pop']",Pop
-2019-05-11,89.0,Secreto,Anuel AA ,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",Reggae
-2019-05-11,90.0,Light It Up,"Marshmello, Tyga ","['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2019-05-11,91.0,Love Someone,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,92.0,Power Is Power,"SZA, The Weeknd ","['pop', 'r&b', 'rap']",Pop
-2019-05-11,93.0,Faucet Failure,Ski Mask The Slump God,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",Hip Hop
-2019-05-11,94.0,Knockin' Boots,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-05-11,95.0,Numb Numb Juice,ScHoolboy Q,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-05-11,96.0,Love Me Anyway,P!nk ,"['dance pop', 'pop']",Pop
-2019-05-11,97.0,24/7,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-05-11,99.0,SOS,Avicii ,"['dance pop', 'edm', 'pop', 'pop dance']",Pop
-2019-05-11,100.0,Kill This Love,BLACKPINK,"['k-pop', 'k-pop girl group', 'pop']",Pop
+date,rank,song_title,artist,genres
+2019-05-11,1.0,Old Town Road,Lil Nas ,
+2019-05-11,2.0,ME!,Taylor Swift ,['Pop']
+2019-05-11,3.0,Wow.,Post Malone,"['Pop', 'Hip Hop']"
+2019-05-11,4.0,Sucker,Jonas Brothers,['Pop']
+2019-05-11,5.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['Pop', 'Hip Hop']"
+2019-05-11,6.0,7 Rings,Ariana Grande,['Pop']
+2019-05-11,7.0,Without Me,Halsey,['Pop']
+2019-05-11,8.0,Dancing With A Stranger,Sam Smith ,['Pop']
+2019-05-11,9.0,Bad Guy,Billie Eilish,['Pop']
+2019-05-11,10.0,Talk,Khalid,['Pop']
+2019-05-11,11.0,Sweet But Psycho,Ava Ma,['Pop']
+2019-05-11,12.0,Middle Child,J. Cole,['Hip Hop']
+2019-05-11,13.0,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,['Pop']
+2019-05-11,14.0,Happier,Marshmello ,"['Electronic/Dance', 'Pop']"
+2019-05-11,15.0,Shallow,Lady Gaga ,['Pop']
+2019-05-11,16.0,Going Bad,Meek Mill ,['Hip Hop']
+2019-05-11,17.0,Eastside,"benny blanco, Halsey ",['Pop']
+2019-05-11,18.0,High Hopes,Panic! At The Disco,['Pop']
+2019-05-11,19.0,Please Me,Cardi B ,"['Pop', 'Hip Hop']"
+2019-05-11,20.0,Better,Khalid,['Pop']
+2019-05-11,21.0,Girls Like You,Maroon 5 ,['Pop']
+2019-05-11,22.0,A Lot,21 Savage,['Hip Hop']
+2019-05-11,23.0,Pure Water,Mustard ,['Hip Hop']
+2019-05-11,24.0,Sicko Mode,Travis Scott,['Hip Hop']
+2019-05-11,25.0,Thotiana,Blueface,['Hip Hop']
+2019-05-11,26.0,Be Alright,Dean Lewis,['Pop']
+2019-05-11,27.0,Suge,DaBaby,['Hip Hop']
+2019-05-11,28.0,Beautiful Crazy,Luke Combs,['Country']
+2019-05-11,29.0,Look Back At It,A Boogie Wit da Hoodie,['Hip Hop']
+2019-05-11,30.0,Act Up,City Girls,
+2019-05-11,31.0,Here With Me,Marshmello ,"['Electronic/Dance', 'Pop']"
+2019-05-11,32.0,Envy Me,Calboy,
+2019-05-11,33.0,Whiskey Glasses,Morgan Wallen,
+2019-05-11,34.0,God's Country,Blake Shelton,['Country']
+2019-05-11,35.0,Con Calma,Daddy Yankee ,
+2019-05-11,36.0,Close To Me,Ellie Goulding ,['Pop']
+2019-05-11,37.0,Drip Too Hard,Lil Baby ,['Hip Hop']
+2019-05-11,38.0,Eyes On You,Chase Rice,['Country']
+2019-05-11,39.0,When The Party's Over,Billie Eilish,['Pop']
+2019-05-11,40.0,Boy With Luv,BTS ,['Pop']
+2019-05-11,41.0,Earth,Lil Dicky,
+2019-05-11,42.0,Sanguine Paradise,Lil Uzi Vert,['Hip Hop']
+2019-05-11,43.0,You Say,Lauren Daigle,
+2019-05-11,44.0,Murder On My Mind,YNW Melly,['Hip Hop']
+2019-05-11,45.0,Bury A Friend,Billie Eilish,['Pop']
+2019-05-11,46.0,Good As You,Kane Brown,['Country']
+2019-05-11,47.0,Clout,Offset ,['Hip Hop']
+2019-05-11,48.0,"Thank U, Next",Ariana Grande,['Pop']
+2019-05-11,49.0,Walk Me Home,P!nk,['Pop']
+2019-05-11,50.0,Youngblood,5 Seconds Of Summer,['Pop']
+2019-05-11,51.0,Pop Out,Polo G ,['Hip Hop']
+2019-05-11,52.0,Who Do You Love,The Chainsmokers ,['Pop']
+2019-05-11,53.0,Look What God Gave Her,Thomas Rhett,['Country']
+2019-05-11,54.0,Here Tonight,Brett Young,['Country']
+2019-05-11,55.0,Baby Shark,Pinkfong,
+2019-05-11,56.0,Close Friends,Lil Baby,['Hip Hop']
+2019-05-11,57.0,Worth It,YK Osiris,
+2019-05-11,58.0,Swervin,A Boogie Wit da Hoodie ,['Hip Hop']
+2019-05-11,59.0,Night Shift,Jon Pardi,['Country']
+2019-05-11,60.0,Love Ain't,Eli Young Band,['Country']
+2019-05-11,61.0,Rumor,Lee Brice,['Country']
+2019-05-11,62.0,Miss Me More,Kelsea Ballerini,['Country']
+2019-05-11,63.0,Racks In The Middle,Nipsey Hussle ,['Hip Hop']
+2019-05-11,64.0,Make It Sweet,Old Dominion,['Country']
+2019-05-11,65.0,Before I Let Go,Beyonce,"['Pop', 'R&B']"
+2019-05-11,66.0,"Hey Look Ma, I Made It",Panic! At The Disco,['Pop']
+2019-05-11,67.0,Floating,ScHoolboy Q ,['Hip Hop']
+2019-05-11,68.0,Robbery,Juice WRLD,['Hip Hop']
+2019-05-11,69.0,Baila Baila Baila,Ozuna ,
+2019-05-11,70.0,Big Ole Freak,Megan Thee Stallion,"['Pop', 'R&B', 'Hip Hop']"
+,,Don't Call Me Up,Mabel,
+2019-05-11,72.0,Cool,Jonas Brothers,['Pop']
+2019-05-11,73.0,Calma,Pedro Capo ,
+2019-05-11,74.0,Girls Need Love,Summer Walker ,"['R&B', 'Hip Hop']"
+2019-05-11,75.0,GIRL,Maren Morris,
+2019-05-11,76.0,Mixed Personalities,YNW Melly ,['Hip Hop']
+2019-05-11,77.0,That's A Rack,Lil Uzi Vert,['Hip Hop']
+2019-05-11,78.0,I've Been Waiting,Lil Peep ,
+2019-05-11,79.0,Wish You Were Gay,Billie Eilish,['Pop']
+2019-05-11,80.0,You Should See Me In A Crown,Billie Eilish,['Pop']
+2019-05-11,81.0,Put A Date On It,Yo Gotti ,['Hip Hop']
+2019-05-11,82.0,Talk You Out Of It,Florida Georgia Line,['Country']
+2019-05-11,83.0,I'm So Tired...,Lauv ,['Pop']
+2019-05-11,84.0,On My Way To You,Cody Johnson,
+2019-05-11,85.0,CHopstix,ScHoolboy Q + Travis Scott,['Hip Hop']
+2019-05-11,86.0,Shotta Flow,NLE Choppa,['Hip Hop']
+2019-05-11,87.0,Shot Clock,Ella Mai,"['R&B', 'Hip Hop']"
+2019-05-11,88.0,Ocean Eyes,Billie Eilish,['Pop']
+2019-05-11,89.0,Secreto,Anuel AA ,
+2019-05-11,90.0,Light It Up,"Marshmello, Tyga ","['Electronic/Dance', 'Pop']"
+2019-05-11,91.0,Love Someone,Brett Eldredge,['Country']
+2019-05-11,92.0,Power Is Power,"SZA, The Weeknd ","['Pop', 'R&B', 'Hip Hop']"
+2019-05-11,93.0,Faucet Failure,Ski Mask The Slump God,['Hip Hop']
+2019-05-11,94.0,Knockin' Boots,Luke Bryan,['Country']
+2019-05-11,95.0,Numb Numb Juice,ScHoolboy Q,['Hip Hop']
+2019-05-11,96.0,Love Me Anyway,P!nk ,['Pop']
+2019-05-11,97.0,24/7,Meek Mill ,['Hip Hop']
+,,Stop Snitching,YG,
+2019-05-11,99.0,SOS,Avicii ,"['Electronic/Dance', 'Pop']"
+2019-05-11,100.0,Kill This Love,BLACKPINK,['Pop']

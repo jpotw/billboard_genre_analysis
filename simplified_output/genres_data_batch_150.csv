@@ -1,100 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2018-11-10,1.0,Girls Like You,Maroon 5 ,['pop'],Pop
-2018-11-10,2.0,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2018-11-10,3.0,Happier,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2018-11-10,4.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-11-10,5.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-11-10,6.0,ZEZE,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
-2018-11-10,7.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']",Pop
-2018-11-10,8.0,Drip Too Hard,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-11-10,9.0,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2018-11-10,10.0,Mo Bamba,Sheck Wes,"['pop rap', 'rap', 'trap']",Pop
-2018-11-10,11.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']",Rock
-2018-11-10,12.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
-2018-11-10,13.0,Money,Cardi B,"['pop', 'rap']",Pop
-2018-11-10,14.0,Natural,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
-2018-11-10,15.0,MIA,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2018-11-10,16.0,Taki Taki,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
-2018-11-10,17.0,Trip,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']",R&B
-2018-11-10,18.0,Eastside,"benny blanco, Halsey ",['pop'],Pop
-2018-11-10,19.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']",Pop
-2018-11-10,20.0,God Is A Woman,Ariana Grande,['pop'],Pop
-2018-11-10,21.0,Shallow,Lady Gaga ,"['art pop', 'dance pop', 'pop']",Pop
-2018-11-10,22.0,Taste,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-11-10,23.0,In My Feelings,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-11-10,24.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-11-10,25.0,Nonstop,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-11-10,26.0,Wake Up In The Sky,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-11-10,27.0,FEFE,6i,['emo rap'],Hip Hop
-2018-11-10,28.0,Arms Around You,,[],기타
-2018-11-10,29.0,Broken,lovelytheband,"['modern alternative rock', 'modern rock', 'pov: indie']",Rock
-2018-11-10,30.0,Yes Indeed,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-11-10,31.0,Thriller,Michael Jackson,"['r&b', 'soul']",R&B
-2018-11-10,32.0,Breathin,Ariana Grande,['pop'],Pop
-2018-11-10,33.0,Beautiful,Bazzi ,['pop'],Pop
-2018-11-10,34.0,Big Bank,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-11-10,35.0,Back To You,Selena Gomez,"['pop', 'post-teen pop']",Pop
-2018-11-10,36.0,Uproar,Lil Wayne,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-11-10,37.0,She Got The Best Of Me ,Luke Combs,"['contemporary country', 'country']",Country
-2018-11-10,38.0,I Like Me Better,Lauv,['pop'],Pop
-2018-11-10,39.0,I'm A Mess,Bebe Re,"['dance pop', 'pop']",Pop
-2018-11-10,40.0,Ring,Cardi B ,"['pop', 'rap']",Pop
-2018-11-10,41.0,Boo'd Up,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']",R&B
-2018-11-10,42.0,Sad!,,[],기타
-2018-11-10,43.0,Delicate,Taylor Swift,['pop'],Pop
-2018-11-10,44.0,Psycho,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-11-10,45.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2018-11-10,46.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
-2018-11-10,47.0,I Love It,Kanye West ,"['chicago rap', 'hip hop', 'rap']",Hip Hop
-2018-11-10,48.0,Lost In Japan,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
-2018-11-10,49.0,Fine China,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-11-10,50.0,Speechless,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2018-11-10,51.0,Close Friends,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-11-10,52.0,Lie,NF,"['hip hop', 'pop rap']",Hip Hop
-2018-11-10,53.0,Best Shot,Jimmie Allen,"['black americana', 'contemporary country', 'country road', 'modern country rock']",Country
-2018-11-10,54.0,Last Memory,TakeOff,"['atl hip hop', 'rap', 'trap']",Hip Hop
-2018-11-10,55.0,Leave Me Alone,Flipp Dinero,"['melodic rap', 'trap']",Hip Hop
-2018-11-10,56.0,Better,Khalid,"['pop', 'pop r&b']",Pop
-2018-11-10,57.0,Smile (Living My Best Life),Lil' Duval ,"['florida rap', 'hip hop']",Hip Hop
-2018-11-10,58.0,When The Party's Over,Billie Eilish,"['art pop', 'pop']",Pop
-2018-11-10,59.0,Lose It,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
-2018-11-10,60.0,Never Recover,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-11-10,61.0,Drunk Me,Mitchell Tenpenny,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']",Country
-2018-11-10,63.0,Hangin' On,Chris Young,"['contemporary country', 'country', 'country road']",Country
-2018-11-10,64.0,Dangerous,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-11-10,65.0,STOOPID,6i,['emo rap'],Hip Hop
-2018-11-10,66.0,Drew Barrymore,Bryce Vine,['indie pop rap'],Pop
-2018-11-10,67.0,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",Rock
-2018-11-10,68.0,W O R K I N  M E,Quavo,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
-2018-11-10,69.0,Jackie Chan,Tiesto ,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",Electronic/Dance
-2018-11-10,70.0,Mona Lisa,Lil Wayne ,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-11-10,71.0,Blue Tacoma,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-11-10,72.0,I'll Never Love Again,Lady Gaga,"['art pop', 'dance pop', 'pop']",Pop
-2018-11-10,73.0,No Stylist,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-11-10,74.0,Always Remember Us This Way,Lady Gaga,"['art pop', 'dance pop', 'pop']",Pop
-2018-11-10,75.0,Falling Down,Lil Peep ,"['cloud rap', 'emo rap', 'lgbtq+ hip hop']",Hip Hop
-2018-11-10,76.0,Talk To Me,Tory Lanez ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
-2018-11-10,77.0,Rich,Maren Morris,"['classic texas country', 'contemporary country']",Country
-2018-11-10,78.0,No Brainer,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2018-11-10,79.0,Drunk Girl,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-11-10,80.0,Topanga,Trippie Redd,"['melodic rap', 'rap', 'trap']",Hip Hop
-2018-11-10,81.0,Backin' It Up,Pardison Fontaine ,['upstate ny rap'],Hip Hop
-2018-11-10,82.0,Noticed,Lil Mosey,"['melodic rap', 'rap conscient']",Hip Hop
-2018-11-10,83.0,Dip,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-11-10,84.0,Best Part,Daniel Caesar ,['canadian contemporary r&b'],R&B
-2018-11-10,85.0,Lucky You,Eminem ,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
-2018-11-10,86.0,Promises,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2018-11-10,87.0,Hotel Key,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-11-10,88.0,Killshot,Eminem,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
-2018-11-10,89.0,Waste It On Me,Steve Aoki ,"['edm', 'electro house', 'pop dance']",Electronic/Dance
-2018-11-10,90.0,A Million Dreams,P!nk,"['dance pop', 'pop']",Pop
-2018-11-10,91.0,Burning Man,Dierks Bentley ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-11-10,92.0,Venom,Eminem,"['detroit hip hop', 'hip hop', 'rap']",Hip Hop
-2018-11-10,93.0,New Patek,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2018-11-10,94.0,Be Alright,Dean Lewis,"['australian pop', 'pop']",Pop
-2018-11-10,95.0,Break Up In The End,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-11-10,96.0,Desperate Man,Eric Church,"['contemporary country', 'country', 'country road']",Country
-2018-11-10,97.0,Kamikaze,Lil Mosey,"['melodic rap', 'rap conscient']",Hip Hop
-2018-11-10,98.0,This Feeling,The Chainsmokers ,['pop'],Pop
-2018-11-10,99.0,Electricity,Silk City ,"['edm', 'uk dance']",Electronic/Dance
-2018-11-10,100.0,Drowns The Whiskey,Jason Aldean ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
+date,rank,song_title,artist,genres
+2018-11-10,1.0,Girls Like You,Maroon 5 ,['Pop']
+2018-11-10,2.0,Sicko Mode,Travis Scott,['Hip Hop']
+2018-11-10,3.0,Happier,Marshmello ,"['Electronic/Dance', 'Pop']"
+2018-11-10,4.0,Lucid Dreams,Juice WRLD,['Hip Hop']
+2018-11-10,5.0,Better Now,Post Malone,"['Pop', 'Hip Hop']"
+2018-11-10,6.0,ZEZE,Kodak Black ,['Hip Hop']
+2018-11-10,7.0,Youngblood,5 Seconds Of Summer,['Pop']
+2018-11-10,8.0,Drip Too Hard,Lil Baby ,['Hip Hop']
+2018-11-10,9.0,Without Me,Halsey,['Pop']
+2018-11-10,10.0,Mo Bamba,Sheck Wes,['Hip Hop']
+2018-11-10,11.0,High Hopes,Panic! At The Disco,['Pop']
+2018-11-10,12.0,Love Lies,Khalid ,['Pop']
+2018-11-10,13.0,Money,Cardi B,"['Pop', 'Hip Hop']"
+2018-11-10,14.0,Natural,Imagine Dragons,"['Rock', 'Pop']"
+2018-11-10,15.0,MIA,Bad Bunny ,
+2018-11-10,16.0,Taki Taki,DJ Snake ,"['Electronic/Dance', 'Pop']"
+2018-11-10,17.0,Trip,Ella Mai,"['R&B', 'Hip Hop']"
+2018-11-10,18.0,Eastside,"benny blanco, Halsey ",['Pop']
+2018-11-10,19.0,I Like It,"Cardi B, Bad Bunny ","['Pop', 'Hip Hop']"
+2018-11-10,20.0,God Is A Woman,Ariana Grande,['Pop']
+2018-11-10,21.0,Shallow,Lady Gaga ,['Pop']
+2018-11-10,22.0,Taste,Tyga ,['Hip Hop']
+2018-11-10,23.0,In My Feelings,Drake,['Hip Hop']
+2018-11-10,24.0,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['Pop', 'Hip Hop']"
+2018-11-10,25.0,Nonstop,Drake,['Hip Hop']
+2018-11-10,26.0,Wake Up In The Sky,Gucci Mane ,['Hip Hop']
+2018-11-10,27.0,FEFE,6i,
+2018-11-10,28.0,Arms Around You,,
+2018-11-10,29.0,Broken,lovelytheband,
+2018-11-10,30.0,Yes Indeed,Lil Baby ,['Hip Hop']
+2018-11-10,31.0,Thriller,Michael Jackson,['R&B']
+2018-11-10,32.0,Breathin,Ariana Grande,['Pop']
+2018-11-10,33.0,Beautiful,Bazzi ,['Pop']
+2018-11-10,34.0,Big Bank,YG ,['Hip Hop']
+2018-11-10,35.0,Back To You,Selena Gomez,['Pop']
+2018-11-10,36.0,Uproar,Lil Wayne,['Hip Hop']
+2018-11-10,37.0,She Got The Best Of Me ,Luke Combs,['Country']
+2018-11-10,38.0,I Like Me Better,Lauv,['Pop']
+2018-11-10,39.0,I'm A Mess,Bebe Re,['Pop']
+2018-11-10,40.0,Ring,Cardi B ,"['Pop', 'Hip Hop']"
+2018-11-10,41.0,Boo'd Up,Ella Mai,"['R&B', 'Hip Hop']"
+2018-11-10,42.0,Sad!,,
+2018-11-10,43.0,Delicate,Taylor Swift,['Pop']
+2018-11-10,44.0,Psycho,Post Malone ,"['Pop', 'Hip Hop']"
+2018-11-10,45.0,Tequila,Dan + Shay,['Country']
+2018-11-10,46.0,The Middle,"Zedd, Maren Morris ","['Electronic/Dance', 'Pop']"
+2018-11-10,47.0,I Love It,Kanye West ,['Hip Hop']
+2018-11-10,48.0,Lost In Japan,Shawn Mendes ,['Pop']
+2018-11-10,49.0,Fine China,Future ,['Hip Hop']
+2018-11-10,50.0,Speechless,Dan + Shay,['Country']
+2018-11-10,51.0,Close Friends,Lil Baby,['Hip Hop']
+2018-11-10,52.0,Lie,NF,['Hip Hop']
+2018-11-10,53.0,Best Shot,Jimmie Allen,
+2018-11-10,54.0,Last Memory,TakeOff,['Hip Hop']
+2018-11-10,55.0,Leave Me Alone,Flipp Dinero,
+2018-11-10,56.0,Better,Khalid,['Pop']
+2018-11-10,57.0,Smile (Living My Best Life),Lil' Duval ,['Hip Hop']
+2018-11-10,58.0,When The Party's Over,Billie Eilish,['Pop']
+2018-11-10,59.0,Lose It,Kane Brown,['Country']
+2018-11-10,60.0,Never Recover,Lil Baby ,['Hip Hop']
+2018-11-10,61.0,Drunk Me,Mitchell Tenpenny,
+,,That's On Me,Yella Beezy,
+2018-11-10,63.0,Hangin' On,Chris Young,['Country']
+2018-11-10,64.0,Dangerous,Meek Mill ,['Hip Hop']
+2018-11-10,65.0,STOOPID,6i,
+2018-11-10,66.0,Drew Barrymore,Bryce Vine,
+2018-11-10,67.0,You Say,Lauren Daigle,
+2018-11-10,68.0,W O R K I N  M E,Quavo,['Hip Hop']
+2018-11-10,69.0,Jackie Chan,Tiesto ,['Electronic/Dance']
+2018-11-10,70.0,Mona Lisa,Lil Wayne ,['Hip Hop']
+2018-11-10,71.0,Blue Tacoma,Russell Dickerson,['Country']
+2018-11-10,72.0,I'll Never Love Again,Lady Gaga,['Pop']
+2018-11-10,73.0,No Stylist,French Montana ,['Hip Hop']
+2018-11-10,74.0,Always Remember Us This Way,Lady Gaga,['Pop']
+2018-11-10,75.0,Falling Down,Lil Peep ,
+2018-11-10,76.0,Talk To Me,Tory Lanez ,"['R&B', 'Hip Hop']"
+2018-11-10,77.0,Rich,Maren Morris,
+2018-11-10,78.0,No Brainer,DJ Khaled ,['Hip Hop']
+2018-11-10,79.0,Drunk Girl,Chris Janson,['Country']
+2018-11-10,80.0,Topanga,Trippie Redd,['Hip Hop']
+2018-11-10,81.0,Backin' It Up,Pardison Fontaine ,
+2018-11-10,82.0,Noticed,Lil Mosey,
+2018-11-10,83.0,Dip,Tyga ,['Hip Hop']
+2018-11-10,84.0,Best Part,Daniel Caesar ,
+2018-11-10,85.0,Lucky You,Eminem ,['Hip Hop']
+2018-11-10,86.0,Promises,Calvin Harris ,"['Electronic/Dance', 'Pop']"
+2018-11-10,87.0,Hotel Key,Old Dominion,['Country']
+2018-11-10,88.0,Killshot,Eminem,['Hip Hop']
+2018-11-10,89.0,Waste It On Me,Steve Aoki ,['Electronic/Dance']
+2018-11-10,90.0,A Million Dreams,P!nk,['Pop']
+2018-11-10,91.0,Burning Man,Dierks Bentley ,['Country']
+2018-11-10,92.0,Venom,Eminem,['Hip Hop']
+2018-11-10,93.0,New Patek,Lil Uzi Vert,['Hip Hop']
+2018-11-10,94.0,Be Alright,Dean Lewis,['Pop']
+2018-11-10,95.0,Break Up In The End,Cole Swindell,['Country']
+2018-11-10,96.0,Desperate Man,Eric Church,['Country']
+2018-11-10,97.0,Kamikaze,Lil Mosey,
+2018-11-10,98.0,This Feeling,The Chainsmokers ,['Pop']
+2018-11-10,99.0,Electricity,Silk City ,['Electronic/Dance']
+2018-11-10,100.0,Drowns The Whiskey,Jason Aldean ,['Country']

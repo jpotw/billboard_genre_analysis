@@ -1,101 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2016-03-05,1.0,Work,Rihanna ,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2016-03-05,2.0,Love Yourself,Justin Bieber,"['canadian pop', 'pop']",Pop
-2016-03-05,3.0,Stressed Out,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2016-03-05,4.0,Sorry,Justin Bieber,"['canadian pop', 'pop']",Pop
-2016-03-05,5.0,My House,Flo Rida,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",Pop
-2016-03-05,6.0,Pillowtalk,Zayn,"['pop', 'uk pop']",Pop
-2016-03-05,7.0,Hello,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
-2016-03-05,8.0,"Me, Myself & I",G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
-2016-03-05,9.0,Roses,The Chainsmokers ,['pop'],Pop
-2016-03-05,10.0,Cake By The Ocean,DNCE,"['dance pop', 'pop']",Pop
-2016-03-05,11.0,Hands To Myself,Selena Gomez,"['pop', 'post-teen pop']",Pop
-2016-03-05,12.0,One Call Away,Charlie Puth,"['pop', 'viral pop']",Pop
-2016-03-05,13.0,Stitches,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2016-03-05,14.0,When We Were Young,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
-2016-03-05,15.0,In The Night,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-03-05,16.0,Don't,Bryson Tiller,"['kentucky hip hop', 'r&b', 'rap']",Hip Hop
-2016-03-05,17.0,Same Old Love,Selena Gomez,"['pop', 'post-teen pop']",Pop
-2016-03-05,18.0,Down In The DM,Yo Gotti ,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
-2016-03-05,19.0,Hotline Bling,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-03-05,20.0,7 Years,Lukas Graham,"['danish pop', 'scandipop']",Pop
-2016-03-05,21.0,Here,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-03-05,22.0,Uptown Funk!,Mark Ronson ,['pop soul'],Pop
-2016-03-05,23.0,Jumpman,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-03-05,24.0,I Took A Pill In Ibiza,Mike Posner,"['dance pop', 'pop', 'pop dance', 'pop rap']",Pop
-2016-03-05,25.0,What Do You Mean?,Justin Bieber,"['canadian pop', 'pop']",Pop
-2016-03-05,26.0,Hide Away,Daya,"['alt z', 'pop']",Pop
-2016-03-05,27.0,The Hills,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-03-05,28.0,Adventure Of A Lifetime,Coldplay,"['permanent wave', 'pop']",Pop
-2016-03-05,29.0,Like I'm Gonna Lose You,Meghan Trainor ,"['hip pop', 'pop']",Pop
-2016-03-05,30.0,Say It,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
-2016-03-05,31.0,Summer Sixteen,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-03-05,32.0,Can't Feel My Face,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-03-05,33.0,Ex's & Oh's,Elle King,['country'],Country
-2016-03-05,34.0,679,Fetty Wap ,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-03-05,35.0,Die A Happy Man,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,36.0,Antidote,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2016-03-05,37.0,I Know What You Did Last Summer,Shawn Mendes ,"['canadian pop', 'pop', 'viral pop']",Pop
-2016-03-05,38.0,Let It Go,James Bay,"['neo mellow', 'pop', 'uk pop']",Pop
-2016-03-05,39.0,White Iverson,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2016-03-05,40.0,2 Phones,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-03-05,41.0,Stand By You,Rachel Platten,"['post-teen pop', 'viral pop']",Pop
-2016-03-05,42.0,Heartbeat,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
-2016-03-05,43.0,Exchange,Bryson Tiller,"['kentucky hip hop', 'r&b', 'rap']",Hip Hop
-2016-03-05,44.0,See You Again,Wiz Khalifa ,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-03-05,45.0,Oui,Jeremih,"['chicago rap', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']",Hip Hop
-2016-03-05,46.0,Wildest Dreams,Taylor Swift,['pop'],Pop
-2016-03-05,47.0,Break Up In A Small Town,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
-2016-03-05,48.0,On My Mind,Ellie Goulding,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
-2016-03-05,49.0,Lean On,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
-2016-03-05,50.0,Back To Sleep,Chris Brown,"['r&b', 'rap']",R&B
-2016-03-05,51.0,Best Friend,Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2016-03-05,52.0,Home Alone Tonight,Luke Bryan ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,53.0,Out Of The Woods,Taylor Swift,['pop'],Pop
-2016-03-05,54.0,Make Me Like You,Gwen Stefani,"['dance pop', 'pop']",Pop
-2016-03-05,55.0,You Should Be Here,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,56.0,Sugar,Robin Schulz ,"['deep euro house', 'deep house', 'edm', 'german dance', 'pop dance', 'tropical house']",Electronic/Dance
-2016-03-05,57.0,Backroad Song,Granger Smith,"['classic texas country', 'contemporary country', 'country road', 'modern country rock']",Country
-2016-03-05,58.0,Get Ugly,Jason Derulo,"['dance pop', 'pop']",Pop
-2016-03-05,59.0,Low Life,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-03-05,60.0,Dibs,Kelsea Ballerini,"['contemporary country', 'country']",Country
-2016-03-05,61.0,Drunk On Your Love,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,62.0,Something In The Way You Move,Ellie Goulding,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
-2016-03-05,63.0,My Church,Maren Morris,"['classic texas country', 'contemporary country']",Country
-2016-03-05,64.0,Beautiful Drug,Zac Brown Band,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,65.0,Jimmy Choo,Fetty Wap,"['new jersey rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-03-05,66.0,Break On Me.,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,67.0,Really Really,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-03-05,68.0,Hollow,Tori Kelly,"['pop', 'post-teen pop']",Pop
-2016-03-05,69.0,Confession,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2016-03-05,70.0,Middle,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
-2016-03-05,71.0,We Went,Randy Houser,"['contemporary country', 'country', 'country road']",Country
-2016-03-05,72.0,Perfect,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Pop
-2016-03-05,73.0,Nobody To Blame,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
-2016-03-05,74.0,Needed Me,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2016-03-05,75.0,Confident,Demi Lovato,"['pop', 'post-teen pop']",Pop
-2016-03-05,76.0,Stay A Little Longer,Brothers Osborne,"['contemporary country', 'country', 'country road', 'modern country rock', 'modern southern rock']",Country
-2016-03-05,77.0,All I Ask,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
-2016-03-05,78.0,I Like The Sound Of That,Rascal Flatts,"['contemporary country', 'country', 'country road']",Country
-2016-03-05,79.0,Snapback,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,80.0,Youth,Troye Sivan,"['australian pop', 'pop', 'viral pop']",Pop
-2016-03-05,81.0,Cheap Thrills,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
-2016-03-05,82.0,Acquainted,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-03-05,83.0,Never Forget You,Zara Larsson ,"['pop', 'scandipop', 'swedish electropop', 'swedish pop']",Pop
-2016-03-05,84.0,Sorry Not Sorry,Bryson Tiller,"['kentucky hip hop', 'r&b', 'rap']",Hip Hop
-2016-03-05,85.0,Might Be,DJ Luke Nasty,"['north carolina hip hop', 'trap']",Hip Hop
-2016-03-05,86.0,Think Of You,Chris Young Duet With Cassadee Pope,"['contemporary country', 'country', 'country road']",Country
-2016-03-05,87.0,Somewhere On A Beach,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,88.0,Humble And Kind,Tim McGraw,"['contemporary country', 'country', 'country road']",Country
-2016-03-05,89.0,Little Bit Of You,Chase Bryant,"['contemporary country', 'country road', 'modern country rock']",Country
-2016-03-05,90.0,Good To Be Alive (Hallelujah),Andy Grammer,"['neo mellow', 'post-teen pop', 'viral pop']",Pop
-2016-03-05,91.0,Watch Out,2 Chainz,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-03-05,92.0,Promise,Kid Ink ,"['pop rap', 'rap', 'southern hip hop', 'trap']",Pop
-2016-03-05,93.0,Bang My Head,David Guetta ,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",Pop
-2016-03-05,94.0,Irresistible,Fall Out Boy,"['emo', 'modern rock', 'pop', 'rock']",Rock
-2016-03-05,95.0,$ave Dat Money,Lil Dicky ,"['comedy rap', 'indie pop rap', 'pop rap']",Hip Hop
-2016-03-05,96.0,History,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Pop
-2016-03-05,97.0,Do It Like Me,DLOW,['chicago bop'],기타
-2016-03-05,98.0,That Don't Sound Like You,Lee Brice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-03-05,99.0,I Love This Life,LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']",Country
-2016-03-05,100.0,Dessert,Dawin,['nyc pop'],Pop
+date,rank,song_title,artist,genres
+2016-03-05,1.0,Work,Rihanna ,['Pop']
+2016-03-05,2.0,Love Yourself,Justin Bieber,['Pop']
+2016-03-05,3.0,Stressed Out,twenty one pilots,"['Rock', 'Pop']"
+2016-03-05,4.0,Sorry,Justin Bieber,['Pop']
+2016-03-05,5.0,My House,Flo Rida,['Pop']
+2016-03-05,6.0,Pillowtalk,Zayn,['Pop']
+2016-03-05,7.0,Hello,Adele,['Pop']
+2016-03-05,8.0,"Me, Myself & I",G-Eazy ,['Hip Hop']
+2016-03-05,9.0,Roses,The Chainsmokers ,['Pop']
+2016-03-05,10.0,Cake By The Ocean,DNCE,['Pop']
+2016-03-05,11.0,Hands To Myself,Selena Gomez,['Pop']
+2016-03-05,12.0,One Call Away,Charlie Puth,['Pop']
+2016-03-05,13.0,Stitches,Shawn Mendes,['Pop']
+2016-03-05,14.0,When We Were Young,Adele,['Pop']
+2016-03-05,15.0,In The Night,The Weeknd,['Pop']
+2016-03-05,16.0,Don't,Bryson Tiller,"['R&B', 'Hip Hop']"
+2016-03-05,17.0,Same Old Love,Selena Gomez,['Pop']
+2016-03-05,18.0,Down In The DM,Yo Gotti ,['Hip Hop']
+2016-03-05,19.0,Hotline Bling,Drake,['Hip Hop']
+2016-03-05,20.0,7 Years,Lukas Graham,
+2016-03-05,21.0,Here,Alessia Cara,['Pop']
+2016-03-05,22.0,Uptown Funk!,Mark Ronson ,
+2016-03-05,23.0,Jumpman,Drake ,['Hip Hop']
+2016-03-05,24.0,I Took A Pill In Ibiza,Mike Posner,['Pop']
+2016-03-05,25.0,What Do You Mean?,Justin Bieber,['Pop']
+2016-03-05,26.0,Hide Away,Daya,['Pop']
+2016-03-05,27.0,The Hills,The Weeknd,['Pop']
+2016-03-05,28.0,Adventure Of A Lifetime,Coldplay,['Pop']
+2016-03-05,29.0,Like I'm Gonna Lose You,Meghan Trainor ,['Pop']
+2016-03-05,30.0,Say It,Tory Lanez,"['R&B', 'Hip Hop']"
+2016-03-05,31.0,Summer Sixteen,Drake,['Hip Hop']
+2016-03-05,32.0,Can't Feel My Face,The Weeknd,['Pop']
+2016-03-05,33.0,Ex's & Oh's,Elle King,['Country']
+2016-03-05,34.0,679,Fetty Wap ,['Hip Hop']
+2016-03-05,35.0,Die A Happy Man,Thomas Rhett,['Country']
+2016-03-05,36.0,Antidote,Travis Scott,['Hip Hop']
+2016-03-05,37.0,I Know What You Did Last Summer,Shawn Mendes ,['Pop']
+2016-03-05,38.0,Let It Go,James Bay,['Pop']
+2016-03-05,39.0,White Iverson,Post Malone,"['Pop', 'Hip Hop']"
+2016-03-05,40.0,2 Phones,Kevin Gates,['Hip Hop']
+2016-03-05,41.0,Stand By You,Rachel Platten,
+2016-03-05,42.0,Heartbeat,Carrie Underwood,"['Pop', 'Country']"
+2016-03-05,43.0,Exchange,Bryson Tiller,"['R&B', 'Hip Hop']"
+2016-03-05,44.0,See You Again,Wiz Khalifa ,['Hip Hop']
+2016-03-05,45.0,Oui,Jeremih,['R&B']
+2016-03-05,46.0,Wildest Dreams,Taylor Swift,['Pop']
+2016-03-05,47.0,Break Up In A Small Town,Sam Hunt,['Country']
+2016-03-05,48.0,On My Mind,Ellie Goulding,['Pop']
+2016-03-05,49.0,Lean On,Major Lazer ,"['Electronic/Dance', 'Pop']"
+2016-03-05,50.0,Back To Sleep,Chris Brown,"['R&B', 'Hip Hop']"
+2016-03-05,51.0,Best Friend,Young Thug,['Hip Hop']
+2016-03-05,52.0,Home Alone Tonight,Luke Bryan ,['Country']
+2016-03-05,53.0,Out Of The Woods,Taylor Swift,['Pop']
+2016-03-05,54.0,Make Me Like You,Gwen Stefani,['Pop']
+2016-03-05,55.0,You Should Be Here,Cole Swindell,['Country']
+2016-03-05,56.0,Sugar,Robin Schulz ,['Electronic/Dance']
+2016-03-05,57.0,Backroad Song,Granger Smith,
+2016-03-05,58.0,Get Ugly,Jason Derulo,['Pop']
+2016-03-05,59.0,Low Life,Future ,['Hip Hop']
+2016-03-05,60.0,Dibs,Kelsea Ballerini,['Country']
+2016-03-05,61.0,Drunk On Your Love,Brett Eldredge,['Country']
+2016-03-05,62.0,Something In The Way You Move,Ellie Goulding,['Pop']
+2016-03-05,63.0,My Church,Maren Morris,
+2016-03-05,64.0,Beautiful Drug,Zac Brown Band,['Country']
+2016-03-05,65.0,Jimmy Choo,Fetty Wap,['Hip Hop']
+2016-03-05,66.0,Break On Me.,Keith Urban,['Country']
+2016-03-05,67.0,Really Really,Kevin Gates,['Hip Hop']
+2016-03-05,68.0,Hollow,Tori Kelly,['Pop']
+2016-03-05,69.0,Confession,Florida Georgia Line,['Country']
+2016-03-05,70.0,Middle,DJ Snake ,"['Electronic/Dance', 'Pop']"
+2016-03-05,71.0,We Went,Randy Houser,['Country']
+2016-03-05,72.0,Perfect,One Direction,['Pop']
+2016-03-05,73.0,Nobody To Blame,Chris Stapleton,
+2016-03-05,74.0,Needed Me,Rihanna,['Pop']
+2016-03-05,75.0,Confident,Demi Lovato,['Pop']
+2016-03-05,76.0,Stay A Little Longer,Brothers Osborne,['Country']
+2016-03-05,77.0,All I Ask,Adele,['Pop']
+2016-03-05,78.0,I Like The Sound Of That,Rascal Flatts,['Country']
+2016-03-05,79.0,Snapback,Old Dominion,['Country']
+2016-03-05,80.0,Youth,Troye Sivan,['Pop']
+2016-03-05,81.0,Cheap Thrills,Sia ,['Pop']
+2016-03-05,82.0,Acquainted,The Weeknd,['Pop']
+2016-03-05,83.0,Never Forget You,Zara Larsson ,['Pop']
+2016-03-05,84.0,Sorry Not Sorry,Bryson Tiller,"['R&B', 'Hip Hop']"
+2016-03-05,85.0,Might Be,DJ Luke Nasty,
+2016-03-05,86.0,Think Of You,Chris Young Duet With Cassadee Pope,['Country']
+2016-03-05,87.0,Somewhere On A Beach,Dierks Bentley,['Country']
+2016-03-05,88.0,Humble And Kind,Tim McGraw,['Country']
+2016-03-05,89.0,Little Bit Of You,Chase Bryant,
+2016-03-05,90.0,Good To Be Alive (Hallelujah),Andy Grammer,
+2016-03-05,91.0,Watch Out,2 Chainz,['Hip Hop']
+2016-03-05,92.0,Promise,Kid Ink ,['Hip Hop']
+2016-03-05,93.0,Bang My Head,David Guetta ,"['Electronic/Dance', 'Pop']"
+2016-03-05,94.0,Irresistible,Fall Out Boy,"['Rock', 'Pop']"
+2016-03-05,95.0,$ave Dat Money,Lil Dicky ,
+2016-03-05,96.0,History,One Direction,['Pop']
+2016-03-05,97.0,Do It Like Me,DLOW,
+2016-03-05,98.0,That Don't Sound Like You,Lee Brice,['Country']
+2016-03-05,99.0,I Love This Life,LOCASH,
+2016-03-05,100.0,Dessert,Dawin,

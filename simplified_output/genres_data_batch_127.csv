@@ -1,96 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2018-06-02,1.0,Nice For What,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-06-02,2.0,This Is America,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2018-06-02,3.0,God's Plan,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-06-02,4.0,Psycho,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,5.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
-2018-06-02,6.0,Yes Indeed,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-06-02,7.0,Meant To Be,Bebe Re,"['dance pop', 'pop']",Pop
-2018-06-02,9.0,No Tears Left To Cry,Ariana Grande,['pop'],Pop
-2018-06-02,10.0,Fake Love,BTS,"['k-pop', 'k-pop boy group', 'pop']",Pop
-2018-06-02,11.0,Friends,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2018-06-02,12.0,Look Alive,BlocBoy JB ,"['memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",Hip Hop
-2018-06-02,13.0,Never Be The Same,Camila Cabello,"['dance pop', 'pop']",Pop
-2018-06-02,14.0,Walk It Talk It,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-06-02,15.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2018-06-02,16.0,Be Careful,Cardi B,"['pop', 'rap']",Pop
-2018-06-02,17.0,Whatever It Takes,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
-2018-06-02,18.0,Mine,Bazzi,['pop'],Pop
-2018-06-02,19.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']",Pop
-2018-06-02,20.0,In My Blood,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2018-06-02,21.0,Heaven,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
-2018-06-02,22.0,Freaky Friday,Lil Dicky ,"['comedy rap', 'indie pop rap', 'pop rap']",Hip Hop
-2018-06-02,23.0,Rockstar,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,24.0,Havana,Camila Cabello ,"['dance pop', 'pop']",Pop
-2018-06-02,25.0,Pray For Me,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2018-06-02,26.0,Plug Walk,Rich The Kid,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",Hip Hop
-2018-06-02,27.0,Wait,Maroon 5,['pop'],Pop
-2018-06-02,28.0,Chun-Li,Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']",Pop
-2018-06-02,29.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,30.0,Call Out My Name,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2018-06-02,31.0,New Rules,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
-2018-06-02,32.0,Sad!,,[],기타
-2018-06-02,33.0,All The Stars,Kendrick Lamar ,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",Hip Hop
-2018-06-02,34.0,Delicate,Taylor Swift,['pop'],Pop
-2018-06-02,35.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-06-02,36.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
-2018-06-02,37.0,Finesse,Bruno Mars ,"['dance pop', 'pop']",Pop
-2018-06-02,38.0,One Number Away,Luke Combs,"['contemporary country', 'country']",Country
-2018-06-02,39.0,You Make It Easy,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-06-02,41.0,Powerglide,Rae Sremmurd ,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-06-02,42.0,Overdose,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
-2018-06-02,43.0,One Kiss,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2018-06-02,44.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2018-06-02,45.0,Ric Flair Drip,Offset ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-06-02,46.0,Back To You,Selena Gomez,"['pop', 'post-teen pop']",Pop
-2018-06-02,47.0,Dura,Daddy Yankee,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
-2018-06-02,48.0,X,Nicky Jam ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
-2018-06-02,49.0,KOD,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2018-06-02,50.0,Ball For Me,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,51.0,IDGAF,Dua Lipa,"['dance pop', 'pop', 'uk pop']",Pop
-2018-06-02,52.0,Japan,Famous De,"['chicago rap', 'drill', 'rap', 'trap']",Hip Hop
-2018-06-02,53.0,All Girls Are The Same,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-06-02,54.0,Done For Me,Charlie Puth ,"['pop', 'viral pop']",Pop
-2018-06-02,55.0,I Like Me Better,Lauv,['pop'],Pop
-2018-06-02,56.0,Esskeetit,Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-06-02,57.0,Up Down,Morgan Wallen ,['contemporary country'],Country
-2018-06-02,58.0,For The First Time,Darius Rucker,"['black americana', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-06-02,59.0,Get Along,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-06-02,60.0,Watch,Travis Scott ,"['hip hop', 'rap', 'slap house']",Hip Hop
-2018-06-02,62.0,Dame Tu Cosita,Pitbull ,"['dance pop', 'miami hip hop', 'pop']",Pop
-2018-06-02,63.0,Sit Next To Me,Foster The People,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']",Rock
-2018-06-02,64.0,I Lived It,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-06-02,65.0,Rich & Sad,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,66.0,Paranoid,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,67.0,Shoota,Playboi Carti ,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",Hip Hop
-2018-06-02,68.0,Change Lanes,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-06-02,69.0,OTW,"Khalid, Ty Dolla $ign ","['pop', 'pop r&b']",Pop
-2018-06-02,70.0,Alone,Halsey ,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2018-06-02,71.0,Mercy,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-06-02,72.0,Drip,Cardi B ,"['pop', 'rap']",Pop
-2018-06-02,73.0,Like That,Kris Wu,"['chinese hip hop', 'chinese idol pop']",Hip Hop
-2018-06-02,74.0,"Woman, Amen",Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-06-02,75.0,New Freezer,Rich The Kid ,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",Hip Hop
-2018-06-02,77.0,Spoil My Night,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,78.0,Singles You Up,Jordan Davis,['contemporary country'],Country
-2018-06-02,79.0,Southside,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-06-02,80.0,Life Goes On,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-06-02,81.0,Most People Are Good,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-06-02,82.0,Let It Sing,Kevin Gates,"['baton rouge rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-06-02,83.0,Sangria Wine,Pharrell Williams ,"['dance pop', 'pop']",Pop
-2018-06-02,84.0,Welcome To The Party,"Diplo, French Montana ","['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",Pop
-2018-06-02,85.0,Zombie,Bad Wolves,"['alternative metal', 'metal', 'post-grunge']",기타
-2018-06-02,86.0,Champion,NAV ,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2018-06-02,87.0,Red Roses,Lil Skies ,['melodic rap'],Hip Hop
-2018-06-02,88.0,Stay,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-06-02,89.0,ATM,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2018-06-02,90.0,Sativa,Jhene Aiko ,['r&b'],R&B
-2018-06-02,91.0,Everyday,Logic ,"['conscious hip hop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-06-02,92.0,Kevin's Heart,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2018-06-02,93.0,No Excuses,Meghan Trainor,"['hip pop', 'pop']",Pop
-2018-06-02,94.0,Moonlight,,[],기타
-2018-06-02,95.0,Lust,Lil Skies,['melodic rap'],Hip Hop
-2018-06-02,96.0,Gucci Flip Flops,Bhad Bhabie ,"['trap queen', 'viral rap']",Hip Hop
-2018-06-02,97.0,Outside Today,YoungBoy Never Broke Again,"['baton rouge rap', 'rap']",Hip Hop
-2018-06-02,98.0,Downtown's Dead,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
-2018-06-02,100.0,El Farsante,Ozuna ,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
+date,rank,song_title,artist,genres
+2018-06-02,1.0,Nice For What,Drake,['Hip Hop']
+2018-06-02,2.0,This Is America,Childish Gambino,['Hip Hop']
+2018-06-02,3.0,God's Plan,Drake,['Hip Hop']
+2018-06-02,4.0,Psycho,Post Malone ,"['Pop', 'Hip Hop']"
+2018-06-02,5.0,The Middle,"Zedd, Maren Morris ","['Electronic/Dance', 'Pop']"
+2018-06-02,6.0,Yes Indeed,Lil Baby ,['Hip Hop']
+2018-06-02,7.0,Meant To Be,Bebe Re,['Pop']
+,,Boo'd Up,Ella Mai,
+2018-06-02,9.0,No Tears Left To Cry,Ariana Grande,['Pop']
+2018-06-02,10.0,Fake Love,BTS,['Pop']
+2018-06-02,11.0,Friends,Marshmello ,"['Electronic/Dance', 'Pop']"
+2018-06-02,12.0,Look Alive,BlocBoy JB ,['Hip Hop']
+2018-06-02,13.0,Never Be The Same,Camila Cabello,['Pop']
+2018-06-02,14.0,Walk It Talk It,Migos ,['Hip Hop']
+2018-06-02,15.0,Perfect,Ed Sheeran,['Pop']
+2018-06-02,16.0,Be Careful,Cardi B,"['Pop', 'Hip Hop']"
+2018-06-02,17.0,Whatever It Takes,Imagine Dragons,"['Rock', 'Pop']"
+2018-06-02,18.0,Mine,Bazzi,['Pop']
+2018-06-02,19.0,I Like It,"Cardi B, Bad Bunny ","['Pop', 'Hip Hop']"
+2018-06-02,20.0,In My Blood,Shawn Mendes,['Pop']
+2018-06-02,21.0,Heaven,Kane Brown,['Country']
+2018-06-02,22.0,Freaky Friday,Lil Dicky ,
+2018-06-02,23.0,Rockstar,Post Malone ,"['Pop', 'Hip Hop']"
+2018-06-02,24.0,Havana,Camila Cabello ,['Pop']
+2018-06-02,25.0,Pray For Me,The Weeknd ,['Pop']
+2018-06-02,26.0,Plug Walk,Rich The Kid,['Hip Hop']
+2018-06-02,27.0,Wait,Maroon 5,['Pop']
+2018-06-02,28.0,Chun-Li,Nicki Minaj,"['Pop', 'Hip Hop']"
+2018-06-02,29.0,Better Now,Post Malone,"['Pop', 'Hip Hop']"
+2018-06-02,30.0,Call Out My Name,The Weeknd,['Pop']
+2018-06-02,31.0,New Rules,Dua Lipa,['Pop']
+2018-06-02,32.0,Sad!,,
+2018-06-02,33.0,All The Stars,Kendrick Lamar ,['Hip Hop']
+2018-06-02,34.0,Delicate,Taylor Swift,['Pop']
+2018-06-02,35.0,Lucid Dreams,Juice WRLD,['Hip Hop']
+2018-06-02,36.0,Love Lies,Khalid ,['Pop']
+2018-06-02,37.0,Finesse,Bruno Mars ,['Pop']
+2018-06-02,38.0,One Number Away,Luke Combs,['Country']
+2018-06-02,39.0,You Make It Easy,Jason Aldean,['Country']
+,,Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna ",
+2018-06-02,41.0,Powerglide,Rae Sremmurd ,['Hip Hop']
+2018-06-02,42.0,Overdose,YoungBoy Never Broke Again,['Hip Hop']
+2018-06-02,43.0,One Kiss,Calvin Harris ,"['Electronic/Dance', 'Pop']"
+2018-06-02,44.0,Tequila,Dan + Shay,['Country']
+2018-06-02,45.0,Ric Flair Drip,Offset ,['Hip Hop']
+2018-06-02,46.0,Back To You,Selena Gomez,['Pop']
+2018-06-02,47.0,Dura,Daddy Yankee,
+2018-06-02,48.0,X,Nicky Jam ,
+2018-06-02,49.0,KOD,J. Cole,['Hip Hop']
+2018-06-02,50.0,Ball For Me,Post Malone ,"['Pop', 'Hip Hop']"
+2018-06-02,51.0,IDGAF,Dua Lipa,['Pop']
+2018-06-02,52.0,Japan,Famous De,['Hip Hop']
+2018-06-02,53.0,All Girls Are The Same,Juice WRLD,['Hip Hop']
+2018-06-02,54.0,Done For Me,Charlie Puth ,['Pop']
+2018-06-02,55.0,I Like Me Better,Lauv,['Pop']
+2018-06-02,56.0,Esskeetit,Lil Pump,['Hip Hop']
+2018-06-02,57.0,Up Down,Morgan Wallen ,
+2018-06-02,58.0,For The First Time,Darius Rucker,['Country']
+2018-06-02,59.0,Get Along,Kenny Chesney,['Country']
+2018-06-02,60.0,Watch,Travis Scott ,['Hip Hop']
+,,King's Dead,"Jay Rock, Kendrick Lamar, Future ",
+2018-06-02,62.0,Dame Tu Cosita,Pitbull ,['Pop']
+2018-06-02,63.0,Sit Next To Me,Foster The People,['Rock']
+2018-06-02,64.0,I Lived It,Blake Shelton,['Country']
+2018-06-02,65.0,Rich & Sad,Post Malone,"['Pop', 'Hip Hop']"
+2018-06-02,66.0,Paranoid,Post Malone,"['Pop', 'Hip Hop']"
+2018-06-02,67.0,Shoota,Playboi Carti ,['Hip Hop']
+2018-06-02,68.0,Change Lanes,Kevin Gates,['Hip Hop']
+2018-06-02,69.0,OTW,"Khalid, Ty Dolla $ign ",['Pop']
+2018-06-02,70.0,Alone,Halsey ,['Pop']
+2018-06-02,71.0,Mercy,Brett Young,['Country']
+2018-06-02,72.0,Drip,Cardi B ,"['Pop', 'Hip Hop']"
+2018-06-02,73.0,Like That,Kris Wu,
+2018-06-02,74.0,"Woman, Amen",Dierks Bentley,['Country']
+2018-06-02,75.0,New Freezer,Rich The Kid ,['Hip Hop']
+,,Everything's Gonna Be Alright,David Lee Murphy ,
+2018-06-02,77.0,Spoil My Night,Post Malone ,"['Pop', 'Hip Hop']"
+2018-06-02,78.0,Singles You Up,Jordan Davis,
+2018-06-02,79.0,Southside,Lil Baby,['Hip Hop']
+2018-06-02,80.0,Life Goes On,Lil Baby ,['Hip Hop']
+2018-06-02,81.0,Most People Are Good,Luke Bryan,['Country']
+2018-06-02,82.0,Let It Sing,Kevin Gates,['Hip Hop']
+2018-06-02,83.0,Sangria Wine,Pharrell Williams ,['Pop']
+2018-06-02,84.0,Welcome To The Party,"Diplo, French Montana ",['Electronic/Dance']
+2018-06-02,85.0,Zombie,Bad Wolves,
+2018-06-02,86.0,Champion,NAV ,['Hip Hop']
+2018-06-02,87.0,Red Roses,Lil Skies ,
+2018-06-02,88.0,Stay,Post Malone,"['Pop', 'Hip Hop']"
+2018-06-02,89.0,ATM,J. Cole,['Hip Hop']
+2018-06-02,90.0,Sativa,Jhene Aiko ,['R&B']
+2018-06-02,91.0,Everyday,Logic ,['Hip Hop']
+2018-06-02,92.0,Kevin's Heart,J. Cole,['Hip Hop']
+2018-06-02,93.0,No Excuses,Meghan Trainor,['Pop']
+2018-06-02,94.0,Moonlight,,
+2018-06-02,95.0,Lust,Lil Skies,
+2018-06-02,96.0,Gucci Flip Flops,Bhad Bhabie ,
+2018-06-02,97.0,Outside Today,YoungBoy Never Broke Again,['Hip Hop']
+2018-06-02,98.0,Downtown's Dead,Sam Hunt,['Country']
+,,Don't Go Breaking My Heart,Backstreet Boys,
+2018-06-02,100.0,El Farsante,Ozuna ,

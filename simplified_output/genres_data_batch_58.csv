@@ -1,97 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2017-02-04,1.0,Bad And Boujee,Migos ,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2017-02-04,2.0,Shape Of You,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2017-02-04,3.0,Black Beatles,Rae Sremmurd ,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2017-02-04,4.0,Closer,The Chainsmokers ,['pop'],Pop
-2017-02-04,5.0,Starboy,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2017-02-04,7.0,Paris,The Chainsmokers,['pop'],Pop
-2017-02-04,8.0,I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,"['pop', 'uk pop']",Pop
-2017-02-04,9.0,Don't Wanna Know,Maroon 5 ,['pop'],Pop
-2017-02-04,10.0,24K Magic,Bruno Mars,"['dance pop', 'pop']",Pop
-2017-02-04,11.0,Fake Love,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2017-02-04,12.0,Side To Side,Ariana Grande ,['pop'],Pop
-2017-02-04,13.0,Scars To Your Beautiful,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2017-02-04,14.0,Caroline,Amine,"['pop rap', 'portland hip hop', 'rap', 'underground hip hop']",Pop
-2017-02-04,15.0,Bounce Back,Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2017-02-04,16.0,Let Me Love You,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
-2017-02-04,17.0,Love On The Brain,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2017-02-04,18.0,Juju On That Beat (TZ Anthem),Zay Hilfigerrr ,['viral trap'],Hip Hop
-2017-02-04,19.0,I Feel It Coming,The Weeknd ,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2017-02-04,20.0,Heathens,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2017-02-04,22.0,All Time Low,Jon Bellion,['indie pop rap'],Pop
-2017-02-04,23.0,Starving,Hailee Steinfeld ,['pop'],Pop
-2017-02-04,24.0,Can't Stop The Feeling!,Justin Timberlake,"['dance pop', 'pop']",Pop
-2017-02-04,25.0,Mercy,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2017-02-04,26.0,Treat You Better,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2017-02-04,27.0,Cheap Thrills,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
-2017-02-04,28.0,Castle On The Hill,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2017-02-04,29.0,This Town,Niall Horan,['pop'],Pop
-2017-02-04,30.0,Say You Won't Let Go,James Arthur,"['pop', 'talent show', 'uk pop']",Pop
-2017-02-04,31.0,Love Me Now,John Legend,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",Pop
-2017-02-04,32.0,iSpy,KYLE ,"['deep underground hip hop', 'indie pop rap', 'pop rap', 'viral trap']",Hip Hop
-2017-02-04,33.0,Don't Let Me Down,The Chainsmokers ,['pop'],Pop
-2017-02-04,34.0,Water Under The Bridge,Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
-2017-02-04,35.0,Blue Ain't Your Color,Keith Urban,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,36.0,Party Monster,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2017-02-04,37.0,X,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2017-02-04,38.0,Rockabye,Clean Bandit ,"['pop', 'uk dance', 'uk funky']",Pop
-2017-02-04,39.0,The Greatest,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
-2017-02-04,40.0,Chill Bill,Rob $tone ,"['san diego rap', 'viral trap']",Hip Hop
-2017-02-04,41.0,Better Man,Little Big Town,"['contemporary country', 'country', 'country dawn', 'country road']",Country
-2017-02-04,42.0,Cold Water,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
-2017-02-04,43.0,T-Shirt,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2017-02-04,44.0,Both,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2017-02-04,45.0,Party,Chris Brown ,"['r&b', 'rap']",R&B
-2017-02-04,46.0,You Was Right,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2017-02-04,47.0,In The Name Of Love,Martin Garri,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Electronic/Dance
-2017-02-04,48.0,Deja Vu,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2017-02-04,49.0,Used To This,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2017-02-04,50.0,No Heart,21 Savage ,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2017-02-04,51.0,A Guy With A Girl,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,52.0,Chantaje,Shakira ,"['colombian pop', 'dance pop', 'latin pop', 'pop']",Pop
-2017-02-04,53.0,I Got You,Bebe Re,"['dance pop', 'pop']",Pop
-2017-02-04,54.0,HandClap,Fitz And The Tantrums,"['la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'pov: indie']",Rock
-2017-02-04,55.0,Star Of The Show,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,56.0,How Far I'll Go,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2017-02-04,57.0,Dirt On My Boots,Jon Pardi,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,58.0,Dirty Laundry,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
-2017-02-04,59.0,Selfish,PnB Rock,"['melodic rap', 'rap', 'trap']",Hip Hop
-2017-02-04,60.0,Alone,Marshmello,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2017-02-04,61.0,Swang,Rae Sremmurd,"['melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2017-02-04,62.0,Make Me (Cry),Noah Cyrus ,"['alt z', 'pop']",Pop
-2017-02-04,63.0,Redbone,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2017-02-04,64.0,Wanna Be That Song,Brett Eldredge,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,65.0,Moves,Big Sean,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2017-02-04,66.0,Seein' Red,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,68.0,Fresh Eyes,Andy Grammer,"['neo mellow', 'post-teen pop', 'viral pop']",Pop
-2017-02-04,69.0,Play That Song,Train,"['dance pop', 'neo mellow', 'pop', 'pop rock']",Pop
-2017-02-04,70.0,Location,Khalid,"['pop', 'pop r&b']",Pop
-2017-02-04,71.0,Goosebumps,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2017-02-04,72.0,OTW,DJ Luke Nasty,"['north carolina hip hop', 'trap']",Hip Hop
-2017-02-04,73.0,Sneakin',Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2017-02-04,74.0,Kill A Word,Eric Church ,"['contemporary country', 'country', 'country road']",Country
-2017-02-04,75.0,Sober Saturday Night,Chris Young ,"['contemporary country', 'country', 'country road']",Country
-2017-02-04,76.0,Think A Little Less,Michael Ray,"['contemporary country', 'country road', 'modern country rock']",Country
-2017-02-04,77.0,Not Afraid Anymore,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2017-02-04,78.0,Red Opps,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2017-02-04,79.0,Call On Me,Starley,['aussietronica'],기타
-2017-02-04,80.0,Water,Ugly God,"['trap', 'underground hip hop']",Hip Hop
-2017-02-04,81.0,Congratulations,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2017-02-04,82.0,80s Mercedes,Maren Morris,"['classic texas country', 'contemporary country']",Country
-2017-02-04,83.0,Song For Another Time,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,84.0,Neighbors,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2017-02-04,85.0,Way Down We Go,KALEO,"['icelandic indie', 'icelandic rock', 'modern alternative rock']",Rock
-2017-02-04,86.0,Timeless,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
-2017-02-04,87.0,Sex With Me,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2017-02-04,88.0,Despacito,Luis Fonsi ,"['latin pop', 'puerto rican pop']",Pop
-2017-02-04,89.0,The Weekend,Brantley Gilbert,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,90.0,Parachute,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
-2017-02-04,92.0,Today,Brad Paisley,"['contemporary country', 'country', 'country road']",Country
-2017-02-04,93.0,All We Know,The Chainsmokers ,['pop'],Pop
-2017-02-04,94.0,Say It,Flume ,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica']",Electronic/Dance
-2017-02-04,95.0,Not Nice,PARTYNE,"['r&b', 'rap', 'urban contemporary']",R&B
-2017-02-04,96.0,Just Hold On,Steve Aoki ,"['edm', 'electro house', 'pop dance']",Electronic/Dance
-2017-02-04,97.0,Beibs In The Trap,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2017-02-04,98.0,Black,Dierks Bentley,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2017-02-04,99.0,Down,Marian Hill,['electropop'],Pop
-2017-02-04,100.0,My Sh*t,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
+date,rank,song_title,artist,genres
+2017-02-04,1.0,Bad And Boujee,Migos ,['Hip Hop']
+2017-02-04,2.0,Shape Of You,Ed Sheeran,['Pop']
+2017-02-04,3.0,Black Beatles,Rae Sremmurd ,['Hip Hop']
+2017-02-04,4.0,Closer,The Chainsmokers ,['Pop']
+2017-02-04,5.0,Starboy,The Weeknd ,['Pop']
+,,Bad Things,Machine Gun Kelly ,
+2017-02-04,7.0,Paris,The Chainsmokers,['Pop']
+2017-02-04,8.0,I Don't Wanna Live Forever (Fifty Shades Darker),Zayn / Taylor Swift,['Pop']
+2017-02-04,9.0,Don't Wanna Know,Maroon 5 ,['Pop']
+2017-02-04,10.0,24K Magic,Bruno Mars,['Pop']
+2017-02-04,11.0,Fake Love,Drake,['Hip Hop']
+2017-02-04,12.0,Side To Side,Ariana Grande ,['Pop']
+2017-02-04,13.0,Scars To Your Beautiful,Alessia Cara,['Pop']
+2017-02-04,14.0,Caroline,Amine,['Hip Hop']
+2017-02-04,15.0,Bounce Back,Big Sean,"['R&B', 'Hip Hop']"
+2017-02-04,16.0,Let Me Love You,DJ Snake ,"['Electronic/Dance', 'Pop']"
+2017-02-04,17.0,Love On The Brain,Rihanna,['Pop']
+2017-02-04,18.0,Juju On That Beat (TZ Anthem),Zay Hilfigerrr ,
+2017-02-04,19.0,I Feel It Coming,The Weeknd ,['Pop']
+2017-02-04,20.0,Heathens,twenty one pilots,"['Rock', 'Pop']"
+,,Broccoli,D.R.A.M. ,
+2017-02-04,22.0,All Time Low,Jon Bellion,
+2017-02-04,23.0,Starving,Hailee Steinfeld ,['Pop']
+2017-02-04,24.0,Can't Stop The Feeling!,Justin Timberlake,['Pop']
+2017-02-04,25.0,Mercy,Shawn Mendes,['Pop']
+2017-02-04,26.0,Treat You Better,Shawn Mendes,['Pop']
+2017-02-04,27.0,Cheap Thrills,Sia ,['Pop']
+2017-02-04,28.0,Castle On The Hill,Ed Sheeran,['Pop']
+2017-02-04,29.0,This Town,Niall Horan,['Pop']
+2017-02-04,30.0,Say You Won't Let Go,James Arthur,['Pop']
+2017-02-04,31.0,Love Me Now,John Legend,['Pop']
+2017-02-04,32.0,iSpy,KYLE ,
+2017-02-04,33.0,Don't Let Me Down,The Chainsmokers ,['Pop']
+2017-02-04,34.0,Water Under The Bridge,Adele,['Pop']
+2017-02-04,35.0,Blue Ain't Your Color,Keith Urban,['Country']
+2017-02-04,36.0,Party Monster,The Weeknd,['Pop']
+2017-02-04,37.0,X,21 Savage ,['Hip Hop']
+2017-02-04,38.0,Rockabye,Clean Bandit ,['Pop']
+2017-02-04,39.0,The Greatest,Sia ,['Pop']
+2017-02-04,40.0,Chill Bill,Rob $tone ,
+2017-02-04,41.0,Better Man,Little Big Town,['Country']
+2017-02-04,42.0,Cold Water,Major Lazer ,"['Electronic/Dance', 'Pop']"
+2017-02-04,43.0,T-Shirt,Migos,['Hip Hop']
+2017-02-04,44.0,Both,Gucci Mane ,['Hip Hop']
+2017-02-04,45.0,Party,Chris Brown ,"['R&B', 'Hip Hop']"
+2017-02-04,46.0,You Was Right,Lil Uzi Vert,['Hip Hop']
+2017-02-04,47.0,In The Name Of Love,Martin Garri,"['Electronic/Dance', 'Pop']"
+2017-02-04,48.0,Deja Vu,J. Cole,['Hip Hop']
+2017-02-04,49.0,Used To This,Future ,['Hip Hop']
+2017-02-04,50.0,No Heart,21 Savage ,['Hip Hop']
+2017-02-04,51.0,A Guy With A Girl,Blake Shelton,['Country']
+2017-02-04,52.0,Chantaje,Shakira ,['Pop']
+2017-02-04,53.0,I Got You,Bebe Re,['Pop']
+2017-02-04,54.0,HandClap,Fitz And The Tantrums,
+2017-02-04,55.0,Star Of The Show,Thomas Rhett,['Country']
+2017-02-04,56.0,How Far I'll Go,Alessia Cara,['Pop']
+2017-02-04,57.0,Dirt On My Boots,Jon Pardi,['Country']
+2017-02-04,58.0,Dirty Laundry,Carrie Underwood,"['Pop', 'Country']"
+2017-02-04,59.0,Selfish,PnB Rock,['Hip Hop']
+2017-02-04,60.0,Alone,Marshmello,"['Electronic/Dance', 'Pop']"
+2017-02-04,61.0,Swang,Rae Sremmurd,['Hip Hop']
+2017-02-04,62.0,Make Me (Cry),Noah Cyrus ,['Pop']
+2017-02-04,63.0,Redbone,Childish Gambino,['Hip Hop']
+2017-02-04,64.0,Wanna Be That Song,Brett Eldredge,['Country']
+2017-02-04,65.0,Moves,Big Sean,"['R&B', 'Hip Hop']"
+2017-02-04,66.0,Seein' Red,Dustin Lynch,['Country']
+,,How Far I'll Go,Auli'i Cravalho,
+2017-02-04,68.0,Fresh Eyes,Andy Grammer,
+2017-02-04,69.0,Play That Song,Train,['Pop']
+2017-02-04,70.0,Location,Khalid,['Pop']
+2017-02-04,71.0,Goosebumps,Travis Scott,['Hip Hop']
+2017-02-04,72.0,OTW,DJ Luke Nasty,
+2017-02-04,73.0,Sneakin',Drake ,['Hip Hop']
+2017-02-04,74.0,Kill A Word,Eric Church ,['Country']
+2017-02-04,75.0,Sober Saturday Night,Chris Young ,['Country']
+2017-02-04,76.0,Think A Little Less,Michael Ray,
+2017-02-04,77.0,Not Afraid Anymore,Halsey,['Pop']
+2017-02-04,78.0,Red Opps,21 Savage,['Hip Hop']
+2017-02-04,79.0,Call On Me,Starley,
+2017-02-04,80.0,Water,Ugly God,
+2017-02-04,81.0,Congratulations,Post Malone ,"['Pop', 'Hip Hop']"
+2017-02-04,82.0,80s Mercedes,Maren Morris,
+2017-02-04,83.0,Song For Another Time,Old Dominion,['Country']
+2017-02-04,84.0,Neighbors,J. Cole,['Hip Hop']
+2017-02-04,85.0,Way Down We Go,KALEO,
+2017-02-04,86.0,Timeless,A Boogie Wit da Hoodie ,['Hip Hop']
+2017-02-04,87.0,Sex With Me,Rihanna,['Pop']
+2017-02-04,88.0,Despacito,Luis Fonsi ,
+2017-02-04,89.0,The Weekend,Brantley Gilbert,['Country']
+2017-02-04,90.0,Parachute,Chris Stapleton,
+,,You're Welcome,Dwayne Johnson,
+2017-02-04,92.0,Today,Brad Paisley,['Country']
+2017-02-04,93.0,All We Know,The Chainsmokers ,['Pop']
+2017-02-04,94.0,Say It,Flume ,['Electronic/Dance']
+2017-02-04,95.0,Not Nice,PARTYNE,"['R&B', 'Hip Hop']"
+2017-02-04,96.0,Just Hold On,Steve Aoki ,['Electronic/Dance']
+2017-02-04,97.0,Beibs In The Trap,Travis Scott,['Hip Hop']
+2017-02-04,98.0,Black,Dierks Bentley,['Country']
+2017-02-04,99.0,Down,Marian Hill,
+2017-02-04,100.0,My Sh*t,A Boogie Wit da Hoodie,['Hip Hop']

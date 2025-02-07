@@ -1,98 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2018-09-08,1.0,In My Feelings,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-09-08,2.0,Girls Like You,Maroon 5 ,['pop'],Pop
-2018-09-08,3.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']",Pop
-2018-09-08,4.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-09-08,5.0,FEFE,6i,['emo rap'],Hip Hop
-2018-09-08,6.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-09-08,7.0,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2018-09-08,8.0,Taste,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-09-08,9.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
-2018-09-08,10.0,God Is A Woman,Ariana Grande,['pop'],Pop
-2018-09-08,11.0,IDOL,BTS ,"['k-pop', 'k-pop boy group', 'pop']",Pop
-2018-09-08,12.0,No Brainer,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2018-09-08,13.0,Boo'd Up,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']",R&B
-2018-09-08,14.0,No Tears Left To Cry,Ariana Grande,['pop'],Pop
-2018-09-08,15.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']",Pop
-2018-09-08,16.0,Yes Indeed,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-09-08,17.0,Nonstop,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-09-08,18.0,Psycho,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-09-08,19.0,Back To You,Selena Gomez,"['pop', 'post-teen pop']",Pop
-2018-09-08,20.0,Big Bank,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-09-08,21.0,Meant To Be,Bebe Re,"['dance pop', 'pop']",Pop
-2018-09-08,22.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2018-09-08,23.0,Nice For What,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-09-08,24.0,Natural,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
-2018-09-08,25.0,Delicate,Taylor Swift,['pop'],Pop
-2018-09-08,26.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
-2018-09-08,27.0,I Like Me Better,Lauv,['pop'],Pop
-2018-09-08,28.0,Eastside,"benny blanco, Halsey ",['pop'],Pop
-2018-09-08,29.0,Sad!,,[],기타
-2018-09-08,30.0,God's Plan,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-09-08,31.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2018-09-08,32.0,Simple,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2018-09-08,33.0,Mine,Bazzi,['pop'],Pop
-2018-09-08,34.0,Drowns The Whiskey,Jason Aldean ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,35.0,"Sunrise, Sunburn, Sunset",Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,36.0,Life Changes,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,37.0,Breathin,Ariana Grande,['pop'],Pop
-2018-09-08,38.0,Mercy,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,39.0,I'm A Mess,Bebe Re,"['dance pop', 'pop']",Pop
-2018-09-08,40.0,Stargazing,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2018-09-08,41.0,Friends,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2018-09-08,42.0,Never Be The Same,Camila Cabello,"['dance pop', 'pop']",Pop
-2018-09-08,43.0,One Kiss,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2018-09-08,44.0,Beautiful,Bazzi ,['pop'],Pop
-2018-09-08,45.0,Barbie Dreams,Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']",Pop
-2018-09-08,46.0,Drew Barrymore,Bryce Vine,['indie pop rap'],Pop
-2018-09-08,47.0,Moonlight,,[],기타
-2018-09-08,48.0,Get Along,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,50.0,Broken,lovelytheband,"['modern alternative rock', 'modern rock', 'pov: indie']",Rock
-2018-09-08,51.0,Hotel Key,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,52.0,W O R K I N  M E,Quavo,"['atl hip hop', 'melodic rap', 'rap', 'trap']",Hip Hop
-2018-09-08,53.0,Apes**t,The Carters,['r&b'],R&B
-2018-09-08,54.0,Trip,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']",R&B
-2018-09-08,55.0,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",Rock
-2018-09-08,56.0,Africa,Weezer,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",Rock
-2018-09-08,57.0,Jackie Chan,Tiesto ,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",Electronic/Dance
-2018-09-08,58.0,Yosemite,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2018-09-08,59.0,Happier,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2018-09-08,60.0,Hooked,Dylan Scott,"['contemporary country', 'country road', 'modern country rock']",Country
-2018-09-08,61.0,Solo,Clean Bandit ,"['pop', 'uk dance', 'uk funky']",Pop
-2018-09-08,62.0,Break Up In The End,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,63.0,Remind Me To Forget,Kygo ,"['edm', 'pop', 'pop dance', 'tropical house']",Electronic/Dance
-2018-09-08,64.0,All Girls Are The Same,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-09-08,65.0,She Got The Best Of Me ,Luke Combs,"['contemporary country', 'country']",Country
-2018-09-08,66.0,Side Effects,The Chainsmokers ,['pop'],Pop
-2018-09-08,67.0,Ring,Cardi B ,"['pop', 'rap']",Pop
-2018-09-08,68.0,Blue Tacoma,Russell Dickerson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,69.0,I Am Who They Say I Am,YoungBoy Never Broke Again ,"['baton rouge rap', 'rap']",Hip Hop
-2018-09-08,70.0,Medicine,Queen Naija,"['pop r&b', 'r&b']",Pop
-2018-09-08,71.0,Lean Wit Me,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-09-08,72.0,Unica,Ozuna,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2018-09-08,74.0,Drunk Me,Mitchell Tenpenny,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']",Country
-2018-09-08,75.0,Lose It,Kane Brown,"['black americana', 'contemporary country', 'country', 'country road']",Country
-2018-09-08,76.0,High Hopes,Panic! At The Disco,"['modern rock', 'pop']",Rock
-2018-09-08,77.0,I'm Upset,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-09-08,78.0,Changes,,[],기타
-2018-09-08,79.0,1942,G-Eazy ,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",Pop
-2018-09-08,80.0,Lie,NF,"['hip hop', 'pop rap']",Hip Hop
-2018-09-08,81.0,Chanel (Go Get It),Young Thug ,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2018-09-08,82.0,Mo Bamba,Sheck Wes,"['pop rap', 'rap', 'trap']",Pop
-2018-09-08,83.0,Smile (Living My Best Life),Lil' Duval ,"['florida rap', 'hip hop']",Hip Hop
-2018-09-08,84.0,Best Part,Daniel Caesar ,['canadian contemporary r&b'],R&B
-2018-09-08,85.0,Desperate Man,Eric Church,"['contemporary country', 'country', 'country road']",Country
-2018-09-08,86.0,Drunk Girl,Chris Janson,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-09-08,87.0,The Way I Am,Charlie Puth,"['pop', 'viral pop']",Pop
-2018-09-08,88.0,Dangerous,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-09-08,89.0,Narcos,Migos,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-09-08,90.0,Happy Now,Zedd ,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
-2018-09-08,91.0,Level Up,Ciara,"['dance pop', 'hip pop', 'pop', 'r&b', 'urban contemporary']",Pop
-2018-09-08,92.0,Taking A Walk,Trippie Redd,"['melodic rap', 'rap', 'trap']",Hip Hop
-2018-09-08,93.0,Promises,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2018-09-08,95.0,Mob Ties,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-09-08,96.0,Hopeless Romantic,Wiz Khalifa ,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-09-08,97.0,Wasted,Juice WRLD ,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-09-08,98.0,OTW,"Khalid, Ty Dolla $ign ","['pop', 'pop r&b']",Pop
-2018-09-08,99.0,Sin Pijama,Becky G + Natti Natasha,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2018-09-08,100.0,This Is America,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
+date,rank,song_title,artist,genres
+2018-09-08,1.0,In My Feelings,Drake,['Hip Hop']
+2018-09-08,2.0,Girls Like You,Maroon 5 ,['Pop']
+2018-09-08,3.0,I Like It,"Cardi B, Bad Bunny ","['Pop', 'Hip Hop']"
+2018-09-08,4.0,Better Now,Post Malone,"['Pop', 'Hip Hop']"
+2018-09-08,5.0,FEFE,6i,
+2018-09-08,6.0,Lucid Dreams,Juice WRLD,['Hip Hop']
+2018-09-08,7.0,Sicko Mode,Travis Scott,['Hip Hop']
+2018-09-08,8.0,Taste,Tyga ,['Hip Hop']
+2018-09-08,9.0,Love Lies,Khalid ,['Pop']
+2018-09-08,10.0,God Is A Woman,Ariana Grande,['Pop']
+2018-09-08,11.0,IDOL,BTS ,['Pop']
+2018-09-08,12.0,No Brainer,DJ Khaled ,['Hip Hop']
+2018-09-08,13.0,Boo'd Up,Ella Mai,"['R&B', 'Hip Hop']"
+2018-09-08,14.0,No Tears Left To Cry,Ariana Grande,['Pop']
+2018-09-08,15.0,Youngblood,5 Seconds Of Summer,['Pop']
+2018-09-08,16.0,Yes Indeed,Lil Baby ,['Hip Hop']
+2018-09-08,17.0,Nonstop,Drake,['Hip Hop']
+2018-09-08,18.0,Psycho,Post Malone ,"['Pop', 'Hip Hop']"
+2018-09-08,19.0,Back To You,Selena Gomez,['Pop']
+2018-09-08,20.0,Big Bank,YG ,['Hip Hop']
+2018-09-08,21.0,Meant To Be,Bebe Re,['Pop']
+2018-09-08,22.0,Perfect,Ed Sheeran,['Pop']
+2018-09-08,23.0,Nice For What,Drake,['Hip Hop']
+2018-09-08,24.0,Natural,Imagine Dragons,"['Rock', 'Pop']"
+2018-09-08,25.0,Delicate,Taylor Swift,['Pop']
+2018-09-08,26.0,The Middle,"Zedd, Maren Morris ","['Electronic/Dance', 'Pop']"
+2018-09-08,27.0,I Like Me Better,Lauv,['Pop']
+2018-09-08,28.0,Eastside,"benny blanco, Halsey ",['Pop']
+2018-09-08,29.0,Sad!,,
+2018-09-08,30.0,God's Plan,Drake,['Hip Hop']
+2018-09-08,31.0,Tequila,Dan + Shay,['Country']
+2018-09-08,32.0,Simple,Florida Georgia Line,['Country']
+2018-09-08,33.0,Mine,Bazzi,['Pop']
+2018-09-08,34.0,Drowns The Whiskey,Jason Aldean ,['Country']
+2018-09-08,35.0,"Sunrise, Sunburn, Sunset",Luke Bryan,['Country']
+2018-09-08,36.0,Life Changes,Thomas Rhett,['Country']
+2018-09-08,37.0,Breathin,Ariana Grande,['Pop']
+2018-09-08,38.0,Mercy,Brett Young,['Country']
+2018-09-08,39.0,I'm A Mess,Bebe Re,['Pop']
+2018-09-08,40.0,Stargazing,Travis Scott,['Hip Hop']
+2018-09-08,41.0,Friends,Marshmello ,"['Electronic/Dance', 'Pop']"
+2018-09-08,42.0,Never Be The Same,Camila Cabello,['Pop']
+2018-09-08,43.0,One Kiss,Calvin Harris ,"['Electronic/Dance', 'Pop']"
+2018-09-08,44.0,Beautiful,Bazzi ,['Pop']
+2018-09-08,45.0,Barbie Dreams,Nicki Minaj,"['Pop', 'Hip Hop']"
+2018-09-08,46.0,Drew Barrymore,Bryce Vine,
+2018-09-08,47.0,Moonlight,,
+2018-09-08,48.0,Get Along,Kenny Chesney,['Country']
+,,Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna ",
+2018-09-08,50.0,Broken,lovelytheband,
+2018-09-08,51.0,Hotel Key,Old Dominion,['Country']
+2018-09-08,52.0,W O R K I N  M E,Quavo,['Hip Hop']
+2018-09-08,53.0,Apes**t,The Carters,['R&B']
+2018-09-08,54.0,Trip,Ella Mai,"['R&B', 'Hip Hop']"
+2018-09-08,55.0,You Say,Lauren Daigle,
+2018-09-08,56.0,Africa,Weezer,['Rock']
+2018-09-08,57.0,Jackie Chan,Tiesto ,['Electronic/Dance']
+2018-09-08,58.0,Yosemite,Travis Scott,['Hip Hop']
+2018-09-08,59.0,Happier,Marshmello ,"['Electronic/Dance', 'Pop']"
+2018-09-08,60.0,Hooked,Dylan Scott,
+2018-09-08,61.0,Solo,Clean Bandit ,['Pop']
+2018-09-08,62.0,Break Up In The End,Cole Swindell,['Country']
+2018-09-08,63.0,Remind Me To Forget,Kygo ,"['Electronic/Dance', 'Pop']"
+2018-09-08,64.0,All Girls Are The Same,Juice WRLD,['Hip Hop']
+2018-09-08,65.0,She Got The Best Of Me ,Luke Combs,['Country']
+2018-09-08,66.0,Side Effects,The Chainsmokers ,['Pop']
+2018-09-08,67.0,Ring,Cardi B ,"['Pop', 'Hip Hop']"
+2018-09-08,68.0,Blue Tacoma,Russell Dickerson,['Country']
+2018-09-08,69.0,I Am Who They Say I Am,YoungBoy Never Broke Again ,['Hip Hop']
+2018-09-08,70.0,Medicine,Queen Naija,['R&B']
+2018-09-08,71.0,Lean Wit Me,Juice WRLD,['Hip Hop']
+2018-09-08,72.0,Unica,Ozuna,
+,,That's On Me,Yella Beezy,
+2018-09-08,74.0,Drunk Me,Mitchell Tenpenny,
+2018-09-08,75.0,Lose It,Kane Brown,['Country']
+2018-09-08,76.0,High Hopes,Panic! At The Disco,['Pop']
+2018-09-08,77.0,I'm Upset,Drake,['Hip Hop']
+2018-09-08,78.0,Changes,,
+2018-09-08,79.0,1942,G-Eazy ,['Hip Hop']
+2018-09-08,80.0,Lie,NF,['Hip Hop']
+2018-09-08,81.0,Chanel (Go Get It),Young Thug ,['Hip Hop']
+2018-09-08,82.0,Mo Bamba,Sheck Wes,['Hip Hop']
+2018-09-08,83.0,Smile (Living My Best Life),Lil' Duval ,['Hip Hop']
+2018-09-08,84.0,Best Part,Daniel Caesar ,
+2018-09-08,85.0,Desperate Man,Eric Church,['Country']
+2018-09-08,86.0,Drunk Girl,Chris Janson,['Country']
+2018-09-08,87.0,The Way I Am,Charlie Puth,['Pop']
+2018-09-08,88.0,Dangerous,Meek Mill ,['Hip Hop']
+2018-09-08,89.0,Narcos,Migos,['Hip Hop']
+2018-09-08,90.0,Happy Now,Zedd ,"['Electronic/Dance', 'Pop']"
+2018-09-08,91.0,Level Up,Ciara,"['Pop', 'R&B']"
+2018-09-08,92.0,Taking A Walk,Trippie Redd,['Hip Hop']
+2018-09-08,93.0,Promises,Calvin Harris ,"['Electronic/Dance', 'Pop']"
+,,Don't Go Breaking My Heart,Backstreet Boys,
+2018-09-08,95.0,Mob Ties,Drake,['Hip Hop']
+2018-09-08,96.0,Hopeless Romantic,Wiz Khalifa ,['Hip Hop']
+2018-09-08,97.0,Wasted,Juice WRLD ,['Hip Hop']
+2018-09-08,98.0,OTW,"Khalid, Ty Dolla $ign ",['Pop']
+2018-09-08,99.0,Sin Pijama,Becky G + Natti Natasha,
+2018-09-08,100.0,This Is America,Childish Gambino,['Hip Hop']

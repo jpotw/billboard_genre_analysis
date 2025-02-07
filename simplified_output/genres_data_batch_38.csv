@@ -1,94 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2016-09-17,1.0,Closer,The Chainsmokers ,['pop'],Pop
-2016-09-17,2.0,Cold Water,Major Lazer ,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",Pop
-2016-09-17,3.0,Heathens,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2016-09-17,4.0,Cheap Thrills,Sia ,"['australian dance', 'australian pop', 'pop']",Electronic/Dance
-2016-09-17,5.0,Don't Let Me Down,The Chainsmokers ,['pop'],Pop
-2016-09-17,6.0,This Is What You Came For,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2016-09-17,7.0,Ride,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2016-09-17,8.0,Treat You Better,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2016-09-17,9.0,One Dance,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-09-17,10.0,Needed Me,Rihanna,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2016-09-17,11.0,Send My Love (To Your New Lover),Adele,"['british soul', 'pop', 'pop soul', 'uk pop']",Pop
-2016-09-17,12.0,We Don't Talk Anymore,Charlie Puth ,"['pop', 'viral pop']",Pop
-2016-09-17,13.0,Let Me Love You,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
-2016-09-17,14.0,Can't Stop The Feeling!,Justin Timberlake,"['dance pop', 'pop']",Pop
-2016-09-17,15.0,Into You,Ariana Grande,['pop'],Pop
-2016-09-17,16.0,Too Good,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-09-17,17.0,Make Me...,Britney Spears ,"['dance pop', 'pop']",Pop
-2016-09-17,19.0,Sucker For Pain,"Lil Wayne, Wiz Khalifa ","['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",Hip Hop
-2016-09-17,20.0,Gold,Kiiara,"['alt z', 'electropop']",Pop
-2016-09-17,21.0,Luv,Tory Lanez,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",Hip Hop
-2016-09-17,22.0,For Free,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2016-09-17,23.0,I Hate U I Love U,gnash ,"['alt z', 'pop']",Pop
-2016-09-17,24.0,Never Be Like You,Flume ,"['australian dance', 'australian electropop', 'australian indie', 'downtempo', 'edm', 'indietronica']",Electronic/Dance
-2016-09-17,25.0,Panda,Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",Pop
-2016-09-17,26.0,Controlla,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2016-09-17,27.0,Hymn For The Weekend,Coldplay,"['permanent wave', 'pop']",Pop
-2016-09-17,28.0,"Sit Still, Look Pretty",Daya,"['alt z', 'pop']",Pop
-2016-09-17,29.0,Work From Home,Fifth Harmony ,"['girl group', 'pop', 'talent show']",Pop
-2016-09-17,30.0,Just Like Fire,P!nk,"['dance pop', 'pop']",Pop
-2016-09-17,31.0,Side To Side,Ariana Grande ,['pop'],Pop
-2016-09-17,32.0,This Girl,Kungs vs Cookin' On 3 Burners,"['edm', 'pop dance', 'uk dance']",Electronic/Dance
-2016-09-17,33.0,No Limit,Usher ,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",Hip Hop
-2016-09-17,34.0,H.O.L.Y.,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2016-09-17,35.0,Work,Rihanna ,"['barbadian pop', 'pop', 'urban contemporary']",Pop
-2016-09-17,36.0,Mama Said,Lukas Graham,"['danish pop', 'scandipop']",Pop
-2016-09-17,37.0,Stressed Out,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2016-09-17,38.0,I Took A Pill In Ibiza,Mike Posner,"['dance pop', 'pop', 'pop dance', 'pop rap']",Pop
-2016-09-17,39.0,Me Too,Meghan Trainor,"['hip pop', 'pop']",Pop
-2016-09-17,40.0,All In My Head (Flex),Fifth Harmony ,"['girl group', 'pop', 'talent show']",Pop
-2016-09-17,41.0,Tiimmy Turner,Desiigner,"['pop rap', 'rap', 'southern hip hop', 'trap', 'viral trap']",Pop
-2016-09-17,42.0,Unsteady,,[],기타
-2016-09-17,43.0,Peter Pan,Kelsea Ballerini,"['contemporary country', 'country']",Country
-2016-09-17,44.0,Low Life,Future ,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-09-17,46.0,7 Years,Lukas Graham,"['danish pop', 'scandipop']",Pop
-2016-09-17,47.0,Cake By The Ocean,DNCE,"['dance pop', 'pop']",Pop
-2016-09-17,48.0,Different For Girls,Dierks Bentley ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-09-17,49.0,Starving,Hailee Steinfeld ,['pop'],Pop
-2016-09-17,50.0,Make You Miss Me,Sam Hunt,"['contemporary country', 'country', 'country pop', 'modern country rock']",Country
-2016-09-17,51.0,Setting The World On Fire,Kenny Chesney ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-09-17,52.0,I Got The Keys,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2016-09-17,53.0,Rise,Katy Perry,['pop'],Pop
-2016-09-17,54.0,Gangsta,Kehlani,"['pop', 'r&b', 'rap']",Pop
-2016-09-17,55.0,American Country Love Song,Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-09-17,56.0,May We All,Florida Georgia Line ,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2016-09-17,57.0,In The Name Of Love,Martin Garri,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Electronic/Dance
-2016-09-17,58.0,Money Longer,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2016-09-17,59.0,THat Part,ScHoolboy Q ,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-09-17,60.0,From The Ground Up,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2016-09-17,61.0,Purple Lamborghini,Skrille,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",Electronic/Dance
-2016-09-17,62.0,Sorry,Beyonce,"['pop', 'r&b']",Pop
-2016-09-17,63.0,You & Me,Marc E. Bassy ,"['indie pop rap', 'pop r&b']",Pop
-2016-09-17,64.0,My PYT,Wale,"['pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",Pop
-2016-09-17,65.0,Chill Bill,Rob $tone ,"['san diego rap', 'viral trap']",Hip Hop
-2016-09-17,66.0,Why You Always Hatin?,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-09-17,67.0,"Wat U Mean (Aye, Aye, Aye)",Dae Dae,"['atl hip hop', 'trap']",Hip Hop
-2016-09-17,68.0,Vice,Miranda Lambert,"['contemporary country', 'country', 'country dawn', 'country road']",Country
-2016-09-17,69.0,Father Stretch My Hands Pt. 1,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
-2016-09-17,70.0,She's Got A Way With Words,Blake Shelton,"['classic oklahoma country', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-09-17,71.0,Grass Ain't Greener,Chris Brown,"['r&b', 'rap']",R&B
-2016-09-17,72.0,Middle Of A Memory,Cole Swindell,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-09-17,74.0,No Shopping,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-09-17,76.0,It Don't Hurt Like It Used To,Billy Currington,"['contemporary country', 'country', 'country road']",Country
-2016-09-17,77.0,With You Tonight / Hasta El Amanecer,Nicky Jam,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
-2016-09-17,79.0,Kill Em With Kindness,Selena Gomez,"['pop', 'post-teen pop']",Pop
-2016-09-17,80.0,No Problem,Chance The Rapper ,"['chicago rap', 'conscious hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2016-09-17,81.0,Come And See Me,PARTYNE,"['r&b', 'rap', 'urban contemporary']",R&B
-2016-09-17,82.0,Too Much Sauce,DJ ESCO ,"['atl hip hop', 'trap']",Hip Hop
-2016-09-17,83.0,You Look Like I Need A Drink,Justin Moore,"['arkansas country', 'contemporary country', 'country', 'country road']",Country
-2016-09-17,85.0,OOOUUU,Young M.A,"['alternative r&b', 'lgbtq+ hip hop', 'nyc rap', 'rap', 'trap']",R&B
-2016-09-17,86.0,Wicked,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-09-17,87.0,Wyclef Jean,Young Thug,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",Hip Hop
-2016-09-17,88.0,I Met A Girl,William Michael Morgan,"['country pop', 'modern country rock']",Pop
-2016-09-17,89.0,Move,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2016-09-17,90.0,Famous,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
-2016-09-17,91.0,Record Year,Eric Church,"['contemporary country', 'country', 'country road']",Country
-2016-09-17,92.0,You Was Right,Lil Uzi Vert,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",Hip Hop
-2016-09-17,93.0,Do You Mind,DJ Khaled ,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",Hip Hop
-2016-09-17,94.0,Wishing,DJ Drama ,"['dirty south rap', 'philly rap', 'southern hip hop', 'trap']",Hip Hop
-2016-09-17,95.0,Scars To Your Beautiful,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2016-09-17,96.0,Lockjaw,French Montana ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2016-09-17,97.0,I Know Somebody,LOCASH,"['contemporary country', 'country rap', 'country road', 'modern country rock']",Country
-2016-09-17,99.0,Church Bells,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
-2016-09-17,100.0,Cool Girl,Tove Lo,"['dance pop', 'metropopolis', 'pop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",Pop
+date,rank,song_title,artist,genres
+2016-09-17,1.0,Closer,The Chainsmokers ,['Pop']
+2016-09-17,2.0,Cold Water,Major Lazer ,"['Electronic/Dance', 'Pop']"
+2016-09-17,3.0,Heathens,twenty one pilots,"['Rock', 'Pop']"
+2016-09-17,4.0,Cheap Thrills,Sia ,['Pop']
+2016-09-17,5.0,Don't Let Me Down,The Chainsmokers ,['Pop']
+2016-09-17,6.0,This Is What You Came For,Calvin Harris ,"['Electronic/Dance', 'Pop']"
+2016-09-17,7.0,Ride,twenty one pilots,"['Rock', 'Pop']"
+2016-09-17,8.0,Treat You Better,Shawn Mendes,['Pop']
+2016-09-17,9.0,One Dance,Drake ,['Hip Hop']
+2016-09-17,10.0,Needed Me,Rihanna,['Pop']
+2016-09-17,11.0,Send My Love (To Your New Lover),Adele,['Pop']
+2016-09-17,12.0,We Don't Talk Anymore,Charlie Puth ,['Pop']
+2016-09-17,13.0,Let Me Love You,DJ Snake ,"['Electronic/Dance', 'Pop']"
+2016-09-17,14.0,Can't Stop The Feeling!,Justin Timberlake,['Pop']
+2016-09-17,15.0,Into You,Ariana Grande,['Pop']
+2016-09-17,16.0,Too Good,Drake ,['Hip Hop']
+2016-09-17,17.0,Make Me...,Britney Spears ,['Pop']
+,,Broccoli,D.R.A.M. ,
+2016-09-17,19.0,Sucker For Pain,"Lil Wayne, Wiz Khalifa ",['Hip Hop']
+2016-09-17,20.0,Gold,Kiiara,
+2016-09-17,21.0,Luv,Tory Lanez,"['R&B', 'Hip Hop']"
+2016-09-17,22.0,For Free,DJ Khaled ,['Hip Hop']
+2016-09-17,23.0,I Hate U I Love U,gnash ,['Pop']
+2016-09-17,24.0,Never Be Like You,Flume ,['Electronic/Dance']
+2016-09-17,25.0,Panda,Desiigner,['Hip Hop']
+2016-09-17,26.0,Controlla,Drake,['Hip Hop']
+2016-09-17,27.0,Hymn For The Weekend,Coldplay,['Pop']
+2016-09-17,28.0,"Sit Still, Look Pretty",Daya,['Pop']
+2016-09-17,29.0,Work From Home,Fifth Harmony ,['Pop']
+2016-09-17,30.0,Just Like Fire,P!nk,['Pop']
+2016-09-17,31.0,Side To Side,Ariana Grande ,['Pop']
+2016-09-17,32.0,This Girl,Kungs vs Cookin' On 3 Burners,['Electronic/Dance']
+2016-09-17,33.0,No Limit,Usher ,"['Pop', 'R&B', 'Hip Hop']"
+2016-09-17,34.0,H.O.L.Y.,Florida Georgia Line,['Country']
+2016-09-17,35.0,Work,Rihanna ,['Pop']
+2016-09-17,36.0,Mama Said,Lukas Graham,
+2016-09-17,37.0,Stressed Out,twenty one pilots,"['Rock', 'Pop']"
+2016-09-17,38.0,I Took A Pill In Ibiza,Mike Posner,['Pop']
+2016-09-17,39.0,Me Too,Meghan Trainor,['Pop']
+2016-09-17,40.0,All In My Head (Flex),Fifth Harmony ,['Pop']
+2016-09-17,41.0,Tiimmy Turner,Desiigner,['Hip Hop']
+2016-09-17,42.0,Unsteady,,
+2016-09-17,43.0,Peter Pan,Kelsea Ballerini,['Country']
+2016-09-17,44.0,Low Life,Future ,['Hip Hop']
+,,Don't Mind,Kent Jones,
+2016-09-17,46.0,7 Years,Lukas Graham,
+2016-09-17,47.0,Cake By The Ocean,DNCE,['Pop']
+2016-09-17,48.0,Different For Girls,Dierks Bentley ,['Country']
+2016-09-17,49.0,Starving,Hailee Steinfeld ,['Pop']
+2016-09-17,50.0,Make You Miss Me,Sam Hunt,['Country']
+2016-09-17,51.0,Setting The World On Fire,Kenny Chesney ,['Country']
+2016-09-17,52.0,I Got The Keys,DJ Khaled ,['Hip Hop']
+2016-09-17,53.0,Rise,Katy Perry,['Pop']
+2016-09-17,54.0,Gangsta,Kehlani,"['Pop', 'R&B', 'Hip Hop']"
+2016-09-17,55.0,American Country Love Song,Jake Owen,['Country']
+2016-09-17,56.0,May We All,Florida Georgia Line ,['Country']
+2016-09-17,57.0,In The Name Of Love,Martin Garri,"['Electronic/Dance', 'Pop']"
+2016-09-17,58.0,Money Longer,Lil Uzi Vert,['Hip Hop']
+2016-09-17,59.0,THat Part,ScHoolboy Q ,['Hip Hop']
+2016-09-17,60.0,From The Ground Up,Dan + Shay,['Country']
+2016-09-17,61.0,Purple Lamborghini,Skrille,['Electronic/Dance']
+2016-09-17,62.0,Sorry,Beyonce,"['Pop', 'R&B']"
+2016-09-17,63.0,You & Me,Marc E. Bassy ,
+2016-09-17,64.0,My PYT,Wale,"['R&B', 'Hip Hop']"
+2016-09-17,65.0,Chill Bill,Rob $tone ,
+2016-09-17,66.0,Why You Always Hatin?,YG ,['Hip Hop']
+2016-09-17,67.0,"Wat U Mean (Aye, Aye, Aye)",Dae Dae,
+2016-09-17,68.0,Vice,Miranda Lambert,['Country']
+2016-09-17,69.0,Father Stretch My Hands Pt. 1,Kanye West,['Hip Hop']
+2016-09-17,70.0,She's Got A Way With Words,Blake Shelton,['Country']
+2016-09-17,71.0,Grass Ain't Greener,Chris Brown,"['R&B', 'Hip Hop']"
+2016-09-17,72.0,Middle Of A Memory,Cole Swindell,['Country']
+,,Pick Up The Phone,Young Thug And Travis Scott ,
+2016-09-17,74.0,No Shopping,French Montana ,['Hip Hop']
+,,You Don't Own Me,Grace ,
+2016-09-17,76.0,It Don't Hurt Like It Used To,Billy Currington,['Country']
+2016-09-17,77.0,With You Tonight / Hasta El Amanecer,Nicky Jam,
+,,Rock On,Tucker Beathard,
+2016-09-17,79.0,Kill Em With Kindness,Selena Gomez,['Pop']
+2016-09-17,80.0,No Problem,Chance The Rapper ,['Hip Hop']
+2016-09-17,81.0,Come And See Me,PARTYNE,"['R&B', 'Hip Hop']"
+2016-09-17,82.0,Too Much Sauce,DJ ESCO ,
+2016-09-17,83.0,You Look Like I Need A Drink,Justin Moore,['Country']
+,,1 Night,Lil Yachty,
+2016-09-17,85.0,OOOUUU,Young M.A,['Hip Hop']
+2016-09-17,86.0,Wicked,Future,['Hip Hop']
+2016-09-17,87.0,Wyclef Jean,Young Thug,['Hip Hop']
+2016-09-17,88.0,I Met A Girl,William Michael Morgan,
+2016-09-17,89.0,Move,Luke Bryan,['Country']
+2016-09-17,90.0,Famous,Kanye West,['Hip Hop']
+2016-09-17,91.0,Record Year,Eric Church,['Country']
+2016-09-17,92.0,You Was Right,Lil Uzi Vert,['Hip Hop']
+2016-09-17,93.0,Do You Mind,DJ Khaled ,['Hip Hop']
+2016-09-17,94.0,Wishing,DJ Drama ,
+2016-09-17,95.0,Scars To Your Beautiful,Alessia Cara,['Pop']
+2016-09-17,96.0,Lockjaw,French Montana ,['Hip Hop']
+2016-09-17,97.0,I Know Somebody,LOCASH,
+,,Duele El Corazon,Enrique Iglesias Feat. Wisin or Tinashe ,
+2016-09-17,99.0,Church Bells,Carrie Underwood,"['Pop', 'Country']"
+2016-09-17,100.0,Cool Girl,Tove Lo,['Pop']

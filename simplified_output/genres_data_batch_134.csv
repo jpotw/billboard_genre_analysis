@@ -1,96 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2018-07-21,1.0,In My Feelings,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,2.0,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']",Pop
-2018-07-21,3.0,Girls Like You,Maroon 5 ,['pop'],Pop
-2018-07-21,4.0,Nice For What,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,6.0,God's Plan,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,7.0,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-07-21,8.0,No Tears Left To Cry,Ariana Grande,['pop'],Pop
-2018-07-21,9.0,Psycho,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-07-21,10.0,Sad!,,[],기타
-2018-07-21,11.0,Nonstop,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,12.0,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-07-21,13.0,The Middle,"Zedd, Maren Morris ","['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
-2018-07-21,14.0,Meant To Be,Bebe Re,"['dance pop', 'pop']",Pop
-2018-07-21,15.0,Delicate,Taylor Swift,['pop'],Pop
-2018-07-21,16.0,I'm Upset,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,17.0,Yes Indeed,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2018-07-21,18.0,Taste,Tyga ,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,19.0,Mine,Bazzi,['pop'],Pop
-2018-07-21,20.0,Friends,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2018-07-21,21.0,Don't Matter To Me,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,22.0,Perfect,Ed Sheeran,"['pop', 'singer-songwriter pop', 'uk pop']",Pop
-2018-07-21,23.0,In My Blood,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",Pop
-2018-07-21,24.0,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2018-07-21,25.0,Love Lies,Khalid ,"['pop', 'pop r&b']",Pop
-2018-07-21,26.0,Never Be The Same,Camila Cabello,"['dance pop', 'pop']",Pop
-2018-07-21,27.0,Whatever It Takes,Imagine Dragons,"['modern rock', 'pop', 'rock']",Rock
-2018-07-21,28.0,Mob Ties,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,29.0,One Kiss,Calvin Harris ,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",Pop
-2018-07-21,30.0,Apes**t,The Carters,['r&b'],R&B
-2018-07-21,31.0,Back To You,Selena Gomez,"['pop', 'post-teen pop']",Pop
-2018-07-21,32.0,Look Alive,BlocBoy JB ,"['memphis hip hop', 'rap', 'tennessee hip hop', 'trap']",Hip Hop
-2018-07-21,33.0,I Like Me Better,Lauv,['pop'],Pop
-2018-07-21,34.0,Moonlight,,[],기타
-2018-07-21,35.0,Get Along,Kenny Chesney,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,36.0,Be Careful,Cardi B,"['pop', 'rap']",Pop
-2018-07-21,37.0,Simple,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2018-07-21,38.0,Emotionless,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,39.0,This Is America,Childish Gambino,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2018-07-21,40.0,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']",Pop
-2018-07-21,41.0,Mercy,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,42.0,Sit Next To Me,Foster The People,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']",Rock
-2018-07-21,44.0,Elevate,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,45.0,Can't Take A Joke,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,46.0,Big Bank,YG ,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,47.0,Changes,,[],기타
-2018-07-21,48.0,Bed,Nicki Minaj ,"['hip pop', 'pop', 'queens hip hop', 'rap']",Pop
-2018-07-21,49.0,One Number Away,Luke Combs,"['contemporary country', 'country']",Country
-2018-07-21,50.0,I Was Jack (You Were Diane),Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,51.0,X,Nicky Jam ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
-2018-07-21,52.0,Drowns The Whiskey,Jason Aldean ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,53.0,Wifi Lit,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,54.0,Up Down,Morgan Wallen ,['contemporary country'],Country
-2018-07-21,55.0,Blue Tint,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,56.0,After Dark,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,57.0,All Girls Are The Same,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-07-21,58.0,Talk Up,Drake ,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,59.0,8 Out Of 10,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,60.0,Jumpsuit,twenty one pilots,"['modern rock', 'pop', 'pov: indie', 'rock']",Rock
-2018-07-21,61.0,Life Changes,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,62.0,Jocelyn Flores,,[],기타
-2018-07-21,63.0,Sandra's Rose,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,64.0,Summer Games,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,65.0,31 Days,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,66.0,Alone,Halsey ,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2018-07-21,67.0,Jaded,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,68.0,That's How You Feel,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,69.0,Survival,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,70.0,Take Back Home Girl,Chris Lane ,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,71.0,Cuddle My Wrist,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,72.0,Freaky Friday,Lil Dicky ,"['comedy rap', 'indie pop rap', 'pop rap']",Hip Hop
-2018-07-21,73.0,Millidelphia,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,74.0,Kiss Somebody,Morgan Evans,"['australian country', 'contemporary country', 'country road', 'modern country rock']",Country
-2018-07-21,75.0,Ball For Me,Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2018-07-21,76.0,Racks Blue,Future,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,77.0,Coming Home,Keith Urban ,"['australian country', 'australian pop', 'contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,78.0,Finesse,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,79.0,Dangerous,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2018-07-21,81.0,"Sunrise, Sunburn, Sunset",Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,83.0,Drug Addicts,Lil Pump,"['emo rap', 'miami hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2018-07-21,84.0,KOD,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2018-07-21,85.0,All Mine,Kanye West,"['chicago rap', 'hip hop', 'rap']",Hip Hop
-2018-07-21,86.0,Growing Pains,Alessia Cara,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2018-07-21,87.0,Hotel Key,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2018-07-21,88.0,Jackie Chan,Tiesto ,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",Electronic/Dance
-2018-07-21,89.0,Chun-Li,Nicki Minaj,"['hip pop', 'pop', 'queens hip hop', 'rap']",Pop
-2018-07-21,90.0,Medicine,Queen Naija,"['pop r&b', 'r&b']",Pop
-2018-07-21,91.0,Cry Pretty,Carrie Underwood,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",Country
-2018-07-21,92.0,Ocean,Martin Garri,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Electronic/Dance
-2018-07-21,93.0,Peak,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
-2018-07-21,94.0,Legends,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2018-07-21,95.0,Call Out My Name,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",R&B
-2018-07-21,97.0,OTW,"Khalid, Ty Dolla $ign ","['pop', 'pop r&b']",Pop
-2018-07-21,98.0,Solo,Clean Bandit ,"['pop', 'uk dance', 'uk funky']",Pop
-2018-07-21,99.0,Sin Pijama,Becky G + Natti Natasha,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",Pop
-2018-07-21,100.0,Is There More,Drake,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",Hip Hop
+date,rank,song_title,artist,genres
+2018-07-21,1.0,In My Feelings,Drake,['Hip Hop']
+2018-07-21,2.0,I Like It,"Cardi B, Bad Bunny ","['Pop', 'Hip Hop']"
+2018-07-21,3.0,Girls Like You,Maroon 5 ,['Pop']
+2018-07-21,4.0,Nice For What,Drake,['Hip Hop']
+,,Boo'd Up,Ella Mai,
+2018-07-21,6.0,God's Plan,Drake,['Hip Hop']
+2018-07-21,7.0,Lucid Dreams,Juice WRLD,['Hip Hop']
+2018-07-21,8.0,No Tears Left To Cry,Ariana Grande,['Pop']
+2018-07-21,9.0,Psycho,Post Malone ,"['Pop', 'Hip Hop']"
+2018-07-21,10.0,Sad!,,
+2018-07-21,11.0,Nonstop,Drake,['Hip Hop']
+2018-07-21,12.0,Better Now,Post Malone,"['Pop', 'Hip Hop']"
+2018-07-21,13.0,The Middle,"Zedd, Maren Morris ","['Electronic/Dance', 'Pop']"
+2018-07-21,14.0,Meant To Be,Bebe Re,['Pop']
+2018-07-21,15.0,Delicate,Taylor Swift,['Pop']
+2018-07-21,16.0,I'm Upset,Drake,['Hip Hop']
+2018-07-21,17.0,Yes Indeed,Lil Baby ,['Hip Hop']
+2018-07-21,18.0,Taste,Tyga ,['Hip Hop']
+2018-07-21,19.0,Mine,Bazzi,['Pop']
+2018-07-21,20.0,Friends,Marshmello ,"['Electronic/Dance', 'Pop']"
+2018-07-21,21.0,Don't Matter To Me,Drake ,['Hip Hop']
+2018-07-21,22.0,Perfect,Ed Sheeran,['Pop']
+2018-07-21,23.0,In My Blood,Shawn Mendes,['Pop']
+2018-07-21,24.0,Tequila,Dan + Shay,['Country']
+2018-07-21,25.0,Love Lies,Khalid ,['Pop']
+2018-07-21,26.0,Never Be The Same,Camila Cabello,['Pop']
+2018-07-21,27.0,Whatever It Takes,Imagine Dragons,"['Rock', 'Pop']"
+2018-07-21,28.0,Mob Ties,Drake,['Hip Hop']
+2018-07-21,29.0,One Kiss,Calvin Harris ,"['Electronic/Dance', 'Pop']"
+2018-07-21,30.0,Apes**t,The Carters,['R&B']
+2018-07-21,31.0,Back To You,Selena Gomez,['Pop']
+2018-07-21,32.0,Look Alive,BlocBoy JB ,['Hip Hop']
+2018-07-21,33.0,I Like Me Better,Lauv,['Pop']
+2018-07-21,34.0,Moonlight,,
+2018-07-21,35.0,Get Along,Kenny Chesney,['Country']
+2018-07-21,36.0,Be Careful,Cardi B,"['Pop', 'Hip Hop']"
+2018-07-21,37.0,Simple,Florida Georgia Line,['Country']
+2018-07-21,38.0,Emotionless,Drake,['Hip Hop']
+2018-07-21,39.0,This Is America,Childish Gambino,['Hip Hop']
+2018-07-21,40.0,Youngblood,5 Seconds Of Summer,['Pop']
+2018-07-21,41.0,Mercy,Brett Young,['Country']
+2018-07-21,42.0,Sit Next To Me,Foster The People,['Rock']
+,,Te Bote,"Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna ",
+2018-07-21,44.0,Elevate,Drake,['Hip Hop']
+2018-07-21,45.0,Can't Take A Joke,Drake,['Hip Hop']
+2018-07-21,46.0,Big Bank,YG ,['Hip Hop']
+2018-07-21,47.0,Changes,,
+2018-07-21,48.0,Bed,Nicki Minaj ,"['Pop', 'Hip Hop']"
+2018-07-21,49.0,One Number Away,Luke Combs,['Country']
+2018-07-21,50.0,I Was Jack (You Were Diane),Jake Owen,['Country']
+2018-07-21,51.0,X,Nicky Jam ,
+2018-07-21,52.0,Drowns The Whiskey,Jason Aldean ,['Country']
+2018-07-21,53.0,Wifi Lit,Future,['Hip Hop']
+2018-07-21,54.0,Up Down,Morgan Wallen ,
+2018-07-21,55.0,Blue Tint,Drake,['Hip Hop']
+2018-07-21,56.0,After Dark,Drake ,['Hip Hop']
+2018-07-21,57.0,All Girls Are The Same,Juice WRLD,['Hip Hop']
+2018-07-21,58.0,Talk Up,Drake ,['Hip Hop']
+2018-07-21,59.0,8 Out Of 10,Drake,['Hip Hop']
+2018-07-21,60.0,Jumpsuit,twenty one pilots,"['Rock', 'Pop']"
+2018-07-21,61.0,Life Changes,Thomas Rhett,['Country']
+2018-07-21,62.0,Jocelyn Flores,,
+2018-07-21,63.0,Sandra's Rose,Drake,['Hip Hop']
+2018-07-21,64.0,Summer Games,Drake,['Hip Hop']
+2018-07-21,65.0,31 Days,Future,['Hip Hop']
+2018-07-21,66.0,Alone,Halsey ,['Pop']
+2018-07-21,67.0,Jaded,Drake,['Hip Hop']
+2018-07-21,68.0,That's How You Feel,Drake,['Hip Hop']
+2018-07-21,69.0,Survival,Drake,['Hip Hop']
+2018-07-21,70.0,Take Back Home Girl,Chris Lane ,['Country']
+2018-07-21,71.0,Cuddle My Wrist,Future,['Hip Hop']
+2018-07-21,72.0,Freaky Friday,Lil Dicky ,
+2018-07-21,73.0,Millidelphia,Meek Mill ,['Hip Hop']
+2018-07-21,74.0,Kiss Somebody,Morgan Evans,
+2018-07-21,75.0,Ball For Me,Post Malone ,"['Pop', 'Hip Hop']"
+2018-07-21,76.0,Racks Blue,Future,['Hip Hop']
+2018-07-21,77.0,Coming Home,Keith Urban ,['Country']
+2018-07-21,78.0,Finesse,Drake,['Hip Hop']
+2018-07-21,79.0,Dangerous,Meek Mill ,['Hip Hop']
+,,Everything's Gonna Be Alright,David Lee Murphy ,
+2018-07-21,81.0,"Sunrise, Sunburn, Sunset",Luke Bryan,['Country']
+,,Don't Go Breaking My Heart,Backstreet Boys,
+2018-07-21,83.0,Drug Addicts,Lil Pump,['Hip Hop']
+2018-07-21,84.0,KOD,J. Cole,['Hip Hop']
+2018-07-21,85.0,All Mine,Kanye West,['Hip Hop']
+2018-07-21,86.0,Growing Pains,Alessia Cara,['Pop']
+2018-07-21,87.0,Hotel Key,Old Dominion,['Country']
+2018-07-21,88.0,Jackie Chan,Tiesto ,['Electronic/Dance']
+2018-07-21,89.0,Chun-Li,Nicki Minaj,"['Pop', 'Hip Hop']"
+2018-07-21,90.0,Medicine,Queen Naija,['R&B']
+2018-07-21,91.0,Cry Pretty,Carrie Underwood,"['Pop', 'Country']"
+2018-07-21,92.0,Ocean,Martin Garri,"['Electronic/Dance', 'Pop']"
+2018-07-21,93.0,Peak,Drake,['Hip Hop']
+2018-07-21,94.0,Legends,Juice WRLD,['Hip Hop']
+2018-07-21,95.0,Call Out My Name,The Weeknd,['Pop']
+,,Kream,Iggy Azalea Feauring Tyga,
+2018-07-21,97.0,OTW,"Khalid, Ty Dolla $ign ",['Pop']
+2018-07-21,98.0,Solo,Clean Bandit ,['Pop']
+2018-07-21,99.0,Sin Pijama,Becky G + Natti Natasha,
+2018-07-21,100.0,Is There More,Drake,['Hip Hop']

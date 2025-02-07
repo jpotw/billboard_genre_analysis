@@ -1,101 +1,101 @@
-date,rank,song_title,artist,genres,simplified_genre
-2019-03-02,1,7 Rings,Ariana Grande,['pop'],Pop
-2019-03-02,2,Without Me,Halsey,"['electropop', 'etherpop', 'indie poptimism', 'pop']",Pop
-2019-03-02,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-03-02,4,"Thank U, Next",Ariana Grande,['pop'],Pop
-2019-03-02,5,Please Me,Cardi B ,"['pop', 'rap']",Pop
-2019-03-02,6,Happier,Marshmello ,"['brostep', 'edm', 'pop', 'progressive electro house']",Electronic/Dance
-2019-03-02,7,Sicko Mode,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2019-03-02,8,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,['pop'],Pop
-2019-03-02,9,High Hopes,Panic! At The Disco,"['modern rock', 'pop']",Rock
-2019-03-02,10,Wow.,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-03-02,11,Middle Child,J. Cole,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",Hip Hop
-2019-03-02,12,Eastside,"benny blanco, Halsey ",['pop'],Pop
-2019-03-02,13,Thotiana,Blueface,"['cali rap', 'rap', 'trap']",Hip Hop
-2019-03-02,14,Murder On My Mind,YNW Melly,"['melodic rap', 'rap']",Hip Hop
-2019-03-02,15,Going Bad,Meek Mill ,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-03-02,16,Money,Cardi B,"['pop', 'rap']",Pop
-2019-03-02,17,A Lot,21 Savage,"['atl hip hop', 'hip hop', 'rap']",Hip Hop
-2019-03-02,18,Drip Too Hard,Lil Baby ,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2019-03-02,19,Girls Like You,Maroon 5 ,['pop'],Pop
-2019-03-02,20,Better,Khalid,"['pop', 'pop r&b']",Pop
-2019-03-02,21,Shallow,Lady Gaga ,"['art pop', 'dance pop', 'pop']",Pop
-2019-03-02,22,ZEZE,Kodak Black ,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
-2019-03-02,23,Beautiful Crazy,Luke Combs,"['contemporary country', 'country']",Country
-2019-03-02,24,MIA,Bad Bunny ,"['reggaeton', 'trap latino', 'urbano latino']",Reggae
-2019-03-02,25,Dancing With A Stranger,Sam Smith ,"['pop', 'uk pop']",Pop
-2019-03-02,26,Youngblood,5 Seconds Of Summer,"['boy band', 'pop']",Pop
-2019-03-02,27,Robbery,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2019-03-02,28,Better Now,Post Malone,"['dfw rap', 'melodic rap', 'pop', 'rap']",Hip Hop
-2019-03-02,29,Sweet But Psycho,Ava Ma,['pop'],Pop
-2019-03-02,30,Be Alright,Dean Lewis,"['australian pop', 'pop']",Pop
-2019-03-02,31,Tequila,Dan + Shay,"['contemporary country', 'country', 'country road']",Country
-2019-03-02,32,Bury A Friend,Billie Eilish,"['art pop', 'pop']",Pop
-2019-03-02,33,I Like It,"Cardi B, Bad Bunny ","['pop', 'rap']",Pop
-2019-03-02,34,You Say,Lauren Daigle,"['ccm', 'christian alternative rock', 'christian music']",Rock
-2019-03-02,35,Leave Me Alone,Flipp Dinero,"['melodic rap', 'trap']",Hip Hop
-2019-03-02,36,Wake Up In The Sky,Gucci Mane ,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-03-02,37,Close To Me,Ellie Goulding ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",Pop
-2019-03-02,38,Baby Shark,Pinkfong,"['cartoon', ""children's music"", 'dong-yo']",기타
-2019-03-02,39,Look Back At It,A Boogie Wit da Hoodie,"['melodic rap', 'rap', 'trap']",Hip Hop
-2019-03-02,40,Mo Bamba,Sheck Wes,"['pop rap', 'rap', 'trap']",Pop
-2019-03-02,41,Lucid Dreams,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2019-03-02,42,Envy Me,Calboy,"['chicago rap', 'melodic rap']",Hip Hop
-2019-03-02,43,Swervin,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
-2019-03-02,44,Taki Taki,DJ Snake ,"['edm', 'electronic trap', 'pop', 'pop dance']",Electronic/Dance
-2019-03-02,45,This Is It,Scotty McCreery,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,46,NASA,Ariana Grande,['pop'],Pop
-2019-03-02,47,Backin' It Up,Pardison Fontaine ,['upstate ny rap'],Hip Hop
-2019-03-02,48,Needy,Ariana Grande,['pop'],Pop
-2019-03-02,49,Red Room,Offset,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",Hip Hop
-2019-03-02,50,Talk,Khalid,"['pop', 'pop r&b']",Pop
-2019-03-02,51,Girl Like You,Jason Aldean,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,52,Twerk,City Girls ,"['scam rap', 'trap queen']",Hip Hop
-2019-03-02,53,Bloodline,Ariana Grande,['pop'],Pop
-2019-03-02,54,What Makes You Country,Luke Bryan,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,55,Bad Idea,Ariana Grande,['pop'],Pop
-2019-03-02,56,Pure Water,Mustard ,"['cali rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",Hip Hop
-2019-03-02,57,Fake Smile,Ariana Grande,['pop'],Pop
-2019-03-02,58,Imagine,Ariana Grande,['pop'],Pop
-2019-03-02,59,Take It From Me,Jordan Davis,['contemporary country'],Country
-2019-03-02,60,Mixed Personalities,YNW Melly ,"['melodic rap', 'rap']",Hip Hop
-2019-03-02,61,Lost In The Fire,Gesaffelstein ,['dark clubbing'],기타
-2019-03-02,62,Ghostin,Ariana Grande,['pop'],Pop
-2019-03-02,63,Nothing Breaks Like A Heart,Mark Ronson ,['pop soul'],Pop
-2019-03-02,64,This Feeling,The Chainsmokers ,['pop'],Pop
-2019-03-02,65,Undecided,Chris Brown,"['r&b', 'rap']",R&B
-2019-03-02,66,Millionaire,Chris Stapleton,"['contemporary country', 'outlaw country']",Country
-2019-03-02,67,Here Tonight,Brett Young,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,68,Calling My Spirit,Kodak Black,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",Hip Hop
-2019-03-02,69,Sixteen,Thomas Rhett,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,70,Love Someone,Lukas Graham,"['danish pop', 'scandipop']",Pop
-2019-03-02,71,Armed And Dangerous,Juice WRLD,"['chicago rap', 'melodic rap', 'rap']",Hip Hop
-2019-03-02,72,Nights Like This,Kehlani ,"['pop', 'r&b', 'rap']",Pop
-2019-03-02,73,Close Friends,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2019-03-02,74,In My Head,Ariana Grande,['pop'],Pop
-2019-03-02,75,Put A Date On It,Yo Gotti ,"['dirty south rap', 'gangster rap', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",Hip Hop
-2019-03-02,76,Pure Cocaine,Lil Baby,"['atl hip hop', 'atl trap', 'rap', 'trap']",Hip Hop
-2019-03-02,77,Down To The Honkytonk,Jake Owen,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,78,Ella Quiere Beber,Anuel AA ,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",Reggae
-2019-03-02,79,Lovely,Billie Eilish ,"['art pop', 'pop']",Pop
-2019-03-02,80,Talk You Out Of It,Florida Georgia Line,"['contemporary country', 'country', 'country pop', 'country road', 'modern country rock']",Country
-2019-03-02,81,Miss Me More,Kelsea Ballerini,"['contemporary country', 'country']",Country
-2019-03-02,82,Body,Loud Lu,"['edm', 'pop dance', 'uk dance']",Electronic/Dance
-2019-03-02,83,Burn Out,Midland,"['classic texas country', 'neo-traditional country']",Country
-2019-03-02,84,Eyes On You,Chase Rice,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,85,Who Do You Love,The Chainsmokers ,['pop'],Pop
-2019-03-02,86,365,Zedd ,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",Electronic/Dance
-2019-03-02,87,Worth It,YK Osiris,"['melodic rap', 'trap']",Hip Hop
-2019-03-02,88,When The Party's Over,Billie Eilish,"['art pop', 'pop']",Pop
-2019-03-02,89,Yosemite,Travis Scott,"['hip hop', 'rap', 'slap house']",Hip Hop
-2019-03-02,90,Shot Clock,Ella Mai,"['r&b', 'rap', 'uk contemporary r&b']",R&B
-2019-03-02,91,There Was This Girl,Riley Green,"['contemporary country', 'country road', 'modern country pop', 'modern country rock']",Country
-2019-03-02,92,Con Calma,Daddy Yankee ,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",Hip Hop
-2019-03-02,93,On My Way To You,Cody Johnson,"['classic texas country', 'contemporary country', 'modern country pop']",Country
-2019-03-02,94,Let Me Down Slowly,Alec Benjamin + Alessia Cara,"['alt z', 'pop', 'pov: indie']",Pop
-2019-03-02,95,Make Up,Ariana Grande,['pop'],Pop
-2019-03-02,96,Make It Sweet,Old Dominion,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,97,Good Girl,Dustin Lynch,"['contemporary country', 'country', 'country road', 'modern country rock']",Country
-2019-03-02,98,Arms Around You,,[],기타
-2019-03-02,99,Startender,A Boogie Wit da Hoodie ,"['melodic rap', 'rap', 'trap']",Hip Hop
-2019-03-02,100,One That Got Away,Michael Ray,"['contemporary country', 'country road', 'modern country rock']",Country
+date,rank,song_title,artist,genres
+2019-03-02,1,7 Rings,Ariana Grande,['Pop']
+2019-03-02,2,Without Me,Halsey,['Pop']
+2019-03-02,3,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone ,"['Pop', 'Hip Hop']"
+2019-03-02,4,"Thank U, Next",Ariana Grande,['Pop']
+2019-03-02,5,Please Me,Cardi B ,"['Pop', 'Hip Hop']"
+2019-03-02,6,Happier,Marshmello ,"['Electronic/Dance', 'Pop']"
+2019-03-02,7,Sicko Mode,Travis Scott,['Hip Hop']
+2019-03-02,8,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,['Pop']
+2019-03-02,9,High Hopes,Panic! At The Disco,['Pop']
+2019-03-02,10,Wow.,Post Malone,"['Pop', 'Hip Hop']"
+2019-03-02,11,Middle Child,J. Cole,['Hip Hop']
+2019-03-02,12,Eastside,"benny blanco, Halsey ",['Pop']
+2019-03-02,13,Thotiana,Blueface,['Hip Hop']
+2019-03-02,14,Murder On My Mind,YNW Melly,['Hip Hop']
+2019-03-02,15,Going Bad,Meek Mill ,['Hip Hop']
+2019-03-02,16,Money,Cardi B,"['Pop', 'Hip Hop']"
+2019-03-02,17,A Lot,21 Savage,['Hip Hop']
+2019-03-02,18,Drip Too Hard,Lil Baby ,['Hip Hop']
+2019-03-02,19,Girls Like You,Maroon 5 ,['Pop']
+2019-03-02,20,Better,Khalid,['Pop']
+2019-03-02,21,Shallow,Lady Gaga ,['Pop']
+2019-03-02,22,ZEZE,Kodak Black ,['Hip Hop']
+2019-03-02,23,Beautiful Crazy,Luke Combs,['Country']
+2019-03-02,24,MIA,Bad Bunny ,
+2019-03-02,25,Dancing With A Stranger,Sam Smith ,['Pop']
+2019-03-02,26,Youngblood,5 Seconds Of Summer,['Pop']
+2019-03-02,27,Robbery,Juice WRLD,['Hip Hop']
+2019-03-02,28,Better Now,Post Malone,"['Pop', 'Hip Hop']"
+2019-03-02,29,Sweet But Psycho,Ava Ma,['Pop']
+2019-03-02,30,Be Alright,Dean Lewis,['Pop']
+2019-03-02,31,Tequila,Dan + Shay,['Country']
+2019-03-02,32,Bury A Friend,Billie Eilish,['Pop']
+2019-03-02,33,I Like It,"Cardi B, Bad Bunny ","['Pop', 'Hip Hop']"
+2019-03-02,34,You Say,Lauren Daigle,
+2019-03-02,35,Leave Me Alone,Flipp Dinero,
+2019-03-02,36,Wake Up In The Sky,Gucci Mane ,['Hip Hop']
+2019-03-02,37,Close To Me,Ellie Goulding ,['Pop']
+2019-03-02,38,Baby Shark,Pinkfong,
+2019-03-02,39,Look Back At It,A Boogie Wit da Hoodie,['Hip Hop']
+2019-03-02,40,Mo Bamba,Sheck Wes,['Hip Hop']
+2019-03-02,41,Lucid Dreams,Juice WRLD,['Hip Hop']
+2019-03-02,42,Envy Me,Calboy,
+2019-03-02,43,Swervin,A Boogie Wit da Hoodie ,['Hip Hop']
+2019-03-02,44,Taki Taki,DJ Snake ,"['Electronic/Dance', 'Pop']"
+2019-03-02,45,This Is It,Scotty McCreery,['Country']
+2019-03-02,46,NASA,Ariana Grande,['Pop']
+2019-03-02,47,Backin' It Up,Pardison Fontaine ,
+2019-03-02,48,Needy,Ariana Grande,['Pop']
+2019-03-02,49,Red Room,Offset,['Hip Hop']
+2019-03-02,50,Talk,Khalid,['Pop']
+2019-03-02,51,Girl Like You,Jason Aldean,['Country']
+2019-03-02,52,Twerk,City Girls ,
+2019-03-02,53,Bloodline,Ariana Grande,['Pop']
+2019-03-02,54,What Makes You Country,Luke Bryan,['Country']
+2019-03-02,55,Bad Idea,Ariana Grande,['Pop']
+2019-03-02,56,Pure Water,Mustard ,['Hip Hop']
+2019-03-02,57,Fake Smile,Ariana Grande,['Pop']
+2019-03-02,58,Imagine,Ariana Grande,['Pop']
+2019-03-02,59,Take It From Me,Jordan Davis,
+2019-03-02,60,Mixed Personalities,YNW Melly ,['Hip Hop']
+2019-03-02,61,Lost In The Fire,Gesaffelstein ,
+2019-03-02,62,Ghostin,Ariana Grande,['Pop']
+2019-03-02,63,Nothing Breaks Like A Heart,Mark Ronson ,
+2019-03-02,64,This Feeling,The Chainsmokers ,['Pop']
+2019-03-02,65,Undecided,Chris Brown,"['R&B', 'Hip Hop']"
+2019-03-02,66,Millionaire,Chris Stapleton,
+2019-03-02,67,Here Tonight,Brett Young,['Country']
+2019-03-02,68,Calling My Spirit,Kodak Black,['Hip Hop']
+2019-03-02,69,Sixteen,Thomas Rhett,['Country']
+2019-03-02,70,Love Someone,Lukas Graham,
+2019-03-02,71,Armed And Dangerous,Juice WRLD,['Hip Hop']
+2019-03-02,72,Nights Like This,Kehlani ,"['Pop', 'R&B', 'Hip Hop']"
+2019-03-02,73,Close Friends,Lil Baby,['Hip Hop']
+2019-03-02,74,In My Head,Ariana Grande,['Pop']
+2019-03-02,75,Put A Date On It,Yo Gotti ,['Hip Hop']
+2019-03-02,76,Pure Cocaine,Lil Baby,['Hip Hop']
+2019-03-02,77,Down To The Honkytonk,Jake Owen,['Country']
+2019-03-02,78,Ella Quiere Beber,Anuel AA ,
+2019-03-02,79,Lovely,Billie Eilish ,['Pop']
+2019-03-02,80,Talk You Out Of It,Florida Georgia Line,['Country']
+2019-03-02,81,Miss Me More,Kelsea Ballerini,['Country']
+2019-03-02,82,Body,Loud Lu,['Electronic/Dance']
+2019-03-02,83,Burn Out,Midland,
+2019-03-02,84,Eyes On You,Chase Rice,['Country']
+2019-03-02,85,Who Do You Love,The Chainsmokers ,['Pop']
+2019-03-02,86,365,Zedd ,"['Electronic/Dance', 'Pop']"
+2019-03-02,87,Worth It,YK Osiris,
+2019-03-02,88,When The Party's Over,Billie Eilish,['Pop']
+2019-03-02,89,Yosemite,Travis Scott,['Hip Hop']
+2019-03-02,90,Shot Clock,Ella Mai,"['R&B', 'Hip Hop']"
+2019-03-02,91,There Was This Girl,Riley Green,
+2019-03-02,92,Con Calma,Daddy Yankee ,
+2019-03-02,93,On My Way To You,Cody Johnson,
+2019-03-02,94,Let Me Down Slowly,Alec Benjamin + Alessia Cara,['Pop']
+2019-03-02,95,Make Up,Ariana Grande,['Pop']
+2019-03-02,96,Make It Sweet,Old Dominion,['Country']
+2019-03-02,97,Good Girl,Dustin Lynch,['Country']
+2019-03-02,98,Arms Around You,,
+2019-03-02,99,Startender,A Boogie Wit da Hoodie ,['Hip Hop']
+2019-03-02,100,One That Got Away,Michael Ray,
