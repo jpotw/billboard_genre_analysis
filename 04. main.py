@@ -27,8 +27,8 @@ except FileNotFoundError:
     exit(1)
 
 try:
-    client_id = 'a220a0a540144dbe8ef79bc5c2beae3c'
-    client_secret = 'd6aea20a3b294ae28bc085bc6d4c8fda'
+    client_id = ''
+    client_secret = ''
     client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager, requests_session=requests_retry_session())
     print("Spotify 인증 완료")
